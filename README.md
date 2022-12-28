@@ -57,6 +57,16 @@ There is a human tendency to believe we are special and that AI cannot reach a s
 
 ---
 
+## Some things to look forward to?
+
+Like an obscure book that will not likely be green-lit a film?
+- Type a book title and AI will generate a movie from the text
+
+Your show didn't get a 2nd season?
+- Give AI the source material for the 2nd season and the 1st season, AI will generate a 2nd season in the similar style of the 1st
+
+---
+
 ## The Age of Exploration
 
 This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
