@@ -93,11 +93,20 @@ The scientific method has been our best way of understanding the world.
 
 ---
 
-# Gender Freedom
+## Gender Freedom
 
 A lower scarcity environment will reduce the pressure for strict gender specialisation. 
 
-Genders will have more freedom to explore a wider space.
+Genders will have more freedom to explore a wider space and experience less gender inequality.
+
+---
+
+## Racial Prejudice  
+
+Studies have shown even in people who show little to no conscious racial prejudice still hold subconscious racial prejudice.
+
+- Conscious prejudice can be regulated with social norms
+- Subconscious prejudice might be more deeply ingrained due to our long-term fear of scarcity, and might only be countered effectively with long-term abundance
 
 ---
 
