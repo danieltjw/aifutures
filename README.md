@@ -80,6 +80,16 @@ Authoritarian systems focuses on exploitation (narrow, higher entropy).
     - High Information Asymmetry 
         - Ruling class believing "You Can't Handle the Truth"
         - Misinformation, Disinformation
+        - Lack of science education
+
+---
+
+## On Science
+
+The scientific method has been our best way of understanding the world.
+
+- Science can be vulnerable to bad influences
+    - Scientific studies were used to promote smoking as healthy in the past
 
 ---
 
