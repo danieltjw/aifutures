@@ -93,6 +93,14 @@ The scientific method has been our best way of understanding the world.
 
 ---
 
+# Gender Freedom
+
+A lower scarcity environment will reduce the pressure for strict gender specialisation. 
+
+Genders will have more freedom to explore a wider space.
+
+---
+
 ## The Age of Exploration
 
 This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
