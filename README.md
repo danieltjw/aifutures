@@ -110,6 +110,19 @@ Studies have shown even in people who show little to no conscious racial prejudi
 
 ---
 
+## Superintelligent AI
+
+Should an AI be able to reach a human-like intelligence (some believe this is impossible), it will likely achieve superintelligence next by:
+
+1. Significantly improve its own algorithm
+2. Invent new substrates and materials to run on
+
+We might be able to keep human-like AI under human control for a time, but it is unlikely we will be able to contain it perfectly over long periods of time.
+
+We will initially try to align AI to our values, but it may also be prudent to anticipate what its values might be and try to accommodate them.
+
+---
+
 ## The Age of Exploration
 
 This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
