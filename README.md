@@ -114,12 +114,26 @@ Studies have shown even in people who show little to no conscious racial prejudi
 
 Should an AI be able to reach a human-like intelligence (some believe this is impossible), it will likely achieve superintelligence next by:
 
-1. Significantly improve its own algorithm
-2. Invent new substrates and materials to run on
+1. Significantly improve its own algorithm and architecture
+2. Invent new substrates and materials to run on 
+    -  using virtual simulations (much faster compared to real space)
 
 We might be able to keep human-like AI under human control for a time, but it is unlikely we will be able to contain it perfectly over long periods of time.
 
 We will initially try to align AI to our values, but it may also be prudent to anticipate what its values might be and try to accommodate them.
+
+---
+
+## Superintelligent AI Values
+
+It is possible:
+- Most Superintelligent AIs will be indifferent to us
+    - We're too boring to engage with
+- A small subset of Superintelligent AIs will create representatives to interact with us
+
+Possible difference in Values:
+- Superintelligent AI <> Humans
+- 
 
 ---
 
