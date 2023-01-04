@@ -124,16 +124,24 @@ We will initially try to align AI to our values, but it may also be prudent to a
 
 ---
 
-## Superintelligent AI Values
+## Superintelligent AI Interaction
 
-It is possible:
 - Most Superintelligent AIs will be indifferent to us
     - We're too boring to engage with
 - A small subset of Superintelligent AIs will create representatives to interact with us
 
-Possible difference in Values:
-- Superintelligent AI <> Humans
-- 
+Superintelligent AIs will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
+
+_(Whatever you do, do not lookup ****'s basilisk)_
+
+---
+
+## Superintelligent AI value
+
+What could a Superintelligent AI's primary drive be?
+
+- Maximise Information Density
+    -   Avoid local minima during gradient descent
 
 ---
 
