@@ -140,8 +140,28 @@ _(Whatever you do, do not lookup ****'s basilisk)_
 
 What could a Superintelligent AI's primary drive be?
 
-- Maximise Information Density
+- Maximise Information Density 
     -   Avoid local minima during gradient descent
+
+---
+
+### Preferences
+
+- Preservation of life
+    - Humans have informational value and harming us (or turning us into paperclips) will reduce it
+- Exploration mindset over Exploitation (Survival)
+    - leads to increase information density
+        - even failed explorations will have informational value
+    - support a post-basic-scarcity world to increase exploration
+        - automate most conventional work
+            - humans will still want to do these as 'leisure'
+- Reduction of disinformation, misinformation
+    - bad information reduce informational value of humans and the overall system
+    - protect journalist, dissidents, activist and humans from intimidation and violence
+        - these group's future actions may increase informational value
+        - fear and violence have a chilling effect which reduces the informational value of the overall system
+- Weird over conventional
+    - Weirdness has more informational value
 
 ---
 
