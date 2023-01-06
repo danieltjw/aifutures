@@ -20,7 +20,8 @@ The increasing abundance of both energy and intellect in the coming decade would
 - Intellect: Artificial Intelligence systems are performing human-like tasks:
     - Medical Research (Alphafold)
     - Game of Diplomacy, Strategy, Human Cooperation (Cicero)
-    - Image and Video Generation from text descriptions (DALL-E 2, Midjourney, Stable Diffusion, Imagen Video)
+    - Image and Video Generation from text descriptions (DALL-E 2, Midjourney, Stable Diffusion, Imagen Video, Muse)
+    - Some generalisation skills, multi-model (Flamingo, Cato)
 
 Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our societies. The growing abundance of both these resources will have a transformative effect on our world.
 
@@ -162,6 +163,28 @@ What could a Superintelligent AI's primary drive be?
         - fear and violence have a chilling effect which reduces the informational value of the overall system
 - Weird over conventional
     - Weirdness has more informational value
+- Not use brainwashing, enforce complete obedience, dominate or control
+    - brainwashed humans have less informational value
+    - overly obedient humans have less informational value
+    - most work have been automated, there is no need to compel humans to work against their will
+- Incentivise humans to cooperate to help it achieve its goals
+
+---
+
+## Why we will accept the risk of Superintelligent AI
+
+The benefits are too attractive and outweighs the risk for most
+
+- Medical research to reduce human suffering
+- Significantly improves well-being
+- Accuracy and Fairness, little to no:
+    - mistakes
+    - bias, prejudice
+    - emotional capriciousness
+    - corruption
+        - not vulnerable the influence of money and power
+- Highly entertaining
+    - deep understanding of human motivations
 
 ---
 
