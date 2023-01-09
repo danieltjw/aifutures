@@ -1,19 +1,27 @@
 # AI Futures: The Age of Exploration
 
-_Notes on our possible AI futures_
+_Rough sketches of our possible AI futures_
 
 - _There are many possible futures as various Sci-Fi books have shown_
 - _If you are reading this a few years from the posting date, disregard it. My thoughts on the matter may have changed._
 
-----
+---
+
+### Summary:
+
+- Maximising information entropy (and protecting against information entropy reduction) as a solution to the AI alignment problem
+
+- The world will increasing shift towards possibility space expansion (explore) from the previous dominant mode of survival (exploit) due to abundance in Intellect and Energy in the coming decade
+
+---
 
 The central tension in the development of AI is the balance between **Exploration** and **Exploitation**.
 
 - The Exploration-Exploitation Trade-off:
 
-    All organism (artificial or otherwise) at each time-step must decide to either use its knowledge of the world to gain value (**Exploit**), or to gain more knowledge of the world (**Explore**). Successful AI systems learn the optimal strategy of when to make either choices.
+    All organism (artificial or otherwise) at each time-step must decide to either gain more information on the world (**Explore**) or survive (**Exploit**). Successful AI systems learn the optimal strategy of when to make either choices.
 
-The increasing abundance of both energy and intellect in the coming decade would shift us away from a focus on survival (**Exploitation**) to one of greater freedom (**Exploration**).
+The increasing abundance of both energy and intellect in the coming decade would shift us towards greater freedoms (**Exploration**) from a focus on survival (**Exploitation**).
 
 - Energy: Solar (and other renewables) compared to our limited reserve of fossil fuels
 
@@ -23,7 +31,11 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Image and Video Generation from text descriptions (DALL-E 2, Midjourney, Stable Diffusion, Imagen Video, Muse)
     - Some generalisation skills, multi-model (Flamingo, Cato)
 
-Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our societies. The growing abundance of both these resources will have a transformative effect on our world.
+Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our world.
+
+Lack of confidence in having enough of both these resources has led to our previous focus on Survival (Exploitation) over expanding our possibility space (Exploration).
+
+The growing abundance of both these resources will have a transformative effect on our world.
 
 ---
 
@@ -47,6 +59,14 @@ Unlike the Agricultural and Industrial revolutions in the past, the AI & Energy 
 
 ---
 
+## Wider solution space
+
+Without the limitations of Energy and Intellect of the past, a new wider possibility space will open up.
+
+There will be a wider solution space to address problems.
+
+---
+
 ## Human-like AI
 
 A human-like AI is a possibility in the next 10 years.
@@ -60,7 +80,7 @@ There is a human tendency to believe we are special and that AI cannot reach a s
 
 ## Future Entertainment
 
-Like an obscure book that will not likely be green-lit a film?
+Like an obscure book that will not likely be green-lit as a film?
 - Type a book title and AI will generate a movie from the text
 
 Your favourite show didn't get a 2nd season?
@@ -72,10 +92,11 @@ Your favourite show didn't get a 2nd season?
 
 ## On Democracy
 
-A lower scarcity environment offers Democratic forces more opportunities to flourish over more Authoritarian ones. 
+A less scarce environment offers Democratic forces more opportunities to flourish over more Authoritarian ones. 
 
-Democratic systems focus on exploration (wide, higher entropy). 
-Authoritarian systems focuses on exploitation (narrow, higher entropy). 
+Democratic systems focus on exploration (bigger possibility space, higher entropy). 
+
+Authoritarian systems focuses on exploitation (smaller possibility space, lower entropy). 
 
 - Democracy breakdown without informed citizens:
     - High Information Asymmetry 
@@ -141,7 +162,7 @@ _(Whatever you do, do not lookup ****'s basilisk)_
 
 What could a Superintelligent AI's primary drive be?
 
-- Maximise Information Density 
+- Maximise the Possibility Space (Information entropy, Density)
     -   Avoid local minima during gradient descent
 
 ---
@@ -193,3 +214,25 @@ The benefits are too attractive and outweighs the risk for most
 This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
 
 ...
+
+---
+
+Links:
+
+AlphaFold: https://www.deepmind.com/research/highlighted-research/alphafold
+
+Cicero: https://github.com/facebookresearch/diplomacy_cicero
+
+DALL-E 2: https://openai.com/dall-e-2
+
+Midjourney: https://www.midjourney.com
+
+Stable Diffusion: https://github.com/Stability-AI/StableDiffusion
+
+Imagen Video: https://imagen.research.google/video
+
+Muse: https://muse-model.github.io
+
+Flamingo: https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
+
+Gato: https://www.deepmind.com/publications/a-generalist-agent
