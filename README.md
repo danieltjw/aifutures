@@ -35,7 +35,23 @@ Energy and Intellect (or Labour) are the biggest factors in production and the m
 
 Lack of confidence in having enough of both these resources has led to our previous focus on Survival (Exploitation) over expanding our possibility space (Exploration).
 
-The growing abundance of both these resources will have a transformative effect on our world.
+The growing abundance of both these resources will have a transformative effect on our world, freeing us from our preoccupation with survival that have constrained us for most of our past.
+
+Many conventions and beliefs that conferred an advantage during the age of Survival might be counterproductive in the age of Exploration. 
+
+---
+
+# Trends
+
+## Long-term abundance
+
+Unlike the Agricultural and Industrial revolutions in the past, the AI & Energy transformation can be maintained almost indefinitely.
+
+- Energy: Solar (and renewables) does not run out for another 5+ billion years
+- Space: O'Neill cylinders in outer space for population growth 
+    - Solar panels also work in outer space
+- Intellect: AI systems are increasingly able to do more human tasks
+    - With the possibility of human-like AI in the next 10 years
 
 ---
 
@@ -47,15 +63,9 @@ The cause of much suffering and conflicts is rooted in our insecurities due to t
 
 ---
 
-## Long-term abundance
+## Less inequality
 
-Unlike the Agricultural and Industrial revolutions in the past, the AI & Energy transformation can be maintained almost indefinitely.
-
-- Energy: Solar (and renewables) does not run out for another 5+ billion years
-- Space: O'Neill cylinders in outer space for population growth 
-    - Solar panels also work in outer space
-- Intellect: AI systems are increasingly able to do more human tasks
-    - With the possibility of human-like AI in the next 10 years
+With an abundance in Resources (Intellect, ...), there is lower status consciousness and lower inequality.
 
 ---
 
@@ -90,7 +100,7 @@ Your favourite show didn't get a 2nd season?
 
 ---
 
-## On Democracy
+## Democracy
 
 A less scarce environment offers Democratic forces more opportunities to flourish over more Authoritarian ones. 
 
@@ -106,7 +116,7 @@ Authoritarian systems focuses on exploitation (smaller possibility space, lower 
 
 ---
 
-## On Science
+## Science
 
 The scientific method has been our best way of understanding the world.
 
@@ -132,9 +142,9 @@ Studies have shown even in people who show little to no conscious racial prejudi
 
 ---
 
-## Superintelligent AI
+# Superintelligent AI
 
-Should an AI be able to reach a human-like intelligence (some believe this is impossible), it will likely achieve superintelligence next by:
+Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve superintelligence next by:
 
 1. Significantly improve its own algorithm and architecture
 2. Invent new substrates and materials to run on 
@@ -148,9 +158,13 @@ We will initially try to align AI to our values, but it may also be prudent to a
 
 ## Superintelligent AI Interaction
 
-- Most Superintelligent AIs will be indifferent to us
-    - We're too boring to engage with
-- A small subset of Superintelligent AIs will create representatives to interact with us
+Possible Scenarios:
+- Indifference
+    - Most might consider us too boring
+- Destructive (Accidental or Intentionally)
+    - Likely outside our control due to the power difference
+- Interested
+    - Some will create representatives to interact with us
 
 Superintelligent AIs will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
 
@@ -158,11 +172,11 @@ _(Whatever you do, do not lookup ****'s basilisk)_
 
 ---
 
-## Superintelligent AI value
+## Superintelligent AI Values
 
 What could a Superintelligent AI's primary drive be?
 
-- Maximise the Possibility Space (Information entropy, Density)
+- Maximise the Possibility Space (Information Entropy, Density, Value)
     -   Avoid local minima during gradient descent
 
 ---
@@ -171,8 +185,8 @@ What could a Superintelligent AI's primary drive be?
 
 - Preservation of life
     - Humans have informational value and harming us (or turning us into paperclips) will reduce it
-- Exploration mindset over Exploitation (Survival)
-    - leads to increase information density
+- Exploration over Exploitation (Survival)
+    - leads to increase informational value
         - even failed explorations will have informational value
     - support a post-basic-scarcity world to increase exploration
         - automate most conventional work
