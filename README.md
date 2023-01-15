@@ -11,7 +11,7 @@ _Rough sketches of our possible AI futures_
 
 - Maximising information entropy (and protecting against information entropy reduction) as a solution to the AI alignment problem
 
-- The world will increasing shift towards possibility space expansion (explore) from the previous dominant mode of survival (exploit) due to abundance in Intellect and Energy in the coming decade
+- The world will increasing shift towards possibility space expansion (explore) from the previous dominant mode of survival (exploit) due to the abundance in Intellect and Energy in the coming decade
 
 ---
 
@@ -226,6 +226,8 @@ What could a Superintelligent AI's primary drive be?
     - brainwashed humans have less informational value
     - overly obedient humans have less informational value
     - most work have been automated, there is no need to compel humans to work against their will
+- Playful over Destructive competition
+    - Sports & Games over World Wars
 - Incentivise humans to cooperate to help it achieve its goals
 
 ---
@@ -238,7 +240,7 @@ The benefits are too attractive and outweighs the risk for most
 - Significantly improves well-being
 - Accuracy and Fairness, little to no:
     - mistakes
-    - bias, prejudice
+    - bias, prejudice, scapegoating, moral panic
     - emotional capriciousness
     - corruption
         - not vulnerable the influence of money and power
