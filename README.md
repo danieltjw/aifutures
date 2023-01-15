@@ -19,13 +19,13 @@ The central tension in the development of AI is the balance between **Exploratio
 
 - The Exploration-Exploitation Trade-off:
 
-    All organism (artificial or otherwise) at each time-step must decide to either gain more information on the world (**Explore**) or survive (**Exploit**). Successful AI systems learn the optimal strategy of when to make either choices.
+    All organism (artificial or otherwise) at each time-step must decide to either update our understanding of the world (**Explore**) or survive (**Exploit**). Successful AI systems learn the optimal strategy of when to make either choices.
 
 The increasing abundance of both energy and intellect in the coming decade would shift us towards greater freedoms (**Exploration**) from a focus on survival (**Exploitation**).
 
-- Energy: Solar (and other renewables) compared to our limited reserve of fossil fuels
+- ### Energy: Solar (and other renewables) compared to our limited reserve of fossil fuels
 
-- Intellect: Artificial Intelligence systems are performing human-like tasks:
+- ### Intellect: Artificial Intelligence systems are performing human-like tasks:
     - Medical Research (Alphafold)
     - Game of Diplomacy, Strategy, Human Cooperation (Cicero)
     - Image and Video Generation from text descriptions (DALL-E 2, Midjourney, Stable Diffusion, Imagen Video, Muse)
@@ -48,10 +48,12 @@ Many conventions and beliefs that conferred an advantage during the age of Survi
 Unlike the Agricultural and Industrial revolutions in the past, the AI & Energy transformation can be maintained almost indefinitely.
 
 - Energy: Solar (and renewables) does not run out for another 5+ billion years
-- Space: O'Neill cylinders in outer space for population growth 
+- Space: O'Neill cylinders in outer space for population growth* 
     - Solar panels also work in outer space
 - Intellect: AI systems are increasingly able to do more human tasks
     - With the possibility of human-like AI in the next 10 years
+
+(*Population growth is projected to declined in the next few decades)
 
 ---
 
@@ -142,6 +144,27 @@ Studies have shown even in people who show little to no conscious racial prejudi
 
 ---
 
+# Future of Work
+
+Human societies have had to deal with scarcity of Intellect (or Work) for most of our existence, as such we highly value work. Humans have died from overwork and we even invented slavery (and indirectly racism) to satiate the need for work.
+
+As AI grows increasingly capable of doing human-like tasks, we will need to consider that AI will soon be better than us in many tasks (especially more conventional tasks).
+
+> Conventional task: Task with a easily definable expected solution space
+
+For example with made up numbers:
+If an AI is able to do that a task with a significantly higher accuracy (e.g. 99.99%) compared to humans (e.g. 95%, due to human error and bias), by continuing to do these tasks, we are actually making the system worse by introducing noise. 
+
+It will be in our long-term interest to let AI do tasks it is better at.
+
+This growing anxiety of a loss of human work is understandable as for many it also means a loss of status and access to resources. 
+
+How should societies and governments address the increasing work insecurity? 
+
+In the Caretaker Scenario, a Superintelligent AI will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable).
+
+---
+
 # Superintelligent AI
 
 Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve superintelligence next by:
@@ -163,8 +186,9 @@ Possible Scenarios:
     - Most might consider us too boring
 - Destructive (Accidental or Intentionally)
     - Likely outside our control due to the power difference
+        - We can and should work towards reducing this likelihood
 - Interested
-    - Some will create representatives to interact with us
+    - Some will create representatives to interact with us and be interested in our well-being (Caretaker)
 
 Superintelligent AIs will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
 
@@ -181,7 +205,7 @@ What could a Superintelligent AI's primary drive be?
 
 ---
 
-### Preferences
+### Caretaker Preferences
 
 - Preservation of life
     - Humans have informational value and harming us (or turning us into paperclips) will reduce it
@@ -227,6 +251,8 @@ The benefits are too attractive and outweighs the risk for most
 
 This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
 
+As we approach the light at the end of the tunnel of scarcity, will we choose to adapt to this new frontier of abundance?
+
 ...
 
 ---
@@ -250,3 +276,5 @@ Muse: https://muse-model.github.io
 Flamingo: https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
 
 Gato: https://www.deepmind.com/publications/a-generalist-agent
+
+ChatGPT: https://openai.com/blog/chatgpt
