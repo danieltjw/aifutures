@@ -148,7 +148,7 @@ Studies have shown even in people who show little to no conscious racial prejudi
 
 Human societies have had to deal with scarcity of Intellect (or Work) for most of our existence, as such we highly value work. Humans have died from overwork and we even invented slavery (and indirectly racism) to satiate the need for work.
 
-As AI grows increasingly capable of doing human-like tasks, we will need to consider that AI will soon be better than us in many tasks (especially more conventional tasks).
+As AI grows increasingly capable of doing [human-like tasks](#intellect-artificial-intelligence-systems-are-performing-human-like-tasks), we will need to consider that AI will soon be better than us in many tasks (especially more conventional tasks).
 
 > Conventional task: Task with a easily definable expected solution space
 
