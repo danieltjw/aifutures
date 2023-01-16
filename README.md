@@ -79,6 +79,14 @@ There will be a wider solution space to address problems.
 
 ---
 
+## Longer-term view
+
+Survival tends to favour tunnel vision which focuses on the short-term first order consequences and excludes many medium-term higher order consequences.
+
+- Invest in short-term shareholder profits over the longer-term health of vulnerable stakeholders
+
+---
+
 ## Human-like AI
 
 A human-like AI is a possibility in the next 10 years.
@@ -253,7 +261,7 @@ The benefits are too attractive and outweighs the risk for most
 
 This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
 
-As we approach the light at the end of the tunnel of scarcity, will we choose to adapt to this new frontier of abundance?
+As we approach the light at the end of the tunnel of scarcity, will we choose to adapt to this new frontier of abundance or turn a blind eye?
 
 ...
 
