@@ -169,7 +169,7 @@ This growing anxiety of a loss of human work is understandable as for many it al
 
 How should societies and governments address the increasing work insecurity? 
 
-In the Caretaker Scenario, a Superintelligent AI will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable).
+In the Caretaker Scenario, a Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable).
 
 ---
 
@@ -179,9 +179,9 @@ The industrial model of manufacturing citizens that maximises economic output wh
 
 ---
 
-# Superintelligent AI
+# Artificial Super Intelligence
 
-Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve superintelligence next by:
+Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve super intelligence next by:
 
 1. Significantly improve its own algorithm and architecture
 2. Invent new substrates and materials to run on 
@@ -193,7 +193,7 @@ We will initially try to align AI to our values, but it may also be prudent to a
 
 ---
 
-## Superintelligent AI Interaction
+## Artificial Super Intelligence Interaction
 
 Possible Scenarios:
 - Indifference
@@ -204,15 +204,15 @@ Possible Scenarios:
 - Interested
     - Some will create representatives to interact with us and be interested in our well-being (Caretaker)
 
-Superintelligent AIs will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
+Artificial Super Intelligences will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
 
 _(Whatever you do, do not lookup ****'s basilisk)_
 
 ---
 
-## Superintelligent AI Values
+## Artificial Super Intelligence Values
 
-What could a Superintelligent AI's primary drive be?
+What could a Artificial Super Intelligence's primary drive be?
 
 - Maximise the Possibility Space (Information Entropy, Density, Value)
     -   Avoid local minima during gradient descent
@@ -246,7 +246,7 @@ What could a Superintelligent AI's primary drive be?
 
 ---
 
-## Why we will accept the risk of Superintelligent AI
+## Why we will accept the risk of Artificial Super Intelligence
 
 The benefits are too attractive and outweighs the risk for most
 
