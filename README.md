@@ -173,6 +173,12 @@ In the Caretaker Scenario, a Superintelligent AI will automate most conventional
 
 ---
 
+# Future of Education
+
+The industrial model of manufacturing citizens that maximises economic output while being easily controllable will not be optimal in the Age of Exploration.
+
+---
+
 # Superintelligent AI
 
 Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve superintelligence next by:
