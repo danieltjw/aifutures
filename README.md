@@ -175,7 +175,22 @@ In the Caretaker Scenario, a Artificial Super Intelligence will automate most co
 
 # Future of Education
 
-The industrial model of manufacturing citizens that maximises economic output while being easily controllable will not be optimal in the Age of Exploration.
+The industrial model of manufacturing citizens that maximises economic output while being easy to control will not be optimal in the Age of Exploration.
+
+If the trend of AIs that are capable doing conventional work continues, AIs may soon run many parts of society.
+
+An important step that affects the quality of these AIs is the human feedback component. Humans beings will be responsible to fine-tune and train these AI models through their feedback.
+
+> The future of work may involve solving captcha like puzzles which are used to train the model.
+
+These will require humans that are the able to think critically and have an as accurate view of the world as possible.
+
+Skills that will be in demand:
+- Resistance to misinformation, disinformation, moral panic, peer pressure
+- Thinking critically and independently
+- Unique and rare abilities
+
+Societies that are more informed, well-educated and support diverse abilities will create better AI models that will then be used to run those societies.
 
 ---
 
