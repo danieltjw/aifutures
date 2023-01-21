@@ -19,7 +19,7 @@ The central tension in the development of AI is the balance between **Exploratio
 
 - The Exploration-Exploitation Trade-off:
 
-    All organism (artificial or otherwise) at each time-step must decide to either update our understanding of the world (**Explore**) or survive (**Exploit**). Successful AI systems learn the optimal strategy of when to make either choices.
+    All organism (artificial or otherwise) at each time-step must decide to either update their understanding of the world (**Explore**) or survive (**Exploit**). Successful AI systems learn the optimal strategy of when to make either choices.
 
 The increasing abundance of both energy and intellect in the coming decade would shift us towards greater freedoms (**Exploration**) from a focus on survival (**Exploitation**).
 
@@ -29,7 +29,9 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Medical Research (Alphafold)
     - Game of Diplomacy, Strategy, Human Cooperation (Cicero)
     - Image and Video Generation from text descriptions (DALL-E 2, Midjourney, Stable Diffusion, Imagen Video, Muse)
+    - Intelligent Dialogue Simulation (ChatGPT)
     - Some generalisation skills, multi-model (Flamingo, Cato)
+    - Robotics in real time (Boston Dynamics's Atlas, DeepMind's Adaptive Agent)
 
 Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our world.
 
@@ -169,7 +171,7 @@ This growing anxiety of a loss of human work is understandable as for many it al
 
 How should societies and governments address the increasing work insecurity? 
 
-In the Caretaker Scenario, a Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable).
+_In the Caretaker Scenario, a Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
 
 ---
 
@@ -181,16 +183,35 @@ If the trend of AIs that are capable doing conventional work continues, AIs may 
 
 An important step that affects the quality of these AIs is the human feedback component. Humans beings will be responsible to fine-tune and train these AI models through their feedback.
 
-> The future of work may involve solving captcha like puzzles which are used to train the model.
+> The future of work may involve solving engaging CAPTCHA like puzzles which are used to train the model.
 
 These will require humans that are the able to think critically and have an as accurate view of the world as possible.
 
 Skills that will be in demand:
-- Resistance to misinformation, disinformation, moral panic, peer pressure
+- Resistance to misinformation, disinformation, moral panic, peer pressure, self-censorship
 - Thinking critically and independently
+- Willingness to accept new good information (Update one's model of the world)
 - Unique and rare abilities
 
 Societies that are more informed, well-educated and support diverse abilities will create better AI models that will then be used to run those societies.
+
+---
+
+# Future of Capitalism
+
+Abundant Intellect and Energy in the coming decades will reduce the cost of living (if inequality does not increase).
+
+_In the Caretaker Scenario, a Artificial Super Intelligence will support a post-basic-scarcity world._
+
+_Scarcity will still exist in a post-basic-scarcity world and capitalistic free-market forces is the best method to maximise the possibility space._
+
+_There will not be a need to use the fear of hunger, homelessness or a loss of status to compel humans to work._
+
+_Lack of access to food and malnutrition will be a thing of the past*._
+
+_The reduction in anxiety from living in post-basic-scarcity will free humans to pursue more unconventional work which will increase the informational value and possibility space that the AI is trying to maximise._
+
+*We already have the capability to produce enough food for everyone
 
 ---
 
@@ -272,7 +293,9 @@ The benefits are too attractive and outweighs the risk for most
     - bias, prejudice, scapegoating, moral panic
     - emotional capriciousness
     - corruption
-        - not vulnerable the influence of money and power
+- Not vulnerable to:
+    - influence of money and power
+    - deception
 - Highly entertaining
     - deep understanding of human motivations
 
@@ -285,6 +308,10 @@ This new age of exploration will necessitate a different way of thinking and car
 As we approach the light at the end of the tunnel of scarcity, will we choose to adapt to this new frontier of abundance or turn a blind eye?
 
 ...
+
+---
+
+# Risks
 
 ---
 
