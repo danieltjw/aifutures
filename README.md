@@ -9,9 +9,9 @@ _Rough sketches of our possible AI futures_
 
 ### Summary:
 
-- Maximising information entropy (and protecting against information entropy reduction) as a solution to the AI alignment problem
-
 - The world will increasing shift towards possibility space expansion (explore) from the previous dominant mode of survival (exploit) due to the abundance in Intellect and Energy in the coming decade
+
+- Maximising Possibility Space (Entropy) as a solution to the AI alignment problem
 
 ---
 
@@ -26,12 +26,13 @@ The increasing abundance of both energy and intellect in the coming decade would
 - ### Energy: Solar (and other renewables) compared to our limited reserve of fossil fuels
 
 - ### Intellect: Artificial Intelligence systems are performing human-like tasks:
-    - Medical Research (Alphafold)
-    - Game of Diplomacy, Strategy, Human Cooperation (Cicero)
-    - Image and Video Generation from text descriptions (DALL-E 2, Midjourney, Stable Diffusion, Imagen Video, Muse)
-    - Intelligent Dialogue Simulation (ChatGPT)
-    - Some generalisation skills, multi-model (Flamingo, Cato)
-    - Robotics in real time (Boston Dynamics's Atlas, DeepMind's Adaptive Agent)
+    - Medical Research ([AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold))
+    - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
+    - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
+    - Intelligent Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt))
+    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent))
+    - Robotics in real time (Boston Dynamics's [Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8), DeepMind's [Adaptive Agent](https://sites.google.com/view/adaptive-agent))
+    - Game of Go, Superhuman ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)'s move 37)
 
 Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our world.
 
@@ -190,7 +191,7 @@ These will require humans that are the able to think critically and have an as a
 Skills that will be in demand:
 - Resistance to misinformation, disinformation, moral panic, peer pressure, self-censorship
 - Thinking critically and independently
-- Willingness to accept new good information (Update one's model of the world)
+- Willingness to accept new information (Update one's model of the world)
 - Unique and rare abilities
 
 Societies that are more informed, well-educated and support diverse abilities will create better AI models that will then be used to run those societies.
@@ -212,6 +213,22 @@ _Lack of access to food and malnutrition will be a thing of the past*._
 _The reduction in anxiety from living in post-basic-scarcity will free humans to pursue more unconventional work which will increase the informational value and possibility space that the AI is trying to maximise._
 
 *We already have the capability to produce enough food for everyone
+
+---
+
+# Future of Art
+
+Art was previously seen as the last bastion that AI would be able to emulate. 2022 shattered those expectations with easily accessible image generation from text phrases.
+
+These AI models are able to learn concepts by training with a large volume of images. These concepts can then be combined into unique and new images and videos.
+
+It seems beneficial in the long run for the companies of these AI systems to incentivise artist to contribute more of their works to create the most capable AI systems.
+
+Human involvement with art will move from creating to curation.
+
+For example:
+- Past: 90% Creating : 10% Curation
+- Future: 20% Creating : 80% Curation
 
 ---
 
@@ -307,11 +324,13 @@ This new age of exploration will necessitate a different way of thinking and car
 
 As we approach the light at the end of the tunnel of scarcity, will we choose to adapt to this new frontier of abundance or turn a blind eye?
 
-...
-
 ---
 
-# Risks
+## Risks
+
+If we consider the Caretaker scenario as the best to aim for, we will need to be cautious of the many missteps that may prevent us to get there.
+
+...
 
 ---
 
@@ -331,8 +350,14 @@ Imagen Video: https://imagen.research.google/video
 
 Muse: https://muse-model.github.io
 
+ChatGPT: https://openai.com/blog/chatgpt
+
 Flamingo: https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
 
 Gato: https://www.deepmind.com/publications/a-generalist-agent
 
-ChatGPT: https://openai.com/blog/chatgpt
+Boston Dynamics's Atlas: https://www.youtube.com/watch?v=XPVC4IyRTG8
+
+DeepMind's Adaptive Agent: https://sites.google.com/view/adaptive-agent
+
+AlphaGo: https://www.deepmind.com/research/highlighted-research/alphago
