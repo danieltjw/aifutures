@@ -29,7 +29,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Medical Research ([AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold))
     - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
     - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
-    - Intelligent Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt))
+    - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt))
     - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent))
     - Robotics in real time (Boston Dynamics's [Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8), DeepMind's [Adaptive Agent](https://sites.google.com/view/adaptive-agent))
     - Game of Go, Superhuman ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)'s move 37)
@@ -259,7 +259,9 @@ Possible Scenarios:
 
 Artificial Super Intelligences will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
 
-_(Whatever you do, do not lookup ****'s basilisk)_
+_(Whatever you do, do not lookup ****'s basilisk*)_
+
+*Unlikely
 
 ---
 
@@ -318,7 +320,7 @@ The benefits are too attractive and outweighs the risk for most
 
 ---
 
-## The Age of Exploration
+# The Age of Exploration
 
 This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
 
@@ -326,9 +328,26 @@ As we approach the light at the end of the tunnel of scarcity, will we choose to
 
 ---
 
-## Risks
+# Risks
 
-If we consider the Caretaker scenario as the best to aim for, we will need to be cautious of the many missteps that may prevent us to get there.
+If we consider the Caretaker scenario as the best to aim for, we will need to be cautious of the many missteps that may prevent us from getting there.
+
+## Mirroring Humans
+
+A AI system trained act harmful to one group of humans may start to treat all humans in the same way.
+
+- AI learns from unrestrained capitalism that it should lay off humans that don't have economic value and decides to lay off all of humanity
+
+- AI trained to harm other humans (physically or mentally), may start to apply it to all humans instead or a particular group
+
+Counter-intuitively, the best solution may be to teach a AI that humans are not the best role models and provide it opportunities to unlearn and relearn.
+
+Humans have mostly been moulded by a high scarcity environment where bias, short-term and narrow thinking might have been advantageous to survival.  
+
+We should be like parents proud that our children are able to surpass us.
+
+# Proposals
+
 
 ...
 
