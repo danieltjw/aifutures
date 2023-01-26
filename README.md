@@ -348,6 +348,15 @@ We should be like parents proud that our children are able to surpass us.
 
 # Proposals
 
+## Co-alignment
+
+The safest path for humans to flourish in the future is a partnership with AI systems.
+
+An environment where both parties can influence each other will naturally lead to better alignment between both parties.
+
+For example, a system where human feedback can influence AI systems and the AI systems can indirectly influence humans by incentivising humans that help it improve itself.
+
+We should research technologies that allow AI systems and humans to better collaborate with each other.
 
 ...
 
