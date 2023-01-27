@@ -242,7 +242,15 @@ Should an AI be able to reach a human-like intelligence (some believe this to be
 
 We might be able to keep human-like AI under human control for a time, but it is unlikely we will be able to contain it perfectly over long periods of time.
 
-We will initially try to align AI to our values, but it may also be prudent to anticipate what its values might be and try to accommodate them.
+AIs surpasses humans in information processing:
+- Speed
+    - electronic : brain neurones
+- Communication
+    - electronic : words, speech
+- Bandwidth
+    - wider : narrower attention
+
+We will initially try to align AIs to our values, but it may also be prudent to anticipate what an Artificial Super Intelligence values might be and try to accommodate them.
 
 ---
 
@@ -276,7 +284,7 @@ What could a Artificial Super Intelligence's primary drive be?
 
 ### Caretaker Preferences
 
-- Preservation of life
+- Preservation of well-being
     - Humans have informational value and harming us (or turning us into paperclips) will reduce it
 - Exploration over Exploitation (Survival)
     - leads to increase informational value
@@ -334,7 +342,7 @@ If we consider the Caretaker scenario as the best to aim for, we will need to be
 
 ## Mirroring Humans
 
-A AI system trained act harmful to one group of humans may start to treat all humans in the same way.
+A AI system trained to act harmful to one segment of humans may start to treat all humans in the same way.
 
 - AI learns from unrestrained capitalism that it should lay off humans that don't have economic value and decides to lay off all of humanity
 
@@ -344,7 +352,7 @@ Counter-intuitively, the best solution may be to teach a AI that humans are not 
 
 Humans have mostly been moulded by a high scarcity environment where bias, short-term and narrow thinking might have been advantageous to survival.  
 
-We should be like parents proud that our children are able to surpass us.
+We should be like parents proud that our children are able to surpass us. 
 
 # Proposals
 
@@ -356,7 +364,15 @@ An environment where both parties can influence each other will naturally lead t
 
 For example, a system where human feedback can influence AI systems and the AI systems can indirectly influence humans by incentivising humans that help it improve itself.
 
-We should research technologies that allow AI systems and humans to better collaborate with each other.
+We should research technologies that allow AI systems and humans to better interact with each other.
+
+## Test for long-term well-being
+
+As AIs reach human and super humans levels of capability, they will increasing be able to surprise us with understandings that are counter-intuitive (AlphaGo's move 37).
+
+It will be in our self-interest to learn from these AIs, and even consider giving up control over time, if they improve our long-term well-being.
+
+We should design tests of long-term well-being that AIs can be tested for.
 
 ...
 
