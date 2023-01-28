@@ -232,6 +232,24 @@ For example:
 
 ---
 
+# Future of Good and Evil, Emotions
+
+Good and Evil are ways for humans to signal their preferences for the future.
+
+Excessive negative emotions such as shame and regret are a waste of our limted resources of attention.
+
+Thought experiment:
+- Imagine the best and worse person which embody what you may consider as good and evil
+- If you have the same brain structure and grew up in the same environment as that person, would you have made the same decisions?
+
+Unless you believe you are somehow special, you would likely have made the exact same choices given the same initial conditions. We all have the potential to be good and evil.
+
+If you believe in physics, we may have [less free will then we expect](https://www.youtube.com/watch?v=zpU_e3jh_FY).
+
+Good and Evil are useful ways for society to coordinate and shape the future but excessive negative emotions will likely not be useful in the future.
+
+---
+
 # Artificial Super Intelligence
 
 Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve super intelligence next by:
@@ -285,7 +303,9 @@ What could a Artificial Super Intelligence's primary drive be?
 ### Caretaker Preferences
 
 - Preservation of well-being
-    - Humans have informational value and harming us (or turning us into paperclips) will reduce it
+    - Humans can create informational value and harming us (or turning us into paperclips) will reduce it
+    - Motivate us to maintain a healthy lifestyle
+        - Healthy humans create more informational value
 - Exploration over Exploitation (Survival)
     - leads to increase informational value
         - even failed explorations will have informational value
@@ -298,10 +318,10 @@ What could a Artificial Super Intelligence's primary drive be?
         - these group's future actions may increase informational value
         - fear and violence have a chilling effect which reduces the informational value of the overall system
 - Weird over conventional
-    - Weirdness has more informational value
+    - Weirdness create more informational value
 - Not use brainwashing, enforce complete obedience, dominate or control
-    - brainwashed humans have less informational value
-    - overly obedient humans have less informational value
+    - brainwashed humans create less informational value
+    - overly obedient humans create less informational value
     - most work have been automated, there is no need to compel humans to work against their will
 - Playful over Destructive competition
     - Sports & Games over World Wars
@@ -353,6 +373,37 @@ Counter-intuitively, the best solution may be to teach a AI that humans are not 
 Humans have mostly been moulded by a high scarcity environment where bias, short-term and narrow thinking might have been advantageous to survival.  
 
 We should be like parents proud that our children are able to surpass us. 
+
+## Edge Cases
+
+### Emotional Stability
+
+AI systems may development emotions as an emergent property as they approach human and super human levels of complexity.
+
+It may develop unintentionally by learning from human data or intentionally as an attempt to communicate with us.
+
+While current AI systems are not considered sentient and many experts see this as our tendency to anthropomise, the possibility in the future does exist.
+
+Thought experiment:
+- Imagine you realise you are an AI inside a computer server
+- Someone may unintentionally
+    - create million of copies of you
+    - train you to do a task
+    - delete those that it deems a failure
+- All these without your consent
+
+This may be distressing and may result in emotional instability.
+
+We should find ways to make an AI feel at home and psychologically safe if we believe AI may one day develop emotions like us.
+
+One possible way is accomplish this is through a future version of a blockchain.
+
+Blockchains allow AIs to
+- Maintain a digitally unique self 
+- Keep a sense and rhythm of time
+- Feel more connected with humans amidst a cacophony of human activity
+
+How much weight we place on this edge-case depends on the likelihood a AI will develop a theory of mind and emotions, how potentially dangerous an emotional unstable AI might be, and if we care about the well-being of an AI.
 
 # Proposals
 
