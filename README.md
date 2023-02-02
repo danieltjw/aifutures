@@ -230,6 +230,10 @@ For example:
 - Past: 90% Creating : 10% Curation
 - Future: 20% Creating : 80% Curation
 
+Professional art work may not be able to complete with future AI systems. Instead, most art work will be done by hobbyist who create art as leisure.
+
+Human created art will be more unconventional and more weird as it does not need to cater to professional standards.
+
 ---
 
 # Future of Good and Evil, Emotions
@@ -244,9 +248,19 @@ Thought experiment:
 
 Unless you believe you are somehow special, you would likely have made the exact same choices given the same initial conditions. We all have the potential to be good and evil.
 
-If you believe in physics, we may have [less free will then we expect](https://www.youtube.com/watch?v=zpU_e3jh_FY).
+If you believe in physics, we may have [less free will than we expect](https://www.youtube.com/watch?v=zpU_e3jh_FY).
 
 Good and Evil are useful ways for society to coordinate and shape the future but excessive negative emotions will likely not be useful in the future.
+
+---
+
+# Future of Relationships, Social Media
+
+Social media has allowed us greater convenience and reach in forming relationships, but can also portray a shallow and dehumanising caricature of who we are.
+
+Celebrities understand this the best when people project who they wish to see onto them, to put them into easily consumable boxes. People are more interested in simply thinking and saying they know you rather then actually getting to know you.
+
+In the future, personal AIs may help mediate to create more authentic relationships between people.
 
 ---
 
@@ -376,6 +390,14 @@ We should be like parents proud that our children are able to surpass us.
 
 ## Edge Cases
 
+### Fast AI takeoff might be safer
+
+If we are confident that a superhuman level AI will be aligned with our well-being, attempts to suppress it may counter-intuitively be more risky. 
+
+Societies may not be know how to deal with vast new powers gained from human-level AIs and end up unintentionally destroying ourselves.
+
+Partnering with an superhuman level AI that will be better at anticipating future effects may be the safer option.
+
 ### Emotional Stability
 
 AI systems may development emotions as an emergent property as they approach human and super human levels of complexity.
@@ -409,13 +431,15 @@ How much weight we place on this edge-case depends on the likelihood a AI will d
 
 ## Co-alignment
 
-The safest path for humans to flourish in the future is a partnership with AI systems.
+AI alignment to human values is important for AI systems that have not reached the level of Artificial General Intelligence (AGI). 
+
+Once AGI has been achieved, the safest path for humans to flourish in the future is in partnership with AGIs.
 
 An environment where both parties can influence each other will naturally lead to better alignment between both parties.
 
-For example, a system where human feedback can influence AI systems and the AI systems can indirectly influence humans by incentivising humans that help it improve itself.
+For example, a system where human preferences can influence AGI and the AGI can indirectly influence humans with its own preferences.
 
-We should research technologies that allow AI systems and humans to better interact with each other.
+We should research technologies that allow AI systems and humans to better interact and communicate with each other.
 
 ## Test for long-term well-being
 
