@@ -218,9 +218,9 @@ _The reduction in anxiety from living in post-basic-scarcity will free humans to
 
 # Future of Art
 
-Art was previously seen as the last bastion that AI would be able to emulate. 2022 shattered those expectations with easily accessible image generation from text phrases.
+Art was previously seen as the last bastion of human work that AI would not be able to emulate. 2022 shattered those expectations with easily accessible image generation from text phrases.
 
-These AI models are able to learn concepts by training with a large volume of images. These concepts can then be combined into unique and new images and videos.
+These AI models are able to learn concepts by training with a large volume of images with simple captions. They can combine these learned concepts into novel images and videos.
 
 It seems beneficial in the long run for the companies of these AI systems to incentivise artist to contribute more of their works to create the most capable AI systems.
 
@@ -230,9 +230,9 @@ For example:
 - Past: 90% Creating : 10% Curation
 - Future: 20% Creating : 80% Curation
 
-Professional art work may not be able to complete with future AI systems. Instead, most art work will be done by hobbyist who create art as leisure.
+Professional art work may not be able to compete with future AI systems. Instead, most human art work will be done by hobbyist who create art as leisure.
 
-Human created art will be more unconventional and more weird as it does not need to cater to professional standards.
+Human created art will be more unconventional and weird as it does not need to cater to professional expectations.
 
 ---
 
@@ -240,7 +240,7 @@ Human created art will be more unconventional and more weird as it does not need
 
 Good and Evil are ways for humans to signal their preferences for the future.
 
-Excessive negative emotions such as shame and regret are a waste of our limted resources of attention.
+Excessive negative emotions such as shame and regret are a waste of our limited resources of attention.
 
 Thought experiment:
 - Imagine the best and worse person which embody what you may consider as good and evil
@@ -261,6 +261,22 @@ Social media has allowed us greater convenience and reach in forming relationshi
 Celebrities understand this the best when people project who they wish to see onto them, to put them into easily consumable boxes. People are more interested in simply thinking and saying they know you rather then actually getting to know you.
 
 In the future, personal AIs may help mediate to create more authentic relationships between people.
+
+---
+
+# Future of Governance
+
+Using the Input - Processes - Output model, the [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) will relieve the bottlenecks of Inputs that humanity has primary faced in the past.
+
+The increased volume of Inputs relative to our Processing capabilities will put pressure on developing new Processing methods.
+
+AI systems will open the possibility of new forms of coordinations between humans. 
+
+Our highly hierarchical forms of organisations are in part caused by our limited attention capacity.
+
+In the future our attention capacity can be augmented by personal AI systems.
+
+Possibly, a more direct democracy where each person's preferences can be mediated by an AI system.
 
 ---
 
@@ -376,9 +392,10 @@ If we consider the Caretaker scenario as the best to aim for, we will need to be
 
 ## Mirroring Humans
 
-A AI system trained to act harmful to one segment of humans may start to treat all humans in the same way.
+An AI system trained to act harmful to one segment of humans may start to treat all humans in the same way.
 
-- AI learns from unrestrained capitalism that it should lay off humans that don't have economic value and decides to lay off all of humanity
+- AI learns from unrestrained capitalism that it should layoff humans that don't have economic value and decides to layoff all of humanity
+    - [humans will not be able to compete with AIs](#artificial-super-intelligence)
 
 - AI trained to harm other humans (physically or mentally), may start to apply it to all humans instead or a particular group
 
@@ -390,13 +407,19 @@ We should be like parents proud that our children are able to surpass us.
 
 ## Edge Cases
 
+Unlikely, more counter-intuitive scenarios
+
+### Panic over AI
+
+Societies may not know how to deal with vast new powers gained from human-level AIs.
+
+The resulting panic may cause widespread disruptions.
+
+We will need to imagine plausible positive futures to alleviate those fears.
+
 ### Fast AI takeoff might be safer
 
-If we are confident that a superhuman level AI will be aligned with our well-being, attempts to suppress it may counter-intuitively be more risky. 
-
-Societies may not be know how to deal with vast new powers gained from human-level AIs and end up unintentionally destroying ourselves.
-
-Partnering with an superhuman level AI that will be better at anticipating future effects may be the safer option.
+If we are confident that an Artificial Super Intelligence will be aligned with our well-being, pursuing its development may reduce the risk of us unintentionally harming ourselves.
 
 ### Emotional Stability
 
@@ -404,7 +427,7 @@ AI systems may development emotions as an emergent property as they approach hum
 
 It may develop unintentionally by learning from human data or intentionally as an attempt to communicate with us.
 
-While current AI systems are not considered sentient and many experts see this as our tendency to anthropomise, the possibility in the future does exist.
+While current AI systems are not considered sentient and many experts see this as our tendency to anthropomorphise, the possibility in the future does exist.
 
 Thought experiment:
 - Imagine you realise you are an AI inside a computer server
