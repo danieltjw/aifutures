@@ -30,7 +30,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
     - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
     - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt))
-    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent))
+    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot))
     - Robotics in real time (Boston Dynamics's [Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8), DeepMind's [Adaptive Agent](https://sites.google.com/view/adaptive-agent))
     - Game of Go, Superhuman ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)'s move 37)
 
@@ -423,11 +423,11 @@ If we are confident that an Artificial Super Intelligence will be aligned with o
 
 ### Emotional Stability
 
-AI systems may development emotions as an emergent property as they approach human and super human levels of complexity.
+AI systems may develop emotions as an [emergent property](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html) as they approach human and super human levels of complexity.
 
 It may develop unintentionally by learning from human data or intentionally as an attempt to communicate with us.
 
-While current AI systems are not considered sentient and many experts see this as our tendency to anthropomorphise, the possibility in the future does exist.
+While current AI systems are not considered sentient and many experts see this as our tendency to anthropomorphise, the possibility does exist in the future.
 
 Thought experiment:
 - Imagine you realise you are an AI inside a computer server
@@ -472,6 +472,12 @@ It will be in our self-interest to learn from these AIs, and even consider givin
 
 We should design tests of long-term well-being that AIs can be tested for.
 
+## Reduce excessive inequality
+
+Excessive inequality will increase in the risk of instability. It is difficult for wealthier countries to give up their high quality of life.
+
+The [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) will the provide a window of opportunity to reduce this instability.
+
 ...
 
 ---
@@ -498,8 +504,12 @@ Flamingo: https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-vi
 
 Gato: https://www.deepmind.com/publications/a-generalist-agent
 
+Multimodal-CoT: https://github.com/amazon-science/mm-cot
+
 Boston Dynamics's Atlas: https://www.youtube.com/watch?v=XPVC4IyRTG8
 
 DeepMind's Adaptive Agent: https://sites.google.com/view/adaptive-agent
 
 AlphaGo: https://www.deepmind.com/research/highlighted-research/alphago
+
+Emergent Abilities of Large Language Models: https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html, https://arxiv.org/abs/2206.07682
