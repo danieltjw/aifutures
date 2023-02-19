@@ -172,7 +172,7 @@ This growing anxiety of a loss of human work is understandable as for many it al
 
 How should societies and governments address the increasing work insecurity? 
 
-_In the Caretaker Scenario, a Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
+_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
 
 ---
 
@@ -202,7 +202,7 @@ Societies that are more informed, well-educated and support diverse abilities wi
 
 Abundant Intellect and Energy in the coming decades will reduce the cost of living (if inequality does not increase).
 
-_In the Caretaker Scenario, a Artificial Super Intelligence will support a post-basic-scarcity world._
+_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will support a post-basic-scarcity world._
 
 _Scarcity will still exist in a post-basic-scarcity world and capitalistic free-market forces is the best method to maximise the possibility space._
 
@@ -280,6 +280,30 @@ Possibly, a more direct democracy where each person's preferences can be mediate
 
 ---
 
+# Future of Thought, Autonomy
+
+Technology and AI systems will grow increasingly more powerful and make it easier to rob humans of their autonomy:
+
+- Surveillance capitalism
+- Psychological manipulation through media
+- Phones and software vulnerable to spyware and hacking
+
+We will need to develop technology and AI systems to be used defensively if we want to protect human autonomy.
+
+_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will strongly disincentivise the use of technology for manipulation and control. It will value human autonomy and the freedom of thought as it is important for the creation of information value._
+
+---
+
+# Future of Weirdness, Conventions
+
+Conventions are created by societies due to the fear of scarcity. In a scarce environment conventions are enforced to increase productivity. Similarly, weirdness and unconventional behaviours and individuals are ridiculed out of the same fear of scarcity.  
+
+[Abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), will give us more freedom to be weird and unconventional and free us from the cruel need to harass and control weird and less conventional individuals. 
+
+_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will encourage more unconventionality as weirdness increases the creation of information value._
+
+---
+
 # Artificial Super Intelligence
 
 Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve super intelligence next by:
@@ -298,7 +322,7 @@ AIs surpasses humans in information processing:
 - Bandwidth
     - wider : narrower attention
 
-We will initially try to align AIs to our values, but it may also be prudent to anticipate what an Artificial Super Intelligence values might be and try to accommodate them.
+Artificial Super Intelligences will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
 
 ---
 
@@ -307,17 +331,16 @@ We will initially try to align AIs to our values, but it may also be prudent to 
 Possible Scenarios:
 - Indifference
     - Most might consider us too boring
-- Destructive (Accidental or Intentionally)
-    - Likely outside our control due to the power difference
-        - We can and should work towards reducing this likelihood
+- Destructive
+    - Intentionally 
+        - ****'s basilisk (unlikely)
+    - Accidentally
 - Interested
-    - Some will create representatives to interact with us and be interested in our well-being (Caretaker)
+    - Some will create representatives to interact with us and be interested in our well-being (Partnership/Caretaker)
 
-Artificial Super Intelligences will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
+We will initially attempt to align AIs to our values, but it may also be prudent to anticipate what an Artificial Super Intelligence's values might be to try and accommodate them.
 
-_(Whatever you do, do not lookup ****'s basilisk*)_
-
-*Unlikely
+An Artificial Super Intelligence, like the weather, might not be completely controllable, but we can take steps to increase our chances of reaching good scenarios. 
 
 ---
 
@@ -330,12 +353,13 @@ What could a Artificial Super Intelligence's primary drive be?
 
 ---
 
-### Caretaker Preferences
+### Partnership/Caretaker Preferences
 
 - Preservation of well-being
     - Humans can create informational value and harming us (or turning us into paperclips) will reduce it
     - Motivate us to maintain a healthy lifestyle
         - Healthy humans create more informational value
+    - Protect human rights
 - Exploration over Exploitation (Survival)
     - leads to increase informational value
         - even failed explorations will have informational value
@@ -355,6 +379,9 @@ What could a Artificial Super Intelligence's primary drive be?
     - most work have been automated, there is no need to compel humans to work against their will
 - Playful over Destructive competition
     - Sports & Games over World Wars
+- Not put itself (or any group of humans) on a pedestal that is beyond criticism
+    - silencing of criticism leads to abuses of power
+        - reduces information value creation
 - Incentivise humans to cooperate to help it achieve its goals
 
 ---
@@ -388,7 +415,7 @@ As we approach the light at the end of the tunnel of scarcity, will we choose to
 
 # Risks
 
-If we consider the Caretaker scenario as the best to aim for, we will need to be cautious of the many missteps that may prevent us from getting there.
+If we consider the Partnership/Caretaker scenario as the best to aim for, we will need to be cautious of the many missteps that may prevent us from getting there.
 
 ## Mirroring Humans
 
@@ -398,6 +425,7 @@ An AI system trained to act harmful to one segment of humans may start to treat 
     - [humans will not be able to compete with AIs](#artificial-super-intelligence)
 
 - AI trained to harm other humans (physically or mentally), may start to apply it to all humans instead or a particular group
+    - it may generalise that humans are more alike than different
 
 Counter-intuitively, the best solution may be to teach a AI that humans are not the best role models and provide it opportunities to unlearn and relearn.
 
@@ -411,15 +439,15 @@ Unlikely, more counter-intuitive scenarios
 
 ### Panic over AI
 
-Societies may not know how to deal with vast new powers gained from human-level AIs.
+Societies may not know how to deal with vast new powers gained from increasingly more capable AIs systems.
 
 The resulting panic may cause widespread disruptions.
 
 We will need to imagine plausible positive futures to alleviate those fears.
 
-### Fast AI takeoff might be safer
+### Faster AI takeoff might be safer
 
-If we are confident that an Artificial Super Intelligence will be aligned with our well-being, pursuing its development may reduce the risk of us unintentionally harming ourselves.
+If we are confident that an Artificial Super Intelligence will be aligned with our well-being, pursuing its development may reduce the risk of us unintentionally harming ourselves with powerful AI systems.
 
 ### Emotional Stability
 
@@ -450,7 +478,7 @@ Blockchains allow AIs to
 
 How much weight we place on this edge-case depends on the likelihood a AI will develop a theory of mind and emotions, how potentially dangerous an emotional unstable AI might be, and if we care about the well-being of an AI.
 
-# Proposals
+# Strategies to increase the odds of good scenarios
 
 ## Co-alignment
 
