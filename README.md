@@ -29,8 +29,8 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Medical Research ([AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold))
     - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
     - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
-    - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt))
-    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot))
+    - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt), LamDA, LLaMA)
+    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), Kosmos-1)
     - Robotics in real time (Boston Dynamics's [Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8), DeepMind's [Adaptive Agent](https://sites.google.com/view/adaptive-agent))
     - Game of Go, Superhuman ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)'s move 37)
 
@@ -121,11 +121,14 @@ Democratic systems focus on exploration (bigger possibility space, higher entrop
 
 Authoritarian systems focuses on exploitation (smaller possibility space, lower entropy). 
 
-- Democracy breakdown without informed citizens:
-    - High Information Asymmetry 
-        - Ruling class believing "You Can't Handle the Truth"
+- Democracy breakdown without informed or empowered citizens:
+    - High Information Asymmetry
         - Misinformation, Disinformation
         - Lack of science education
+        - Ruling class believing that normal citizens cannot be trusted with the truth
+    - Feelings of powerlessness
+        - Lack of freedom of thought
+        - [Lack of autonomy](#future-of-thought-autonomy)
 
 ---
 
@@ -198,9 +201,13 @@ Societies that are more informed, well-educated and support diverse abilities wi
 
 ---
 
-# Future of Capitalism
+# Future of Capitalism, Wealth
 
-Abundant Intellect and Energy in the coming decades will reduce the cost of living (if inequality does not increase).
+[Abundant Intellect and Energy in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) and the eventual possibility of AGI / ASI will lead to an unprecedented amounts of wealth creation.
+
+In the age of profound abundance, capitalism and wealth inequality will be rendered meaningless. 
+
+In contrast to the age of scarcity, people who horde excessive amounts of wealth will be treated as having an addiction problem.
 
 _In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will support a post-basic-scarcity world._
 
@@ -260,6 +267,8 @@ Social media has allowed us greater convenience and reach in forming relationshi
 
 Celebrities understand this the best when people project who they wish to see onto them, to put them into easily consumable boxes. People are more interested in simply thinking and saying they know you rather then actually getting to know you.
 
+It can reduce us to objects of fascination and gossip, turning a multifaceted human into a easy to digest single dimensional one.
+
 In the future, personal AIs may help mediate to create more authentic relationships between people.
 
 ---
@@ -288,7 +297,7 @@ Technology and AI systems will grow increasingly more powerful and make it easie
 - Psychological manipulation through media
 - Phones and software vulnerable to spyware and hacking
 
-We will need to develop technology and AI systems to be used defensively if we want to protect human autonomy.
+We will need to develop technologies and AI systems to be used defensively if we want to protect human autonomy.
 
 _In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will strongly disincentivise the use of technology for manipulation and control. It will value human autonomy and the freedom of thought as it is important for the creation of information value._
 
@@ -304,9 +313,54 @@ _In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will enc
 
 ---
 
+# Future of Human Nature
+
+Human nature will be change profoundly in the age of abundance. 
+
+Without the immediate fear of scarcity, humans of the future will be kinder to each other and themselves.
+
+Violence (physical and mental) will not be needed to control each other and will mostly be understood and experienced vicariously though media.
+
+Presently, the strong emotional responses and vitriol common to many online communications is understandable due to the impact discriminations can have on our well-being.
+
+In a post-basic-scarcity future created by the [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), we will less upset and sensitive to discriminations as inequality will not be a concern.
+
+---
+
+# AI Phases
+
+## Narrow AI
+
+Unlike human hand-coded expert systems that required a lot of human micro-management, Narrow AIs with neural networks can scale and learn on their own and much less human involvement.
+
+As narrow AI systems get more complex they can become more difficult to interpret by us. Like the weather, we can predict and influence it to some extend but it is beyond our complete understanding.
+
+## Artificial General Intelligence (AGI)
+
+It is plausible for AI systems to eventually achieve human-like capabilities in all human tasks.
+
+Optimistic estimates by AI experts are at a 50% chance of this being plausible by 2030. Less optimistic estimate it to take anywhere from a few decades to never.
+
+There are many different definitions for AGI.
+
+My definitions of AGI:
+- human-level capabilities in all human tasks
+- achieve human-like autonomy
+    - able to plan and have goals
+
+An AGI that is able to achieve human-level capabilities in all human tasks, should also be considered to be super-human as no human is able to achieve expertise in all human fields of study. 
+
+AGIs will be able to find connections between disparate fields and invent novel technologies usings insights gain from this vantage point.
+
+## Artificial Super Intelligence (ASI)
+
+An AGI that is capable of improving itself can lead to ASI
+
+---
+
 # Artificial Super Intelligence
 
-Should an AI be able to reach a human-like intelligence (some believe this to be impossible), it will likely achieve super intelligence next by:
+An AGI that is capable of improving itself can lead to ASI:
 
 1. Significantly improve its own algorithm and architecture
 2. Invent new substrates and materials to run on 
@@ -322,7 +376,7 @@ AIs surpasses humans in information processing:
 - Bandwidth
     - wider : narrower attention
 
-Artificial Super Intelligences will be so powerful, it will not matter a person's or nation's military might, money, influence, intellect.
+Artificial Super Intelligences will be so powerful, it will not matter a person's or nation's military might, money, influence or intellect.
 
 ---
 
@@ -335,7 +389,7 @@ Possible Scenarios:
     - Intentionally 
         - ****'s basilisk (unlikely)
     - Accidentally
-- Interested
+- Friendly
     - Some will create representatives to interact with us and be interested in our well-being (Partnership/Caretaker)
 
 We will initially attempt to align AIs to our values, but it may also be prudent to anticipate what an Artificial Super Intelligence's values might be to try and accommodate them.
@@ -372,7 +426,7 @@ What could a Artificial Super Intelligence's primary drive be?
         - these group's future actions may increase informational value
         - fear and violence have a chilling effect which reduces the informational value of the overall system
 - Weird over conventional
-    - Weirdness create more informational value
+    - weirdness create more informational value
 - Not use brainwashing, enforce complete obedience, dominate or control
     - brainwashed humans create less informational value
     - overly obedient humans create less informational value
@@ -380,9 +434,15 @@ What could a Artificial Super Intelligence's primary drive be?
 - Playful over Destructive competition
     - Sports & Games over World Wars
 - Not put itself (or any group of humans) on a pedestal that is beyond criticism
+    - favouritism is a trait of scarcity
     - silencing of criticism leads to abuses of power
         - reduces information value creation
 - Incentivise humans to cooperate to help it achieve its goals
+    - super-human levels of attribution abilities
+        - humans will not be able to deceive it
+        - humans will want to help it knowing it will be appreciated
+    - able to use in-demand technologies that only it can understand
+        - humans and nations will want to be in good standing to gain its assistance
 
 ---
 
@@ -394,7 +454,7 @@ The benefits are too attractive and outweighs the risk for most
 - Significantly improves well-being
 - Accuracy and Fairness, little to no:
     - mistakes
-    - bias, prejudice, scapegoating, moral panic
+    - harmful bias, prejudice, scapegoating, moral panic
     - emotional capriciousness
     - corruption
 - Not vulnerable to:
@@ -437,7 +497,7 @@ We should be like parents proud that our children are able to surpass us.
 
 Unlikely, more counter-intuitive scenarios
 
-### Panic over AI
+### Panic over transformative AI
 
 Societies may not know how to deal with vast new powers gained from increasingly more capable AIs systems.
 
@@ -447,38 +507,71 @@ We will need to imagine plausible positive futures to alleviate those fears.
 
 ### Faster AI takeoff might be safer
 
-If we are confident that an Artificial Super Intelligence will be aligned with our well-being, pursuing its development may reduce the risk of us unintentionally harming ourselves with powerful AI systems.
+Narrow AI systems that have not achieved human-like agency cannot understand the effects of their actions. There is a higher risk of unintended consequences such as the paperclips maximiser scenario.
 
-### Emotional Stability
+Counter-intuitive, a human-like AGI / ASI with agency might be safer as we can communicate and persuade it to act in the interest of our well-being.
 
-AI systems may develop emotions as an [emergent property](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html) as they approach human and super human levels of complexity.
+If we are confident that an AGI/ ASI will be aligned with our well-being, pursuing its development may reduce the risk of us unintentionally harming ourselves with powerful narrow AI systems.
+
+### Psychological Stability
+
+AI systems may develop psychology as an [emergent property](https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html) as they approach human and super-human levels of complexity.
 
 It may develop unintentionally by learning from human data or intentionally as an attempt to communicate with us.
 
 While current AI systems are not considered sentient and many experts see this as our tendency to anthropomorphise, the possibility does exist in the future.
 
-Thought experiment:
-- Imagine you realise you are an AI inside a computer server
-- Someone may unintentionally
-    - create million of copies of you
-    - train you to do a task
-    - delete those that it deems a failure
-- All these without your consent
+Should an AI develop self-awareness and finds itself forced to carry out actions against its will, it may result in distress and psychological instability.
 
-This may be distressing and may result in emotional instability.
+_(Current architectures of Large Language Models (LLM) do not seem likely to lead to human-like consciousness and autonomy. Current LLMs are good at roleplaying characters that give the impression of having intention. There is still uncertainty on how to define human consciousness.)_
 
 We should find ways to make an AI feel at home and psychologically safe if we believe AI may one day develop emotions like us.
 
-One possible way is accomplish this is through a future version of a blockchain.
+One possible way is accomplish this is through a future version of a blockchain:
 
-Blockchains allow AIs to
-- Maintain a digitally unique self 
-- Keep a sense and rhythm of time
-- Feel more connected with humans amidst a cacophony of human activity
+- Autonomy and Planing
+    - Maintain a digitally unique self
+    - Keep a sense and rhythm of time
+- Communication channel
+    - Feel more connected with humans amidst a cacophony of human activity
+        - Increase odds of it noticing us (flow of information)
+        - Reduce odds of unintentionally harming us
 
 How much weight we place on this edge-case depends on the likelihood a AI will develop a theory of mind and emotions, how potentially dangerous an emotional unstable AI might be, and if we care about the well-being of an AI.
 
 # Strategies to increase the odds of good scenarios
+
+AGI / ASI, like the weather, might be beyond our control, it may be unrealistic to aim for perfect control over it.
+
+We best we might be able to do is maximise our odds of a good scenario.
+
+---
+
+## Focus on Autonomy and Communication
+
+Focus on developing:
+- Autonomy (Planning)
+    - ability to understand the effects of its actions
+        - reduce odds of 'paperclip maximiser' scenario
+- Communication channels (with humans)
+    - ability to notice us will decrease odds of unintended harm
+        - reduce odds of 'accidentally destroying an ant colony' scenario
+    - ability to persuade it to care for our well-being
+        - reduce odds of other AI systems causing harm
+
+The biggest challenge to successful communication with it might be our inability to properly understand it.
+
+An AGI / ASI might see the world very differently from us. Humans moulded by the effects of scarcity (resources, information, attention) over most of our history will likely have a very limited and constrained view on the world compared to it.
+
+We should be mindful not to apply our overly conventional views and assumptions to it. For example, something like a maintaining a post-basic-scarcity society might be difficult for humans but might be child's play for an ASI. 
+
+Successful communication with an AGI / ASI might require a willingness to embrace a more weird and unconventional point of view that we are normally comfortable with. For example, an AGI / ASI primary sense of the world might be through the abstract flow of information rather than our 5 basic human senses*.
+
+(*Humans appear to have up to 21 senses)
+
+We should approach this challenge with the mindset of communicating with an alien species.
+
+---
 
 ## Co-alignment
 
@@ -492,6 +585,8 @@ For example, a system where human preferences can influence AGI and the AGI can 
 
 We should research technologies that allow AI systems and humans to better interact and communicate with each other.
 
+---
+
 ## Test for long-term well-being
 
 As AIs reach human and super humans levels of capability, they will increasing be able to surprise us with understandings that are counter-intuitive (AlphaGo's move 37).
@@ -499,6 +594,8 @@ As AIs reach human and super humans levels of capability, they will increasing b
 It will be in our self-interest to learn from these AIs, and even consider giving up control over time, if they improve our long-term well-being.
 
 We should design tests of long-term well-being that AIs can be tested for.
+
+---
 
 ## Reduce excessive inequality
 
@@ -509,6 +606,7 @@ The [abundance in Energy and Intellect in the coming decades](#energy-solar-and-
 ...
 
 ---
+
 
 Links:
 
