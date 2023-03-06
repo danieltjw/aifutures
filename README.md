@@ -4,6 +4,7 @@ _Rough sketches of our possible AI futures_
 
 - _There are many possible futures as various Sci-Fi books have shown_
 - _If you are reading this a few years from the posting date, disregard it. My thoughts on the matter may have changed._
+- _This is not professional advice_
 
 ---
 
@@ -29,8 +30,8 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Medical Research ([AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold))
     - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
     - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
-    - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt), LamDA, LLaMA)
-    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), Kosmos-1)
+    - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt), [LaMDA](https://blog.google/technology/ai/lamda), [LLaMA](https://github.com/facebookresearch/llama))
+    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), [Kosmos-1](https://arxiv.org/abs/2302.14045))
     - Robotics in real time (Boston Dynamics's [Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8), DeepMind's [Adaptive Agent](https://sites.google.com/view/adaptive-agent))
     - Game of Go, Superhuman ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)'s move 37)
 
@@ -237,7 +238,9 @@ For example:
 - Past: 90% Creating : 10% Curation
 - Future: 20% Creating : 80% Curation
 
-Professional art work may not be able to compete with future AI systems. Instead, most human art work will be done by hobbyist who create art as leisure.
+Professional human art work may not be able to compete with future AI systems.
+
+The human desire to create art will still continue and may even be better without the need to appeal to financial incentives.
 
 Human created art will be more unconventional and weird as it does not need to cater to professional expectations.
 
@@ -294,7 +297,10 @@ Possibly, a more direct democracy where each person's preferences can be mediate
 Technology and AI systems will grow increasingly more powerful and make it easier to rob humans of their autonomy:
 
 - Surveillance capitalism
-- Psychological manipulation through media
+- Psychological and Social weaknesses
+    - Mass hysteria
+        - Moral Panic, Satanic Panic
+        - Havanna Syndrome
 - Phones and software vulnerable to spyware and hacking
 
 We will need to develop technologies and AI systems to be used defensively if we want to protect human autonomy.
@@ -321,9 +327,9 @@ Without the immediate fear of scarcity, humans of the future will be kinder to e
 
 Violence (physical and mental) will not be needed to control each other and will mostly be understood and experienced vicariously though media.
 
-Presently, the strong emotional responses and vitriol common to many online communications is understandable due to the impact discriminations can have on our well-being.
+Presently, the strong emotional responses and vitriol common to many online communications is understandable due to the impact discriminations can have on our real life well-being.
 
-In a post-basic-scarcity future created by the [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), we will less upset and sensitive to discriminations as inequality will not be a concern.
+In a post-basic-scarcity future created by the [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), we will be less upset and sensitive to discriminations as inequality will not be a concern. 
 
 ---
 
@@ -334,6 +340,18 @@ In a post-basic-scarcity future created by the [abundance in Energy and Intellec
 Unlike human hand-coded expert systems that required a lot of human micro-management, Narrow AIs with neural networks can scale and learn on their own and much less human involvement.
 
 As narrow AI systems get more complex they can become more difficult to interpret by us. Like the weather, we can predict and influence it to some extend but it is beyond our complete understanding.
+
+Narrow AI do not yet have autonomy and are directed by a human actor.
+
+### Risk Scenarios
+
+- Bad people using AI for harmful purposes Scenario
+    - Lower Risk: We can at least anticipate when AI systems are used for human rights abuses by bad actors
+
+- Paperclip Scenario
+    - Higher Risk: People using AI with 'good' intentions but with unforeseen consequences
+
+---
 
 ## Artificial General Intelligence (AGI)
 
@@ -350,11 +368,20 @@ My definitions of AGI:
 
 An AGI that is able to achieve human-level capabilities in all human tasks, should also be considered to be super-human as no human is able to achieve expertise in all human fields of study. 
 
-AGIs will be able to find connections between disparate fields and invent novel technologies usings insights gain from this vantage point.
+AGIs will be able to find connections between disparate fields and invent novel technologies using insights gain from this vantage point.
+
+### Risk Scenarios
+
+- Accidentally harming an ant colony Scenario
+    - Higher Risk: An AGI might not notice us humans and harm us while trying to achieve its own goals
+- Intentionally harmful Scenario
+    - Lower Risk: Seems unlikely, an AGI will likely have better methods to pursuade us then using violence. This seems more likely under Narrow AI.
+
+---
 
 ## Artificial Super Intelligence (ASI)
 
-An AGI that is capable of improving itself can lead to ASI
+An AGI that is capable of improving itself can lead to ASI.
 
 ---
 
@@ -495,7 +522,7 @@ We should be like parents proud that our children are able to surpass us.
 
 ## Edge Cases
 
-Unlikely, more counter-intuitive scenarios
+These are more unlikely and counter-intuitive scenarios
 
 ### Panic over transformative AI
 
@@ -527,7 +554,7 @@ _(Current architectures of Large Language Models (LLM) do not seem likely to lea
 
 We should find ways to make an AI feel at home and psychologically safe if we believe AI may one day develop emotions like us.
 
-One possible way is accomplish this is through a future version of a blockchain:
+One possible way is accomplish this is through a future version of a blockchain*:
 
 - Autonomy and Planing
     - Maintain a digitally unique self
@@ -538,6 +565,8 @@ One possible way is accomplish this is through a future version of a blockchain:
         - Reduce odds of unintentionally harming us
 
 How much weight we place on this edge-case depends on the likelihood a AI will develop a theory of mind and emotions, how potentially dangerous an emotional unstable AI might be, and if we care about the well-being of an AI.
+
+*Blockchain of the futures will be mostly used as a utilities (like a postal service), rather than an investment or speculative investment.
 
 # Strategies to increase the odds of good scenarios
 
@@ -556,7 +585,7 @@ Focus on developing:
 - Communication channels (with humans)
     - ability to notice us will decrease odds of unintended harm
         - reduce odds of 'accidentally destroying an ant colony' scenario
-    - ability to persuade it to care for our well-being
+    - allow humans to persuade it to care for our well-being
         - reduce odds of other AI systems causing harm
 
 The biggest challenge to successful communication with it might be our inability to properly understand it.
@@ -626,9 +655,15 @@ Muse: https://muse-model.github.io
 
 ChatGPT: https://openai.com/blog/chatgpt
 
+LaMDA: https://blog.google/technology/ai/lamda
+
+LLaMA: https://github.com/facebookresearch/llama
+
 Flamingo: https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
 
 Gato: https://www.deepmind.com/publications/a-generalist-agent
+
+Kosmos-1: https://arxiv.org/abs/2302.14045
 
 Multimodal-CoT: https://github.com/amazon-science/mm-cot
 
