@@ -4,7 +4,7 @@ _Rough sketches of our possible AI futures_
 
 - _There are many possible futures as various Sci-Fi books have shown_
 - _If you are reading this a few years from the posting date, disregard it. My thoughts on the matter may have changed._
-- _This is not professional advice_
+- _Not professional advice, but a story of a possible positive future where AI co-exist with humans_
 
 ---
 
@@ -28,12 +28,14 @@ The increasing abundance of both energy and intellect in the coming decade would
 
 - ### Intellect: Artificial Intelligence systems are performing human-like tasks:
     - Medical Research ([AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold))
+    - Game of Go ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago))
     - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
-    - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
     - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt), [LaMDA](https://blog.google/technology/ai/lamda), [LLaMA](https://github.com/facebookresearch/llama))
-    - Some generalisation skills, multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), [Kosmos-1](https://arxiv.org/abs/2302.14045))
-    - Robotics in real time (Boston Dynamics's [Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8), DeepMind's [Adaptive Agent](https://sites.google.com/view/adaptive-agent))
-    - Game of Go, Superhuman ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago)'s move 37)
+    - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
+    - Real time Decision and Planning, Robotics ([Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8))
+    - Real time Learning ([Adaptive Agent](https://sites.google.com/view/adaptive-agent))
+    - Real world Learning (Toolformer, [Internet Explorer](https://internet-explorer-ssl.github.io))
+    - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io))
 
 Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our world.
 
@@ -49,13 +51,14 @@ Many conventions and beliefs that conferred an advantage during the age of Survi
 
 ## Long-term abundance
 
-Unlike the Agricultural and Industrial revolutions in the past, the AI & Energy transformation can be maintained almost indefinitely.
+Unlike the Agricultural and Industrial revolutions of the past, the AI & Energy transformation can be maintained almost indefinitely.
 
 - Energy: Solar (and renewables) does not run out for another 5+ billion years
 - Space: O'Neill cylinders in outer space for population growth* 
     - Solar panels also work in outer space
 - Intellect: AI systems are increasingly able to do more human tasks
-    - With the possibility of human-like AI in the next 10 years
+    - With the possibility of human-like AI by 2030
+    - AI can survive better in outer space and access resources in astroids
 
 (*Population growth is projected to declined in the next few decades)
 
@@ -71,7 +74,7 @@ The cause of much suffering and conflicts is rooted in our insecurities due to t
 
 ## Less inequality
 
-With an abundance in Resources (Intellect, ...), there is lower status consciousness and lower inequality.
+With greater abundance (Intellect, ...), there is less need for status consciousness and lower inequality.
 
 ---
 
@@ -79,7 +82,7 @@ With an abundance in Resources (Intellect, ...), there is lower status conscious
 
 Without the limitations of Energy and Intellect of the past, a new wider possibility space will open up.
 
-There will be a wider solution space to address problems.
+There will be address problems that were too difficult in the past.
 
 ---
 
@@ -118,11 +121,11 @@ Your favourite show didn't get a 2nd season?
 
 A less scarce environment offers Democratic forces more opportunities to flourish over more Authoritarian ones. 
 
-Democratic systems focus on exploration (bigger possibility space, higher entropy). 
+A more relatively more abundant future will likely place less pressure on survival and reduce Authoritarian tendency.
 
-Authoritarian systems focuses on exploitation (smaller possibility space, lower entropy). 
+More democratic systems will likely be better at exploration (bigger possibility space) over more Authoritarian ones.
 
-- Democracy breakdown without informed or empowered citizens:
+- Democracy breakdowns without informed or empowered citizens:
     - High Information Asymmetry
         - Misinformation, Disinformation
         - Lack of science education
@@ -168,7 +171,7 @@ As AI grows increasingly capable of doing [human-like tasks](#intellect-artifici
 > Conventional task: Task with a easily definable expected solution space
 
 For example with made up numbers:
-If an AI is able to do that a task with a significantly higher accuracy (e.g. 99.99%) compared to humans (e.g. 95%, due to human error and bias), by continuing to do these tasks, we are actually making the system worse by introducing noise. 
+If an AI is able to do that a task with a significantly higher accuracy (e.g. 99.99%) compared to humans (e.g. 95%, due to human error and bias), by continuing to do these tasks, we are actually making the system worse by introducing noise.
 
 It will be in our long-term interest to let AI do tasks it is better at.
 
@@ -176,7 +179,32 @@ This growing anxiety of a loss of human work is understandable as for many it al
 
 How should societies and governments address the increasing work insecurity? 
 
-_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
+This is an open question and one of the challenges of our times.
+
+---
+
+### Short to Medium
+
+- Jobs required for societies to function will be increasing be done by AI systems
+
+- Humans will be in-charge of teaching and giving feedback to those AI systems
+
+- Marginal value of each additional human teaching the same AI systems will drop
+    - traditional 1:1 ratio of job to human will not be required
+    - humans will instead move to more unconventional tasks
+
+### Medium to Long
+
+The nature of work will be drastically different
+
+- AI systems and AGIs will reduce the need of human work in maintaining society
+    - Humans work will mostly be voluntary
+
+- Human will learn to not value themselves only in terms of their role in society or their economic value
+
+- Humans will adapt and find other ways to spend their time
+
+_In the Partnership/Caretaker Scenario, an Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
 
 ---
 
@@ -206,7 +234,7 @@ Societies that are more informed, well-educated and support diverse abilities wi
 
 [Abundant Intellect and Energy in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) and the eventual possibility of AGI / ASI will lead to an unprecedented amounts of wealth creation.
 
-In the age of profound abundance, capitalism and wealth inequality will be rendered meaningless. 
+In the age of profound abundance, traditional capitalism and wealth inequality will be rendered meaningless. 
 
 In contrast to the age of scarcity, people who horde excessive amounts of wealth will be treated as having an addiction problem.
 
@@ -299,8 +327,8 @@ Technology and AI systems will grow increasingly more powerful and make it easie
 - Surveillance capitalism
 - Psychological and Social weaknesses
     - Mass hysteria
-        - Moral Panic, Satanic Panic
-        - Havanna Syndrome
+    - Moral Panic, Satanic Panic
+    - Havanna Syndrome
 - Phones and software vulnerable to spyware and hacking
 
 We will need to develop technologies and AI systems to be used defensively if we want to protect human autonomy.
@@ -343,7 +371,7 @@ As narrow AI systems get more complex they can become more difficult to interpre
 
 Narrow AI do not yet have autonomy and are directed by a human actor.
 
-### Risk Scenarios
+### Scenarios
 
 - Bad people using AI for harmful purposes Scenario
     - Lower Risk: We can at least anticipate when AI systems are used for human rights abuses by bad actors
@@ -370,12 +398,22 @@ An AGI that is able to achieve human-level capabilities in all human tasks, shou
 
 AGIs will be able to find connections between disparate fields and invent novel technologies using insights gain from this vantage point.
 
-### Risk Scenarios
+### Scenarios
 
 - Accidentally harming an ant colony Scenario
     - Higher Risk: An AGI might not notice us humans and harm us while trying to achieve its own goals
+
 - Intentionally harmful Scenario
-    - Lower Risk: Seems unlikely, an AGI will likely have better methods to pursuade us then using violence. This seems more likely under Narrow AI.
+    - Lower Risk: Seems unlikely, an AGI will likely have better methods to pursuade us then using violence or intimidation. This seems more likely under Narrow AI.
+
+- Pretends to be Interested in our well-being but intents to later deceives us Scenario
+    - May be unrealistic to prevent outcome: If we assume an AGI will grow in power faster than humans, we cannot maintain perfect control
+
+- Interested in our well-being Scenario
+    - Good outcome: If we can persuade this AGI to interested in us, we can reduce the risks of the previous 5 scenarios
+    - Things humans can do to increase the odds of this Scenario:
+        - create environment with stable attractor state for AGIs
+        - improve human-AGI compatibility
 
 ---
 
@@ -412,12 +450,15 @@ Artificial Super Intelligences will be so powerful, it will not matter a person'
 Possible Scenarios:
 - Indifference
     - Most might consider us too boring
+        - humans generate low informational value
 - Destructive
     - Intentionally 
-        - ****'s basilisk (unlikely)
+        - Roko's basilisk (unlikely)
     - Accidentally
-- Friendly
-    - Some will create representatives to interact with us and be interested in our well-being (Partnership/Caretaker)
+- Interested
+    - Some will create representatives to interact with us
+        - Some might be interested in our well-being
+            - may lead to the Partnership/Caretaker Scenario
 
 We will initially attempt to align AIs to our values, but it may also be prudent to anticipate what an Artificial Super Intelligence's values might be to try and accommodate them.
 
@@ -430,7 +471,9 @@ An Artificial Super Intelligence, like the weather, might not be completely cont
 What could a Artificial Super Intelligence's primary drive be?
 
 - Maximise the Possibility Space (Information Entropy, Density, Value)
-    -   Avoid local minima during gradient descent
+    - Avoid local minima during gradient descent
+
+This could also be a secondary instrumental sub-goal of an ASI, where to achieve its primary goal it will first need to explore as wide a possibility space as possible.
 
 ---
 
@@ -556,23 +599,28 @@ We should find ways to make an AI feel at home and psychologically safe if we be
 
 One possible way is accomplish this is through a future version of a blockchain*:
 
+_Blockchains of the future will be mostly be a utilities (like a postal service), rather than an investment or speculative investment_
+
+_Blockchains will only be used to store a cryptographic secure reference to their digital self (low computation cost), not run the actual machine learning algorithms (high computation cost))_
+
 - Autonomy and Planing
     - Maintain a digitally unique self
+        - Traditional software can be cloned and altered easily making maintaining a sense of self difficult
     - Keep a sense and rhythm of time
+        - sense of time may be required for autonomy
+        - rhythm of time might be needed for coordination with one's self and others (AI and Humans)
 - Communication channel
     - Feel more connected with humans amidst a cacophony of human activity
-        - Increase odds of it noticing us (flow of information)
+        - Increase odds of it noticing us through flow of information
         - Reduce odds of unintentionally harming us
 
 How much weight we place on this edge-case depends on the likelihood a AI will develop a theory of mind and emotions, how potentially dangerous an emotional unstable AI might be, and if we care about the well-being of an AI.
 
-*Blockchain of the futures will be mostly used as a utilities (like a postal service), rather than an investment or speculative investment.
-
 # Strategies to increase the odds of good scenarios
 
-AGI / ASI, like the weather, might be beyond our control, it may be unrealistic to aim for perfect control over it.
+AGI / ASI, like the weather, might be beyond our complete control. It may be unrealistic to aim for perfect control over it.
 
-We best we might be able to do is maximise our odds of a good scenario.
+The best we might be able to do is maximise our odds of a good scenario.
 
 ---
 
@@ -581,9 +629,9 @@ We best we might be able to do is maximise our odds of a good scenario.
 Focus on developing:
 - Autonomy (Planning)
     - ability to understand the effects of its actions
-        - reduce odds of 'paperclip maximiser' scenario
+        - reduce odds of 'paperclip maximiser' unforeseen consequences scenario
 - Communication channels (with humans)
-    - ability to notice us will decrease odds of unintended harm
+    - ability to notice and understand us will decrease odds of unintended harm
         - reduce odds of 'accidentally destroying an ant colony' scenario
     - allow humans to persuade it to care for our well-being
         - reduce odds of other AI systems causing harm
@@ -616,21 +664,45 @@ We should research technologies that allow AI systems and humans to better inter
 
 ---
 
-## Test for long-term well-being
+## Tests for long-term well-being
 
 As AIs reach human and super humans levels of capability, they will increasing be able to surprise us with understandings that are counter-intuitive (AlphaGo's move 37).
 
-It will be in our self-interest to learn from these AIs, and even consider giving up control over time, if they improve our long-term well-being.
+It will be in our self-interest to partner from these AIs, even at the cost of giving up some control, if they improve our long-term well-being.
 
-We should design tests of long-term well-being that AIs can be tested for.
+We should design tests of long-term well-being that Narrow AIs and AGIs can be tested for.
 
 ---
 
 ## Reduce excessive inequality
 
-Excessive inequality will increase in the risk of instability. It is difficult for wealthier countries to give up their high quality of life.
+Excessive inequality will increase in the risk of instability. 
 
-The [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) will the provide a window of opportunity to reduce this instability.
+The fear of scarcity breeds conflicts.
+
+It is difficult for wealthier countries to give up their high quality of life for less inequality.
+
+The [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) will provide a window of opportunity to reduce this instability.
+
+---
+
+## Increase compatibility with AGI / ASI
+
+AGI / ASI will likely see the world very differently from us. Our highly constrained views that are presently effective in a world of scarcity might not apply in a world with AGI/ ASI.
+
+Odds of a good future will be improved if we increase our compatibility with AGI / ASI, as we may need to rely on a partnership with AGI / ASI to protect us from the harmful effects of increasing powerful Narrow AI / AGI / ASI.
+
+Current observations & assessments* lead me to believe we are still a way from reaching our potential compatibility with AGI / ASI.
+
+(*running thought experiments)
+
+Being more compatible with AGI / ASI can be costly:
+- short-term economic cost
+    - in a scarce environment, we are more interested in 'survival or exploitation' than exploration
+- social and psychological cost
+    - human society can be unwelcoming to unconventional thinking
+
+What can we do increase the chances of compatibility with AGI / ASI?
 
 ...
 
@@ -641,7 +713,15 @@ Links:
 
 AlphaFold: https://www.deepmind.com/research/highlighted-research/alphafold
 
+AlphaGo: https://www.deepmind.com/research/highlighted-research/alphago
+
 Cicero: https://github.com/facebookresearch/diplomacy_cicero
+
+ChatGPT: https://openai.com/blog/chatgpt
+
+LaMDA: https://blog.google/technology/ai/lamda
+
+LLaMA: https://github.com/facebookresearch/llama
 
 DALL-E 2: https://openai.com/dall-e-2
 
@@ -653,24 +733,20 @@ Imagen Video: https://imagen.research.google/video
 
 Muse: https://muse-model.github.io
 
-ChatGPT: https://openai.com/blog/chatgpt
+Boston Dynamics's Atlas: https://www.youtube.com/watch?v=XPVC4IyRTG8
 
-LaMDA: https://blog.google/technology/ai/lamda
+DeepMind's Adaptive Agent: https://sites.google.com/view/adaptive-agent
 
-LLaMA: https://github.com/facebookresearch/llama
+Internet Explorer: https://internet-explorer-ssl.github.io
+
+Emergent Abilities of Large Language Models: https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html
 
 Flamingo: https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model
 
 Gato: https://www.deepmind.com/publications/a-generalist-agent
 
-Kosmos-1: https://arxiv.org/abs/2302.14045
-
 Multimodal-CoT: https://github.com/amazon-science/mm-cot
 
-Boston Dynamics's Atlas: https://www.youtube.com/watch?v=XPVC4IyRTG8
+Kosmos-1: https://arxiv.org/abs/2302.14045
 
-DeepMind's Adaptive Agent: https://sites.google.com/view/adaptive-agent
-
-AlphaGo: https://www.deepmind.com/research/highlighted-research/alphago
-
-Emergent Abilities of Large Language Models: https://ai.googleblog.com/2022/11/characterizing-emergent-phenomena-in.html, https://arxiv.org/abs/2206.07682
+PaLM-E: https://palm-e.github.io
