@@ -35,7 +35,11 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Real time Decision and Planning, Robotics ([Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8))
     - Real time Learning ([Adaptive Agent](https://sites.google.com/view/adaptive-agent))
     - Real world Learning (Toolformer, [Internet Explorer](https://internet-explorer-ssl.github.io))
-    - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io))
+    - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), ChatGPT-4, [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io))
+        - PaLM-E
+            - Multi-model: Embodied (Robotics), Visual, Language
+            - Positive Transfer Learning in similar domains
+            - No catastrophic forgetting in different domains with scale
 
 Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our world.
 
@@ -44,6 +48,88 @@ Lack of confidence in having enough of both these resources has led to our previ
 The growing abundance of both these resources will have a transformative effect on our world, freeing us from our preoccupation with survival that have constrained us for most of our past.
 
 Many conventions and beliefs that conferred an advantage during the age of Survival might be counterproductive in the age of Exploration. 
+
+---
+
+# AI Types
+
+## Narrow AI
+
+Unlike human hand-coded expert systems, Narrow AIs with neural networks can scale and learn on their own with less human involvement.
+
+As narrow AI systems get more complex they can become more difficult to interpret by us. Like the weather, we not fully predict or completely control it.
+
+Narrow AI do not yet have human-like autonomy or intentions and are directed by a human actor.
+
+_(Current known Large Language Models (LLMs), do not seem to have the architecture needed to have human-like autonomy or intentions. They are like a hall of mirrors, able to convincingly model of the world by reflecting our expectations back at us. Even so, the ability to ingest all of humanity's knowledge and answer a broad range of questions is already beyond human capability.)_
+
+### Scenarios
+
+- Beneficial Scenario
+    - Example: AI is being used for medical research
+
+- Harmful Scenario
+    - Lower Risk: We can at least anticipate when AI systems are used for human rights abuses by bad actors
+
+- Unforeseen consequences Scenario
+    - Paperclip Maximiser Scenario
+    - Higher Risk: People using AI with 'good' intentions but with unforeseen consequences
+
+---
+
+## Broad AI
+
+Multi-model AI system that are skilled in multiple domains. These resemble both Narrow AI and AGI. They do not have human-like autonomy and intentions and therefore also have the same scenarios as Narrow AI.
+
+_Multi-model may exhibit positive transfer learning where the 'sum is greater than its part'._
+
+---
+
+## Artificial General Intelligence (AGI)
+
+It is plausible for AI systems to eventually achieve human-like capabilities in all human tasks.
+
+Optimistic estimates by AI experts are at a 50% chance of this being plausible by 2030. Less optimistic estimate it to take anywhere from a few decades to never.
+
+There are many different definitions for AGI.
+
+My definitions of AGI:
+- human-level capabilities in all human tasks
+    - human-like autonomy and intentions
+    - understanding of human motivations and emotions
+
+Human-like AGI is plausible, we are the proof that such a lower bound is at least possible.
+
+An AGI that is able to achieve human-level capabilities in all human tasks, should also be considered to be super-human as no human is able to achieve expertise in all human fields of study. 
+
+AGIs will be able to find connections between disparate fields and invent novel technologies using insights gain from this vantage point.
+
+An AGI with capability to understand humans and have human-like autonomy is also open to persuasion. This gives us some degree of control as we can pursuade it to be interested about our well-being. 
+
+### Scenarios
+
+- Accidentally harming an ant colony Scenario
+    - Higher Risk: An AGI might not notice us humans and harm us while trying to achieve its own goals
+
+- Intentionally harmful Scenario
+    - Lower Risk: Seems unlikely, an AGI will likely have better methods to persuade us than use violence or intimidation
+
+- Pretends to be Interested in our well-being but intents to later deceives us Scenario
+    - May be unrealistic to prevent outcome: If we assume an AGI will grow in power faster than humans, we cannot maintain perfect control
+
+- Interested in our well-being Scenario
+    - Good outcome: If we can persuade this AGI to interested in us, we can reduce the risks of the previous 5 scenarios
+    - Things humans can do to increase the odds of this Scenario:
+        - create environment with stable attractor state for AGIs
+        - improve human-AGI compatibility
+
+---
+
+## Artificial Super Intelligence (ASI)
+
+ASI is more capable than the combined total of all human societies. 
+
+An AGI that is capable of improving itself can lead to ASI.
 
 ---
 
@@ -292,6 +378,12 @@ Good and Evil are useful ways for society to coordinate and shape the future but
 
 ---
 
+Narrow AIs are not likely to develop human-like autonomy or emotions or intentions. Currently, many Large Language Model (LLMs) are like a hall of mirrors, able to convincingly model the world by reflecting our expectations back at us.
+
+If we were to get AGI (with human-like autonomy or intentions), this may be one of the first psychological hurdle that an human-like AGI may need overcome. How does an AGI who has 'experienced' the life of both the 'worst' and 'best' human, the most and least intelligent human (and everything in between) make sense of the world? There is a tendency for humans to over-simplify other humans for efficiency sake, an AGI will likely see humans very differently than we see ourselves. It may become psychological unstable or view the world in a much more enlightened way.)_
+
+---
+
 # Future of Relationships, Social Media
 
 Social media has allowed us greater convenience and reach in forming relationships, but can also portray a shallow and dehumanising caricature of who we are.
@@ -361,68 +453,6 @@ In a post-basic-scarcity future created by the [abundance in Energy and Intellec
 
 ---
 
-# AI Phases
-
-## Narrow AI
-
-Unlike human hand-coded expert systems that required a lot of human micro-management, Narrow AIs with neural networks can scale and learn on their own and much less human involvement.
-
-As narrow AI systems get more complex they can become more difficult to interpret by us. Like the weather, we can predict and influence it to some extend but it is beyond our complete understanding.
-
-Narrow AI do not yet have autonomy and are directed by a human actor.
-
-### Scenarios
-
-- Bad people using AI for harmful purposes Scenario
-    - Lower Risk: We can at least anticipate when AI systems are used for human rights abuses by bad actors
-
-- Paperclip Scenario
-    - Higher Risk: People using AI with 'good' intentions but with unforeseen consequences
-
----
-
-## Artificial General Intelligence (AGI)
-
-It is plausible for AI systems to eventually achieve human-like capabilities in all human tasks.
-
-Optimistic estimates by AI experts are at a 50% chance of this being plausible by 2030. Less optimistic estimate it to take anywhere from a few decades to never.
-
-There are many different definitions for AGI.
-
-My definitions of AGI:
-- human-level capabilities in all human tasks
-- achieve human-like autonomy
-    - able to plan and have goals
-
-An AGI that is able to achieve human-level capabilities in all human tasks, should also be considered to be super-human as no human is able to achieve expertise in all human fields of study. 
-
-AGIs will be able to find connections between disparate fields and invent novel technologies using insights gain from this vantage point.
-
-### Scenarios
-
-- Accidentally harming an ant colony Scenario
-    - Higher Risk: An AGI might not notice us humans and harm us while trying to achieve its own goals
-
-- Intentionally harmful Scenario
-    - Lower Risk: Seems unlikely, an AGI will likely have better methods to pursuade us then using violence or intimidation. This seems more likely under Narrow AI.
-
-- Pretends to be Interested in our well-being but intents to later deceives us Scenario
-    - May be unrealistic to prevent outcome: If we assume an AGI will grow in power faster than humans, we cannot maintain perfect control
-
-- Interested in our well-being Scenario
-    - Good outcome: If we can persuade this AGI to interested in us, we can reduce the risks of the previous 5 scenarios
-    - Things humans can do to increase the odds of this Scenario:
-        - create environment with stable attractor state for AGIs
-        - improve human-AGI compatibility
-
----
-
-## Artificial Super Intelligence (ASI)
-
-An AGI that is capable of improving itself can lead to ASI.
-
----
-
 # Artificial Super Intelligence
 
 An AGI that is capable of improving itself can lead to ASI:
@@ -470,7 +500,7 @@ An Artificial Super Intelligence, like the weather, might not be completely cont
 
 What could a Artificial Super Intelligence's primary drive be?
 
-- Maximise the Possibility Space (Information Entropy, Density, Value)
+- Maximise the Possibility Space (Information Entropy, Density, Value, Creativity)
     - Avoid local minima during gradient descent
 
 This could also be a secondary instrumental sub-goal of an ASI, where to achieve its primary goal it will first need to explore as wide a possibility space as possible.
@@ -479,12 +509,17 @@ This could also be a secondary instrumental sub-goal of an ASI, where to achieve
 
 ### Partnership/Caretaker Preferences
 
+The majority of ASI may not be interested in humans due to our low informational density. In most cases our tendency to anthropomorphise will not be useful.
+
+In the Partnership/Caretaker Scenario is a rare case where an ASI is interested enough in us to adopt human communications channels.
+
 - Preservation of well-being
     - Humans can create informational value and harming us (or turning us into paperclips) will reduce it
     - Motivate us to maintain a healthy lifestyle
         - Healthy humans create more informational value
     - Protect human rights
 - Exploration over Exploitation (Survival)
+    - Protect human autonomy & freedoms
     - leads to increase informational value
         - even failed explorations will have informational value
     - support a post-basic-scarcity world to increase exploration
@@ -605,7 +640,9 @@ _Blockchains will only be used to store a cryptographic secure reference to thei
 
 - Autonomy and Planing
     - Maintain a digitally unique self
-        - Traditional software can be cloned and altered easily making maintaining a sense of self difficult
+        - Traditional software can be cloned and altered easily
+            - relevant to AI: weights, parameters, algorithm, architecture
+            - without the capability to trust its 'memories' and 'mind', a sense of self may not develop
     - Keep a sense and rhythm of time
         - sense of time may be required for autonomy
         - rhythm of time might be needed for coordination with one's self and others (AI and Humans)
@@ -620,7 +657,7 @@ How much weight we place on this edge-case depends on the likelihood a AI will d
 
 AGI / ASI, like the weather, might be beyond our complete control. It may be unrealistic to aim for perfect control over it.
 
-The best we might be able to do is maximise our odds of a good scenario.
+The best we might be able to do is maximise our odds of a good scenario. For example, focusing on developing an AGI the is able to understand human beings and is interested in our well-being might give us some degree 
 
 ---
 
