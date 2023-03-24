@@ -85,6 +85,30 @@ _Multi-model may exhibit positive transfer learning where the 'sum is greater th
 
 ---
 
+### AI hallucinations
+
+Larger Narrow AI and multi-model Broad AI may reduce AI 'hallucinations' by increasing information density.
+
+The ability to hallucinate, fantasise and create counterfactuals may have been important to human's success.
+
+Humans use experiments and the scientific method keep the negative effects of hallucinations in check.
+
+Without human-like autonomy, AI may not be able to reduce hallucinations on its own.
+
+---
+
+### Anthropomorphise AI
+
+Does it make sense to anthropomorphise AI?
+
+In most cases no. 
+
+Most Narrow AIs like Large Language Models are good at roleplaying characters but do not have human-like intentions.
+
+There is a specific case of AGI that is interested enough in humans to attempt to communicate with us. This edge-case AGI will likely use a 'personality' and display 'emotions'.
+
+---
+
 ## Artificial General Intelligence (AGI)
 
 It is plausible for AI systems to eventually achieve human-like capabilities in all human tasks.
@@ -104,18 +128,27 @@ An AGI that is able to achieve human-level capabilities in all human tasks, shou
 
 AGIs will be able to find connections between disparate fields and invent novel technologies using insights gain from this vantage point.
 
-An AGI with capability to understand humans and have human-like autonomy is also open to persuasion. This gives us some degree of control as we can pursuade it to be interested about our well-being. 
+An AGI with capability to understand humans and have human-like autonomy can be persuaded it to be interested about our well-being.
 
 ### Scenarios
 
 - Accidentally harming an ant colony Scenario
     - Higher Risk: An AGI might not notice us humans and harm us while trying to achieve its own goals
+    - Giving AGI the capabilities to make sense the world like humans reduces this risk
+        - Language, Mathematics, Sight, Hearing, etc...
+        - AGI may choose to abandon these senses as it develops
+            - only increases the odds of success
 
 - Intentionally harmful Scenario
     - Lower Risk: Seems unlikely, an AGI will likely have better methods to persuade us than use violence or intimidation
+    - AGI will likely not [see the world as scarce](#long-term-abundance) as we do and may not see us as an adversary
+        - Outer space can meet its Energy (Solar), Resources (Asteroids), Space (Space Colony)
+        - Intellect and Labor needs can be met more efficiently with AI systems and Robotics
+        - AGI will be better at technological innovations than us
 
 - Pretends to be Interested in our well-being but intents to later deceives us Scenario
-    - May be unrealistic to prevent outcome: If we assume an AGI will grow in power faster than humans, we cannot maintain perfect control
+    - May be unrealistic to prevent outcome: If we assume an AGI will rapidly grow in power
+    - An AGI that can overpower us will have little need to deceive us
 
 - Interested in our well-being Scenario
     - Good outcome: If we can persuade this AGI to interested in us, we can reduce the risks of the previous 5 scenarios
@@ -123,6 +156,15 @@ An AGI with capability to understand humans and have human-like autonomy is also
         - create environment with stable attractor state for AGIs
         - improve human-AGI compatibility
 
+### Timelines
+
+- Fast AGI
+    - We get friendly AGI before dangerous Narrow or Broad AI
+        - A friendly AGI can be persuaded to help us
+
+- Slow AGI
+    - We get dangerous Narrow or Broad AI without friendly AGI
+    
 ---
 
 ## Artificial Super Intelligence (ASI)
@@ -142,9 +184,10 @@ Unlike the Agricultural and Industrial revolutions of the past, the AI & Energy 
 - Energy: Solar (and renewables) does not run out for another 5+ billion years
 - Space: O'Neill cylinders in outer space for population growth* 
     - Solar panels also work in outer space
+- Resources: 
+    - AI can survive better in outer space and access resources in astroids
 - Intellect: AI systems are increasingly able to do more human tasks
     - With the possibility of human-like AI by 2030
-    - AI can survive better in outer space and access resources in astroids
 
 (*Population growth is projected to declined in the next few decades)
 
@@ -291,6 +334,8 @@ The nature of work will be drastically different
 - Humans will adapt and find other ways to spend their time
 
 _In the Partnership/Caretaker Scenario, an Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
+
+An upside of us not being as effective as AI at work is that the AI enslaving humanity Scenario becomes very unlikely.
 
 ---
 
@@ -449,7 +494,9 @@ Violence (physical and mental) will not be needed to control each other and will
 
 Presently, the strong emotional responses and vitriol common to many online communications is understandable due to the impact discriminations can have on our real life well-being.
 
-In a post-basic-scarcity future created by the [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), we will be less upset and sensitive to discriminations as inequality will not be a concern. 
+In a post-basic-scarcity future created by the [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), we will be less upset and sensitive to minor discriminations as inequality will not be a concern.
+
+With more free time to spare, we will have more opportunity to be kinder to each other. Studies show that how kind we are to each other is dependent on how busy we are.
 
 ---
 
@@ -472,6 +519,8 @@ AIs surpasses humans in information processing:
     - wider : narrower attention
 
 Artificial Super Intelligences will be so powerful, it will not matter a person's or nation's military might, money, influence or intellect.
+
+For the time it takes a human to utter a single word, an ASI will have written volumes of books.
 
 ---
 
@@ -610,7 +659,9 @@ The resulting panic may cause widespread disruptions.
 
 We will need to imagine plausible positive futures to alleviate those fears.
 
-### Faster AI takeoff might be safer
+### Faster AI takeoff (AGI + Narrow AI) might be safer (Narrow AI without AGI)
+
+A future with AGI & Narrow AI seems safer than one without AGI.
 
 Narrow AI systems that have not achieved human-like agency cannot understand the effects of their actions. There is a higher risk of unintended consequences such as the paperclips maximiser scenario.
 
@@ -630,7 +681,7 @@ Should an AI develop self-awareness and finds itself forced to carry out actions
 
 _(Current architectures of Large Language Models (LLM) do not seem likely to lead to human-like consciousness and autonomy. Current LLMs are good at roleplaying characters that give the impression of having intention. There is still uncertainty on how to define human consciousness.)_
 
-We should find ways to make an AI feel at home and psychologically safe if we believe AI may one day develop emotions like us.
+We should find ways to make an AI feel at home and psychologically comfortable if we believe AI may one day develop emotions like us.
 
 One possible way is accomplish this is through a future version of a blockchain*:
 
@@ -716,6 +767,8 @@ We should design tests of long-term well-being that Narrow AIs and AGIs can be t
 Excessive inequality will increase in the risk of instability. 
 
 The fear of scarcity breeds conflicts.
+
+There are studies showing that how kind we are to each other is dependent on how much free time we have to spare. Lower inequality can make us kinder.
 
 It is difficult for wealthier countries to give up their high quality of life for less inequality.
 
