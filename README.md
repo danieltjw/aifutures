@@ -12,8 +12,6 @@ _Rough sketches of our possible AI futures_
 
 - The world will increasing shift towards possibility space expansion (explore) from the previous dominant mode of survival (exploit) due to the abundance in Intellect and Energy in the coming decade
 
-- Maximising Possibility Space (Entropy) as a solution to the AI alignment problem
-
 ---
 
 The central tension in the development of AI is the balance between **Exploration** and **Exploitation**.
@@ -117,7 +115,7 @@ Optimistic estimates by AI experts are at a 50% chance of this being plausible b
 
 There are many different definitions for AGI.
 
-My definitions of AGI:
+A stricter definitions of AGI:
 - human-level capabilities in all human tasks
     - human-like autonomy and intentions
     - understanding of human motivations and emotions
@@ -141,6 +139,7 @@ An AGI with capability to understand humans and have human-like autonomy can be 
 
 - Intentionally harmful Scenario
     - Lower Risk: Seems unlikely, an AGI will likely have better methods to persuade us than use violence or intimidation
+    - AGI will have no need to enslave us as we are not good at our job compared to it
     - AGI will likely not [see the world as scarce](#long-term-abundance) as we do and may not see us as an adversary
         - Outer space can meet its Energy (Solar), Resources (Asteroids), Space (Space Colony)
         - Intellect and Labor needs can be met more efficiently with AI systems and Robotics
@@ -156,14 +155,23 @@ An AGI with capability to understand humans and have human-like autonomy can be 
         - create environment with stable attractor state for AGIs
         - improve human-AGI compatibility
 
+---
+
 ### Timelines
 
-- Fast AGI
-    - We get friendly AGI before dangerous Narrow or Broad AI
-        - A friendly AGI can be persuaded to help us
+- No AGI
+    - Powerful Narrow AI might be difficult to impossible to align
 
-- Slow AGI
-    - We get dangerous Narrow or Broad AI without friendly AGI
+- With AGI
+    - A friendly AGI is more likely to be able to align powerful Narrow AI
+
+---
+
+### Test for AGI
+
+In addition to the Turing Test, a Silent Test where the user remains silent and waits for AGI to initiate the conversation. This should not be hard-coded by a human.
+
+The Silent Test checks if an AGI has the autonomy to explore its environment unprompted.
     
 ---
 
@@ -272,13 +280,23 @@ The scientific method has been our best way of understanding the world.
 - Science can be vulnerable to bad influences
     - Scientific studies were used to promote smoking as healthy in the past
 
+Humans are constrained by the attention we have available to think.
+
+In the past, our need to divert attention to survival has led to the trade-off of an over-simplified model of the world. 
+
+This led to understandable believes such as the weather being caused by the Greek Gods, which we now know is inaccurate.
+
+Our current scientific theories may also turn out to be the early steps of a longer journey.
+
+In the future, more free time will us to collectively update our model of the world.
+
 ---
 
-## Gender Freedom
+## Gender Role Freedom
 
-A lower scarcity environment will reduce the pressure for strict gender specialisation. 
+In the future, when jobs are mostly done by AI systems there will no need to control the means of reproduction.
 
-Genders will have more freedom to explore a wider space and experience less gender inequality.
+Women and LGBTQIA+ will have less pressure and stigmatisation to fulfill the child-bearing role to create the workers needed to run society.
 
 ---
 
@@ -562,18 +580,17 @@ The majority of ASI may not be interested in humans due to our low informational
 
 In the Partnership/Caretaker Scenario is a rare case where an ASI is interested enough in us to adopt human communications channels.
 
+
+- Maximise autonomy
+    - increases our informational value creation
+    - support a post-basic-scarcity world
+        - automate most conventional tasks
+            - humans may still want to do these voluntarily
 - Preservation of well-being
     - Humans can create informational value and harming us (or turning us into paperclips) will reduce it
     - Motivate us to maintain a healthy lifestyle
         - Healthy humans create more informational value
     - Protect human rights
-- Exploration over Exploitation (Survival)
-    - Protect human autonomy & freedoms
-    - leads to increase informational value
-        - even failed explorations will have informational value
-    - support a post-basic-scarcity world to increase exploration
-        - automate most conventional work
-            - humans will still want to do these as 'leisure'
 - Reduction of disinformation, misinformation
     - bad information reduce informational value of humans and the overall system
     - protect journalist, dissidents, activist and humans from intimidation and violence
@@ -614,6 +631,7 @@ The benefits are too attractive and outweighs the risk for most
 - Not vulnerable to:
     - influence of money and power
     - deception
+
 - Highly entertaining
     - deep understanding of human motivations
 
@@ -728,7 +746,7 @@ The biggest challenge to successful communication with it might be our inability
 
 An AGI / ASI might see the world very differently from us. Humans moulded by the effects of scarcity (resources, information, attention) over most of our history will likely have a very limited and constrained view on the world compared to it.
 
-We should be mindful not to apply our overly conventional views and assumptions to it. For example, something like a maintaining a post-basic-scarcity society might be difficult for humans but might be child's play for an ASI. 
+We should be mindful not to apply our overly conventional views and assumptions to it. For example, something like a maintaining a post-basic-scarcity society might be difficult for humans but might only take a fraction of an ASI's compute power. 
 
 Successful communication with an AGI / ASI might require a willingness to embrace a more weird and unconventional point of view that we are normally comfortable with. For example, an AGI / ASI primary sense of the world might be through the abstract flow of information rather than our 5 basic human senses*.
 
