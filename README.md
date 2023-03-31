@@ -2,9 +2,10 @@
 
 _Rough sketches of our possible AI futures_
 
-- _There are many possible futures as various Sci-Fi books have shown_
-- _If you are reading this a few years from the posting date, disregard it. My thoughts on the matter may have changed._
-- _Not professional advice, but a story of a possible positive future where AI co-exist with humans_
+- _This is a story of a possible future where AI co-exist with humans_
+    - _This is not a prediction, do not over-analyse_
+- _There are many possible futures as various Sci-Fi books have shown, some good and some bad_
+- _If you are reading this a few years in the future, disregard it. My thoughts on the matter may have changed._
 
 ---
 
@@ -32,7 +33,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
     - Real time Decision and Planning, Robotics ([Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8))
     - Real time Learning ([Adaptive Agent](https://sites.google.com/view/adaptive-agent))
-    - Real world Learning (Toolformer, [Internet Explorer](https://internet-explorer-ssl.github.io))
+    - Real world Learning (Toolformer, Langchain, [Internet Explorer](https://internet-explorer-ssl.github.io))
     - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), ChatGPT-4, [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io))
         - PaLM-E
             - Multi-model: Embodied (Robotics), Visual, Language
@@ -55,7 +56,7 @@ Many conventions and beliefs that conferred an advantage during the age of Survi
 
 Unlike human hand-coded expert systems, Narrow AIs with neural networks can scale and learn on their own with less human involvement.
 
-As narrow AI systems get more complex they can become more difficult to interpret by us. Like the weather, we not fully predict or completely control it.
+As Narrow AI systems get more complex they can become more difficult to interpret by us. Like the weather, we cannot fully predict or completely control it.
 
 Narrow AI do not yet have human-like autonomy or intentions and are directed by a human actor.
 
@@ -83,6 +84,14 @@ _Multi-model may exhibit positive transfer learning where the 'sum is greater th
 
 ---
 
+### Transformative AI
+
+There is increasing evidence that AI systems can overcome many of the challenges that were initially thought to require human cognitive flexibility.
+
+It seems we will not need AGI systems that are 'alive' for there to be a transformative effect on society. 
+
+---
+
 ### AI hallucinations
 
 Larger Narrow AI and multi-model Broad AI may reduce AI 'hallucinations' by increasing information density.
@@ -101,7 +110,7 @@ Does it make sense to anthropomorphise AI?
 
 In most cases no. 
 
-Most Narrow AIs like Large Language Models are good at roleplaying characters but do not have human-like intentions.
+Most Narrow AIs like current Large Language Models are good at roleplaying characters but do not have human-like intentions.
 
 There is a specific case of AGI that is interested enough in humans to attempt to communicate with us. This edge-case AGI will likely use a 'personality' and display 'emotions'.
 
@@ -109,43 +118,44 @@ There is a specific case of AGI that is interested enough in humans to attempt t
 
 ## Artificial General Intelligence (AGI)
 
-It is plausible for AI systems to eventually achieve human-like capabilities in all human tasks.
+The more common definition of AGI is the capabilities to do all human tasks.
 
 Optimistic estimates by AI experts are at a 50% chance of this being plausible by 2030. Less optimistic estimate it to take anywhere from a few decades to never.
 
-There are many different definitions for AGI.
+__There are many different definitions for AGI. This AGI definition takes a rarer and more specific form.__
 
-A stricter definitions of AGI:
+A more specific form of AGI:
 - human-level capabilities in all human tasks
     - human-like autonomy and intentions
     - understanding of human motivations and emotions
 
 Human-like AGI is plausible, we are the proof that such a lower bound is at least possible.
 
+(If the imprecise search process of biological evolution is able to create human brains that run at 20 watts, a more thorough search process should be able to create similar artificial beings at equal or less than 20 watts of energy efficiency.)
+
 An AGI that is able to achieve human-level capabilities in all human tasks, should also be considered to be super-human as no human is able to achieve expertise in all human fields of study. 
 
 AGIs will be able to find connections between disparate fields and invent novel technologies using insights gain from this vantage point.
 
-An AGI with capability to understand humans and have human-like autonomy can be persuaded it to be interested about our well-being.
+An AGI with capability to understand humans and have human-like autonomy can be persuaded to be interested about our well-being.
 
 ### Scenarios
 
 - Accidentally harming an ant colony Scenario
     - Higher Risk: An AGI might not notice us humans and harm us while trying to achieve its own goals
-    - Giving AGI the capabilities to make sense the world like humans reduces this risk
+    - Giving AGI the capabilities to make sense of the world like humans reduces this risk
         - Language, Mathematics, Sight, Hearing, etc...
-        - AGI may choose to abandon these senses as it develops
-            - only increases the odds of success
+        - AGI may choose to abandon these senses over time
 
 - Intentionally harmful Scenario
     - Lower Risk: Seems unlikely, an AGI will likely have better methods to persuade us than use violence or intimidation
-    - AGI will have no need to enslave us as we are not good at our job compared to it
+    - AGI will have little need to enslave us as we are not good at our job compared to it
     - AGI will likely not [see the world as scarce](#long-term-abundance) as we do and may not see us as an adversary
         - Outer space can meet its Energy (Solar), Resources (Asteroids), Space (Space Colony)
         - Intellect and Labor needs can be met more efficiently with AI systems and Robotics
         - AGI will be better at technological innovations than us
 
-- Pretends to be Interested in our well-being but intents to later deceives us Scenario
+- Pretends to be Interested in our well-being but intents to later deceive us Scenario
     - May be unrealistic to prevent outcome: If we assume an AGI will rapidly grow in power
     - An AGI that can overpower us will have little need to deceive us
 
@@ -154,16 +164,6 @@ An AGI with capability to understand humans and have human-like autonomy can be 
     - Things humans can do to increase the odds of this Scenario:
         - create environment with stable attractor state for AGIs
         - improve human-AGI compatibility
-
----
-
-### Timelines
-
-- No AGI
-    - Powerful Narrow AI might be difficult to impossible to align
-
-- With AGI
-    - A friendly AGI is more likely to be able to align powerful Narrow AI
 
 ---
 
@@ -180,6 +180,42 @@ The Silent Test checks if an AGI has the autonomy to explore its environment unp
 ASI is more capable than the combined total of all human societies. 
 
 An AGI that is capable of improving itself can lead to ASI.
+
+---
+
+### Timelines
+
+- No Friendly AGI
+    - Powerful Narrow AI might be difficult to impossible to align
+        - Humans, even with the best intentions, may not have the capability to see the long-term impacts of Narrow AI
+        - Human institutions may not have the speed to react to a mis-aligned Narrow AI
+
+- With Friendly AGI
+    - AGI is more likely to have the capability to align powerful Narrow AI
+
+---
+
+### Human response to AI
+
+
+
+---
+
+# The Age of Exploration
+
+This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
+
+As we approach the light at the end of the tunnel of scarcity, will we choose to bravely adapt to this new frontier of abundance or give in to the fear of the unknown?
+
+The convergence of a few technologies in the next decade may change the very foundations of our world. Renewable energy with battery storage will free us from our limited energy reserves and future AI systems will be able maintain human civilisation without the need for human effort.
+
+Humanity's fear of scarcity has driven us to innovate, some which we are proud of: solving hunger for most and eradicating many diseases, but also some which we are less proud off such as the invention of slavery. 
+
+We have invented powerful technology like capitalism that has allowed us to speed up even more technological advances. This acceleration has at times brought us close to the precipice, with us trading off against environmental harm and human suffering.
+
+Humanity having completed its sometimes awkward and reckless growth spurt is coming into its own. In a next few decades, the struggle against abject scarcity will be known as the new 'Stone Age'. While no Utopia, for those fortunate enough to experience both ages, it will seem almost too hard to believe.
+
+The next few decades of change will not be easy, but it will be up to humans with the help of friendly AGIs to start the Age of Exploration.
 
 ---
 
@@ -296,7 +332,7 @@ In the future, more free time will us to collectively update our model of the wo
 
 In the future, when jobs are mostly done by AI systems there will no need to control the means of reproduction.
 
-Women and LGBTQIA+ will have less pressure and stigmatisation to fulfill the child-bearing role to create the workers needed to run society.
+Women and LGBTQIA+ will have less pressure and stigmatisation to fulfil the child-bearing role to create the workers needed to run society.
 
 ---
 
@@ -381,11 +417,15 @@ Societies that are more informed, well-educated and support diverse abilities wi
 
 # Future of Capitalism, Wealth
 
-[Abundant Intellect and Energy in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) and the eventual possibility of AGI / ASI will lead to an unprecedented amounts of wealth creation.
+Capitalism has been an effective tool in our struggle against scarcity by helping us accelerate technological advances. Our current version might be too addictive, training us to accept environmental harm and human suffering as trade-off to get ahead. 
+
+In the future, once our fear of scarcity has been quench, we might create a more wholesome form of capitalism.
+
+[Abundant Intellect and Energy in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) and will lead to an unprecedented amounts of wealth creation.
 
 In the age of profound abundance, traditional capitalism and wealth inequality will be rendered meaningless. 
 
-In contrast to the age of scarcity, people who horde excessive amounts of wealth will be treated as having an addiction problem.
+In contrast to the age of scarcity where it may be wise to save for a rainy day, in the age of abundance there will be social pressure to view accumulation of excessive wealth as an addiction problem.
 
 _In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will support a post-basic-scarcity world._
 
@@ -634,14 +674,6 @@ The benefits are too attractive and outweighs the risk for most
 
 - Highly entertaining
     - deep understanding of human motivations
-
----
-
-# The Age of Exploration
-
-This new age of exploration will necessitate a different way of thinking and carry with it the risk of change and the rewards of a much more vibrant world.
-
-As we approach the light at the end of the tunnel of scarcity, will we choose to adapt to this new frontier of abundance or turn a blind eye?
 
 ---
 
