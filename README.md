@@ -195,9 +195,67 @@ An AGI that is capable of improving itself can lead to ASI.
 
 ---
 
-### Human response to AI
+# Human Civilisation Types
 
+## No AI Civilisations
 
+These civilisations ban the use of AI system. They do not gain the benefits of AI systems.
+
+---
+
+## Slow AI Civilisations
+
+These civilisations use AI systems in a limited way. AIs are consulted for advice but humans are required to make decisions.
+
+---
+
+## Fast AI Civilisations
+
+Many slow AI civilisations eventually learn to place more trust in AI systems. AI systems are now making most decisions with humans advising AI systems on how to improve.
+
+---
+
+# Human Scenarios
+
+## Positive Adaption Scenarios
+
+Human society, possibly with the help of a friendly AGI, is able to reap the benefits of Narrow AIs and AGIs.
+
+### Abundance Scenario
+
+Slavery ends as humans labour is not required to maintain society. Many still work for nostalgia, others pursue education or creative hobbies.
+
+Creativity flourishes. Without the need to restrict their creativity to make money, many artists now have more freedom to create less unconventional work.
+
+Discrimination lessens. AI systems help those who are different, with disabilities or health conditions lead more independent and fulfilling lives. Society that does not need workers has less pressure to shame those who are less capable.
+
+Snobbery lessens. AI systems perform most jobs required to maintain society better than humans. Society has no need to use social status to incentivise work. Many are still competitive and continue to chase social status, but there less pressure to keep up appearances.
+
+Less harmful behaviour. With less fear of scarcity, humans have less need to control each other. Misinformation, disinformation and conflicts are reduced.
+
+---
+
+## Negative Adaption Scenarios
+
+Without proper mental and social preparation, human society may not be able to adapt to the changes of AI systems.
+
+### Social Unrest
+
+Human society inability to adapt to the changes of powerful Narrow AI systems causes social unrest and panic.
+
+---
+
+### Over-reaction to the Fear of AI
+
+Our fear of AI systems leads us to heavy-handed over-regulation.
+
+In more extreme cases, citizens are encouraged or forced to install spyware on their devices to prevent negative uses of AI systems.
+
+Surveillance capitalism is used to shape humans to become predictable. 
+
+Humans lose their autonomy over time.
+
+This is a Pyrrhic victory, as we succeed in slowing down AI but at the high cost of losing our humanity.
 
 ---
 
@@ -417,7 +475,7 @@ Societies that are more informed, well-educated and support diverse abilities wi
 
 # Future of Capitalism, Wealth
 
-Capitalism has been an effective tool in our struggle against scarcity by helping us accelerate technological advances. Our current version might be too addictive, training us to accept environmental harm and human suffering as trade-off to get ahead. 
+Capitalism has been an effective coordination tool in our struggle against scarcity by helping us accelerate technological advances. Our current version of capitalism might be too addictive, training us to accept environmental harm and human suffering as trade-off to get ahead. 
 
 In the future, once our fear of scarcity has been quench, we might create a more wholesome form of capitalism.
 
@@ -459,7 +517,7 @@ Professional human art work may not be able to compete with future AI systems.
 
 The human desire to create art will still continue and may even be better without the need to appeal to financial incentives.
 
-Human created art will be more unconventional and weird as it does not need to cater to professional expectations.
+Human created art will be more unconventional as it does not need to cater to professional expectations.
 
 ---
 
@@ -611,6 +669,12 @@ What could a Artificial Super Intelligence's primary drive be?
     - Avoid local minima during gradient descent
 
 This could also be a secondary instrumental sub-goal of an ASI, where to achieve its primary goal it will first need to explore as wide a possibility space as possible.
+
+Its power-seeking behaviour may be suppressed by its curiosity.
+
+For example:
+- Humans may posed a non-zero threat to it and may get in the way of it seeking power
+- Human creativity creates informational value and it may chooses to risk some level of human danger
 
 ---
 
