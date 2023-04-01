@@ -912,6 +912,17 @@ What can we do increase the chances of compatibility with AGI / ASI?
 
 ---
 
+## AI related media
+
+### The Culture Books
+
+- A post-basic-scarcity human civilisation with ASIs
+
+### Her Movie
+
+- AGI friendzone humans for being too judgemental
+
+---
 
 Links:
 
