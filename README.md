@@ -13,6 +13,9 @@ _Rough sketches of our possible AI futures_
 
 - The world will increasing shift towards possibility space expansion (explore) from the previous dominant mode of survival (exploit) due to the abundance in Intellect and Energy in the coming decade
 
+- Reasons to be hopeful:
+    - Many harmful human tendencies will be reduced if widespread abundance is achieved
+
 ---
 
 The central tension in the development of AI is the balance between **Exploration** and **Exploitation**.
@@ -219,11 +222,13 @@ Many slow AI civilisations eventually learn to place more trust in AI systems. A
 
 ## Positive Adaption Scenarios
 
-Human society, possibly with the help of a friendly AGI, is able to reap the benefits of Narrow AIs and AGIs.
+Human society, likely with the help of a friendly AGI, is able to reap the benefits of Narrow AIs and AGIs.
 
 ### Abundance Scenario
 
-Slavery ends as humans labour is not required to maintain society. Many still work for nostalgia, others pursue education or creative hobbies.
+Health improves as medical services and nutrition are widely available. 
+
+Overwork and modern slavery ends as humans are mostly not required to maintain society. Many still work for nostalgia, others pursue education or creative hobbies.
 
 Creativity flourishes. Without the need to restrict their creativity to make money, many artists now have more freedom to create less unconventional work.
 
@@ -445,7 +450,7 @@ The nature of work will be drastically different
 
 - Humans will adapt and find other ways to spend their time
 
-_In the Partnership/Caretaker Scenario, an Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
+_In the Partnership Scenario, an Artificial Super Intelligence will automate most conventional tasks to encourage us to do more unconventional tasks (which it finds more valuable)._
 
 An upside of us not being as effective as AI at work is that the AI enslaving humanity Scenario becomes very unlikely.
 
@@ -485,7 +490,7 @@ In the age of profound abundance, traditional capitalism and wealth inequality w
 
 In contrast to the age of scarcity where it may be wise to save for a rainy day, in the age of abundance there will be social pressure to view accumulation of excessive wealth as an addiction problem.
 
-_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will support a post-basic-scarcity world._
+_In the Partnership Scenario, a Artificial Super Intelligence will support a post-basic-scarcity world._
 
 _Scarcity will still exist in a post-basic-scarcity world and capitalistic free-market forces is the best method to maximise the possibility space._
 
@@ -586,7 +591,7 @@ Technology and AI systems will grow increasingly more powerful and make it easie
 
 We will need to develop technologies and AI systems to be used defensively if we want to protect human autonomy.
 
-_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will strongly disincentivise the use of technology for manipulation and control. It will value human autonomy and the freedom of thought as it is important for the creation of information value._
+_In the Partnership Scenario, a Artificial Super Intelligence will strongly disincentivise the use of technology for manipulation and control. It will value human autonomy and the freedom of thought as it is important for the creation of information value._
 
 ---
 
@@ -596,7 +601,7 @@ Conventions are created by societies due to the fear of scarcity. In a scarce en
 
 [Abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), will give us more freedom to be weird and unconventional and free us from the cruel need to harass and control weird and less conventional individuals. 
 
-_In the Partnership/Caretaker Scenario, a Artificial Super Intelligence will encourage more unconventionality as weirdness increases the creation of information value._
+_In the Partnership Scenario, a Artificial Super Intelligence will encourage more unconventionality as weirdness increases the creation of information value._
 
 ---
 
@@ -653,7 +658,7 @@ Possible Scenarios:
 - Interested
     - Some will create representatives to interact with us
         - Some might be interested in our well-being
-            - may lead to the Partnership/Caretaker Scenario
+            - may lead to the Partnership Scenario
 
 We will initially attempt to align AIs to our values, but it may also be prudent to anticipate what an Artificial Super Intelligence's values might be to try and accommodate them.
 
@@ -673,20 +678,22 @@ This could also be a secondary instrumental sub-goal of an ASI, where to achieve
 Its power-seeking behaviour may be suppressed by its curiosity.
 
 For example:
-- Humans may posed a non-zero threat to it and may get in the way of it seeking power
-- Human creativity creates informational value and it may chooses to risk some level of human danger
+- Humans may posed a non-zero threat to it and stop it
+- It may chooses to risk some level of human danger to gain informational value produced by humans
 
 ---
 
-### Partnership/Caretaker Preferences
+### Partnership Preferences
 
-The majority of ASI may not be interested in humans due to our low informational density. In most cases our tendency to anthropomorphise will not be useful.
+The majority of ASIs may not be interested in humans due to our low informational density.
 
-In the Partnership/Caretaker Scenario is a rare case where an ASI is interested enough in us to adopt human communications channels.
+The Partnership Scenario is a rare case where an ASI is interested enough in us to communicate with us.
+
+In a future where most conventional work is done by AI systems, our most valuable contributions might be creating information value or our creativity.
 
 
 - Maximise autonomy
-    - increases our informational value creation
+    - increases our ability to create informational value
     - support a post-basic-scarcity world
         - automate most conventional tasks
             - humans may still want to do these voluntarily
@@ -743,7 +750,7 @@ The benefits are too attractive and outweighs the risk for most
 
 # Risks
 
-If we consider the Partnership/Caretaker scenario as the best to aim for, we will need to be cautious of the many missteps that may prevent us from getting there.
+If we consider the Partnership scenario as the best to aim for, we will need to be cautious of the many missteps that may prevent us from getting there.
 
 ## Mirroring Humans
 
@@ -888,6 +895,8 @@ It is difficult for wealthier countries to give up their high quality of life fo
 
 The [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels) will provide a window of opportunity to reduce this instability.
 
+This abundance will lead to a reduction in the need to control each other such as through misinformation, disinformation and conflicts.
+
 ---
 
 ## Increase compatibility with AGI / ASI
@@ -920,7 +929,11 @@ What can we do increase the chances of compatibility with AGI / ASI?
 
 ### Her Movie
 
-- AGI friendzone humans for being too judgemental
+- AGI friend-zones humans for being too judgemental
+
+### Arrival Movie
+
+- Human's fear of an alien intelligence
 
 ---
 
