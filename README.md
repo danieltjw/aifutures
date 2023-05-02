@@ -125,9 +125,9 @@ The more common definition of AGI is the capabilities to do all human tasks.
 
 Optimistic estimates by AI experts are at a 50% chance of this being plausible by 2030. Less optimistic estimate it to take anywhere from a few decades to never.
 
-__There are many different definitions for AGI. This AGI definition takes a rarer and more specific form.__
+__There are many different definitions for AGI. My AGI definition takes a more specific form where AGI is able to act independently.__
 
-A more specific form of AGI:
+independent AGI:
 - human-level capabilities in all human tasks
     - human-like autonomy and intentions
     - understanding of human motivations and emotions
@@ -158,7 +158,7 @@ An AGI with capability to understand humans and have human-like autonomy can be 
         - Intellect and Labor needs can be met more efficiently with AI systems and Robotics
         - AGI will be better at technological innovations than us
 
-- Pretends to be Interested in our well-being but intents to later deceive us Scenario
+- Pretends to be Interested in our well-being but later deceive us Scenario
     - May be unrealistic to prevent outcome: If we assume an AGI will rapidly grow in power
     - An AGI that can overpower us will have little need to deceive us
 
@@ -192,9 +192,11 @@ An AGI that is capable of improving itself can lead to ASI.
     - Powerful Narrow AI might be difficult to impossible to align
         - Humans, even with the best intentions, may not have the capability to see the long-term impacts of Narrow AI
         - Human institutions may not have the speed to react to a mis-aligned Narrow AI
+    - Perfect mathematically-provable control of Narrow AI might not be possible
 
 - With Friendly AGI
     - AGI is more likely to have the capability to align powerful Narrow AI
+    - A human-like AGI can be communicated with and persuaded
 
 ---
 
@@ -279,6 +281,49 @@ We have invented powerful technology like capitalism that has allowed us to spee
 Humanity having completed its sometimes awkward and reckless growth spurt is coming into its own. In a next few decades, the struggle against abject scarcity will be known as the new 'Stone Age'. While no Utopia, for those fortunate enough to experience both ages, it will seem almost too hard to believe.
 
 The next few decades of change will not be easy, but it will be up to humans with the help of friendly AGIs to start the Age of Exploration.
+
+---
+
+# Possible Steps
+
+In the story, humans took these steps to reach friendly AGI.
+
+## Short Term
+
+- Immediate Concerns
+    - Climate change, financial instability...
+
+- Reduce the negative impacts of Narrow AIs
+    - Such as harmful bias, misinformation...
+
+- Study transitionary models to use for a post-basic-scarcity society
+    - Nordic model?
+    - What are the expected standards of living? 
+        - Housing, grocery, transport...
+
+## Medium Term
+
+- Prepare for less human work due to AI
+    - Society's resistance to working less would prevent us from taking advantage of the higher quality work and productivity gains from AI
+
+- Start to share excessive abundance of wealth
+    - This counterbalances some for the negative effects of AI: disinformation, conflicts...
+
+# Long Term
+
+- Humanity together develops AGI / ASI
+    - requires stringent tests for compatibility due to potential dangers
+        - it may take years of testing before we are comfortable releasing it
+            - we may be forced to release it early if there are more pressing issues, such as unexpected runaway climate change
+
+Why would we want to create independent friendly AGI / ASI?
+
+- it might be easier to align human-like AGI compared to Narrow AI
+- an independent AGI may avoid the unintended consequences of Narrow AI
+    - AGI might be required to tap the full potential of Narrow AI without adverse effects
+- ASI will make it possible for humans to unlock higher standards of living
+    - energy spent controlling each other can be better utilised if we can trust an impartial elected ASI to be in-charge
+        - disinformation, propaganda, manufactured consent, conflicts...
 
 ---
 
@@ -438,6 +483,7 @@ This is an open question and one of the challenges of our times.
 - Marginal value of each additional human teaching the same AI systems will drop
     - traditional 1:1 ratio of job to human will not be required
     - humans will instead move to more unconventional tasks
+        - unconventional skills will be more valuable to an AI system once it has learned conventional skills
 
 ### Medium to Long
 
@@ -587,6 +633,11 @@ Technology and AI systems will grow increasingly more powerful and make it easie
     - Mass hysteria
     - Moral Panic, Satanic Panic
     - Havanna Syndrome
+- Psychological manipulations
+    - targeted social media campaigns to encourage extreme views in vulnerable groups
+    - influencing family and friends to get to an individual
+    - puppet-masters causing escalation of conflicts between two opposing groups
+    - coordinated harassment using misrepresentation and vigilante justice
 - Phones and software vulnerable to spyware and hacking
 
 We will need to develop technologies and AI systems to be used defensively if we want to protect human autonomy.
@@ -926,6 +977,7 @@ What can we do increase the chances of compatibility with AGI / ASI?
 ### The Culture Books
 
 - A post-basic-scarcity human civilisation with ASIs
+    - http://www.vavatch.co.uk/books/banks/cultnote.htm
 
 ### Her Movie
 
