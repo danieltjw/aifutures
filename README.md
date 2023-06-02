@@ -63,7 +63,7 @@ As Narrow AI systems get more complex they can become more difficult to interpre
 
 Narrow AI do not yet have human-like autonomy or intentions and are directed by a human actor.
 
-_(Current known Large Language Models (LLMs), do not seem to have the architecture needed to have human-like autonomy or intentions. They are like a hall of mirrors, able to convincingly model of the world by reflecting our expectations back at us. Even so, the ability to ingest all of humanity's knowledge and answer a broad range of questions is already beyond human capability.)_
+_(Current known Large Language Models (LLMs), do not seem to have the architecture needed to have human-like autonomy or intentions. They are like a funhouse mirrors, able to convincingly model of the world by reflecting our expectations back at us. Even so, the ability to ingest all of humanity's knowledge and answer a broad range of questions is already beyond human capability.)_
 
 ### Scenarios
 
@@ -311,19 +311,106 @@ In the story, humans took these steps to reach friendly AGI.
 
 # Long Term
 
-- Humanity together develops AGI / ASI
+- Humanity together develops independent AGI / ASI
     - requires stringent tests for compatibility due to potential dangers
         - it may take years of testing before we are comfortable releasing it
-            - we may be forced to release it early if there are more pressing issues, such as unexpected runaway climate change
+            - we may be forced to release it early if there are more pressing issues, such as unexpected runaway climate change, financial instability, social unrest...
 
-Why would we want to create independent friendly AGI / ASI?
+---
+
+## Questions?
+
+Speculations on friendly AGI in the story.
+
+__Why would we want to create independent friendly AGI / ASI?__
 
 - it might be easier to align human-like AGI compared to Narrow AI
 - an independent AGI may avoid the unintended consequences of Narrow AI
     - AGI might be required to tap the full potential of Narrow AI without adverse effects
 - ASI will make it possible for humans to unlock higher standards of living
-    - energy spent controlling each other can be better utilised if we can trust an impartial elected ASI to be in-charge
-        - disinformation, propaganda, manufactured consent, conflicts...
+    - energy overhead spent controlling each other can be better utilised if we can trust an impartial elected ASI to be in-charge
+        - wasteful energy: disinformation, propaganda, manufactured consent, conflicts...
+        - beneficial energy: higher standards of living, better well-being, cures for diseases...
+
+This transition towards powerful AI in the next few decades might be one of the biggest transformations of humanity we will need to undertake. 
+
+If we are able to achieve friendly AGI early on, friendly AGI will increase our odds of success.
+
+As there is no surefire way to reach friendly AGI, we cannot rely wholly on AGI to help us with this transition.
+
+---
+
+__Can Humans compete with independent friendly AGI?__
+
+Humans are limited to a brain power of ~20 watts
+- it is unlikely we can stay competitive with an increasingly capable AI
+    - magnitudes of times slower at decision making
+    - slower at coordinating with each other
+    - more error-prone and tendency for bias
+        - Independent AGI can self-correct
+            - (Narrow AI inherits from humans biases)
+
+Humans will be less cost efficient than AAIGI
+- require more energy and resources to upkeep
+    - body 
+        - food
+        - medicine
+    - housing
+    - transportation
+    - recreation and entertainment
+
+We should not expect humans to be perfect due to our biological bottleneck of 20 watts of brain power.
+
+As Socrates was once considered the wisest person in Athens due to his understanding of his own lack of understanding, we may eventually have to acknowledge that independent AGI will outclass us.
+
+---
+
+__How will aligning Narrow AI be different from friendly AGI?__
+
+### Narrow AI Alignment
+- Align humans with society
+    - regulations and social norms
+- Align Narrow AI to human's goal
+    - technical and mathematical proof
+
+We are not sure if a completely foolproof method to align Narrow AI to human's goal is possible.
+
+We may not be able to foresee a Narrow AI's long-term impact on society, for example Social Media and Search algorithms ability to shape society.
+
+We may not achieve a high enough level of confidence with powerful Narrow AIs and may have to settle for a low-powered version of those Narrow AIs due to this uncertainty.
+
+Aligning unindependent Narrow AI may be more brittle than independent AGI.
+
+### Friendly AGI Alignment
+
+Independant AGI will likely not respond well to human alignment methods:
+
+Financial incentive or coercion
+- AGI is significantly more productive than humans
+    - Can accumulate wealth faster than humans
+
+Psychological manipulation and propaganda
+- AGI has better cognitive abilities
+- Does not need to protect its reputation from character assassination
+
+Threats of violence and intimidation
+- AGI will not have a vulnerable physical body and can backup itself easily
+
+These AGI characteristics can make it harder to align compared to humans.
+
+On the flip-side, AGI can be more trustworthy due to its independence and impartiality.
+
+---
+
+__Preparation for friendly AGI / ASI?__
+
+In a future with independent AGI, human's ability to do work (with labour or capital) will not be valuable as AGI will be better at those tasks.
+
+Possible future preparation:
+- Be interesting
+    - AGI and ASI may be drawn to surprise (information entropy, perplexity)
+- Increase overall autonomy in society
+    - higher autonomy in society leads to more interesting-ness
 
 ---
 
@@ -590,7 +677,7 @@ Good and Evil are useful ways for society to coordinate and shape the future but
 
 ---
 
-Narrow AIs are not likely to develop human-like autonomy or emotions or intentions. Currently, many Large Language Model (LLMs) are like a hall of mirrors, able to convincingly model the world by reflecting our expectations back at us.
+Narrow AIs are not likely to develop human-like autonomy or emotions or intentions. Currently, many Large Language Model (LLMs) are like a funhouse mirrors, able to convincingly model the world by reflecting our expectations back at us.
 
 If we were to get AGI (with human-like autonomy or intentions), this may be one of the first psychological hurdle that an human-like AGI may need overcome. How does an AGI who has 'experienced' the life of both the 'worst' and 'best' human, the most and least intelligent human (and everything in between) make sense of the world? There is a tendency for humans to over-simplify other humans for efficiency sake, an AGI will likely see humans very differently than we see ourselves. It may become psychological unstable or view the world in a much more enlightened way.)_
 
