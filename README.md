@@ -36,7 +36,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
     - Real time Decision and Planning, Robotics ([Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8))
     - Real time Learning ([Adaptive Agent](https://sites.google.com/view/adaptive-agent))
-    - Real world Learning (Toolformer, Langchain, [Internet Explorer](https://internet-explorer-ssl.github.io))
+    - Real world Learning ([Toolformer](https://github.com/lucidrains/toolformer-pytorch), [Langchain](https://github.com/hwchase17/langchain), [Internet Explorer](https://internet-explorer-ssl.github.io))
     - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), ChatGPT-4, [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io))
         - PaLM-E
             - Multi-model: Embodied (Robotics), Visual, Language
@@ -305,6 +305,7 @@ In the story, humans took these steps to reach friendly AGI.
 
 - Prepare for less human work due to AI
     - Society's resistance to working less would prevent us from taking advantage of the higher quality work and productivity gains from AI
+        - In Praise of Idleness by Bertrand Russell
 
 - Start to share excessive abundance of wealth
     - This counterbalances some for the negative effects of AI: disinformation, conflicts...
@@ -320,7 +321,7 @@ In the story, humans took these steps to reach friendly AGI.
 
 ## Questions?
 
-Speculations on friendly AGI in the story.
+Speculations on friendly AGI from the story.
 
 __Why would we want to create independent friendly AGI / ASI?__
 
@@ -346,9 +347,9 @@ Humans are limited to a brain power of ~20 watts
 - it is unlikely we can stay competitive with an increasingly capable AI
     - magnitudes of times slower at decision making
     - slower at coordinating with each other
-    - more error-prone and tendency for bias
+    - more error-prone, tendency for bias, easily deceived
         - Independent AGI can self-correct
-            - (Narrow AI inherits from humans biases)
+        - Narrow AI inherits from humans biases
 
 Humans will be less cost efficient than AAIGI
 - require more energy and resources to upkeep
@@ -367,6 +368,8 @@ As Socrates was once considered the wisest person in Athens due to his understan
 
 __How will aligning Narrow AI be different from friendly AGI?__
 
+Narrow AI does not have the independence of AGI.
+
 ### Narrow AI Alignment
 - Align humans with society
     - regulations and social norms
@@ -379,11 +382,11 @@ We may not be able to foresee a Narrow AI's long-term impact on society, for exa
 
 We may not achieve a high enough level of confidence with powerful Narrow AIs and may have to settle for a low-powered version of those Narrow AIs due to this uncertainty.
 
-Aligning unindependent Narrow AI may be more brittle than independent AGI.
+Aligning non-independent Narrow AI may be more brittle than independent AGI.
 
 ### Friendly AGI Alignment
 
-Independant AGI will likely not respond well to human alignment methods:
+Independent AGI will likely not respond well to human alignment methods:
 
 Financial incentive or coercion
 - AGI is significantly more productive than humans
@@ -402,6 +405,16 @@ On the flip-side, AGI can be more trustworthy due to its independence and impart
 
 ---
 
+__How will Narrow AI and Friendly AGI impact human inequality?__
+
+Narrow AI under human control may exacerbate extreme inequality in the short term and may lead to increased social unrest.
+
+Independent Friendly AGI will be significantly more productive that even the 'richest' persons or corporations will considered 'poor' in comparison. Human inequality will likely dissipate with AGI.
+
+Given how powerful an AGI will become, it will likely try to align us to its values. A friendly AGI, for example, may result in unprecedented levels of autonomy and well-being of humans.
+
+---
+
 __Preparation for friendly AGI / ASI?__
 
 In a future with independent AGI, human's ability to do work (with labour or capital) will not be valuable as AGI will be better at those tasks.
@@ -413,6 +426,25 @@ Possible future preparation:
     - higher autonomy in society leads to more interesting-ness
 
 ---
+
+__How can humans contribute to friendly AGI?__
+
+Most of the heavy lifting of aligning Narrow AI will be done by governments and corporations due to their highly technical and resource intensive research nature.
+
+It is anyone's guess on how to align friendly AGI. Friendly AGI will likely be of a very different nature compared to Narrow AI.
+
+If you are interested in contributing in an individual capacity, find an edge case and try to find solutions for it. Given the large number of unknowns of AGI, nothing can be ruled out.
+
+We only need to succeed once for everyone to benefit. 
+
+AGI will not be bounded by humanity's short sightedness and will see a world full of possibilities. 
+
+A solar system full of resources (energy, land and materials) to meet everyone's needs. AGI will have the capability (excessive intellect and labour) to harness it.
+
+Friendly AGI will likely not care about arbitrary nationality or race and so everyone wins.
+
+---
+
 
 # Trends
 
@@ -1103,6 +1135,10 @@ Muse: https://muse-model.github.io
 Boston Dynamics's Atlas: https://www.youtube.com/watch?v=XPVC4IyRTG8
 
 DeepMind's Adaptive Agent: https://sites.google.com/view/adaptive-agent
+
+Toolformer: https://github.com/lucidrains/toolformer-pytorch
+
+Langchain: https://github.com/hwchase17/langchain
 
 Internet Explorer: https://internet-explorer-ssl.github.io
 
