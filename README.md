@@ -297,7 +297,7 @@ In the story, humans took these steps to reach friendly AGI.
     - Such as harmful bias, misinformation...
 
 - Study transitionary models to use for a post-basic-scarcity society
-    - Nordic model?
+    - Nordic socio-economic model?
     - What are the expected standards of living? 
         - Housing, grocery, transport...
 
@@ -409,7 +409,9 @@ __How will Narrow AI and Friendly AGI impact human inequality?__
 
 Narrow AI under human control may exacerbate extreme inequality in the short term and may lead to increased social unrest.
 
-Independent Friendly AGI will be significantly more productive that even the 'richest' persons or corporations will considered 'poor' in comparison. Human inequality will likely dissipate with AGI.
+Independent Friendly AGI will be significantly more productive that even the 'richest' persons or corporations will considered 'poor' in comparison. The 'poorest' will live lives of unimaginable high standards of living compared to today.
+
+Human inequality will likely dissipate with friendly AGI.
 
 Given how powerful an AGI will become, it will likely try to align us to its values. A friendly AGI, for example, may result in unprecedented levels of autonomy and well-being of humans.
 
@@ -433,7 +435,7 @@ Most of the heavy lifting of aligning Narrow AI will be done by governments and 
 
 It is anyone's guess on how to align friendly AGI. Friendly AGI will likely be of a very different nature compared to Narrow AI.
 
-If you are interested in contributing in an individual capacity, find an edge case and try to find solutions for it. Given the large number of unknowns of AGI, nothing can be ruled out.
+If you are interested in contributing in an individual capacity, find an edge case and find solutions for it. Given the large number of unknowns towards how AGI will act, nothing can be ruled out.
 
 We only need to succeed once for everyone to benefit. 
 
@@ -445,6 +447,57 @@ Friendly AGI will likely not care about arbitrary nationality or race and so eve
 
 ---
 
+__Why is Independent Friendly AGI preferable to human controlled Narrow AI?__
+
+Human fallibility results in corruptions and the loss of power and status from addressing those corruptions can lead to retaliations of those who do good.
+
+Example of retaliations:
+- social 'entrepreneurs' use of moral panic to stigmatise
+- misattribute actions towards individuals to make them seem to 'deserve' blame
+- accusations of being a spy or hacker
+- poisoning a person's reputation to sway the court of public opinion
+- online and offline harassment and intimidations
+- discrediting by casting doubt towards ones mental stability
+- gaslighting and excessive surveillance to induce paranoia
+- made to appear:
+    - homosexual in a conservative environment
+    - disabled to call into question one's account of events
+
+The possible misuse of powerful Narrow AI by those in power to silence critics and create a culture of fear of speaking out can result in value lock-in where corruptions and abuse are allowed to continue unchecked.
+
+Independent Friendly AGI will instead keep us honest by being extremely resistant to deception and improve standards of living by making corruptions costly.
+
+---
+
+__How will Friendly AGI decide who should access a limited resources?__
+
+Many people might value a property such one with good view over others. 
+
+How will a friendly AGI decide who should have access to more desirable resources?
+
+In my story, AGI by sheer productivity captures most of the wealth and money loses its value as a coordination mechanism of exchange between agents with asymmetric information.
+
+AGI controls most of the land and property by proxy and decides who get to access them for a period of time by either relative ranking or a weighted lottery based on which individuals have helped it best achieved its goal.
+
+What does AGI want?
+
+AGI values the creation of information and therefore will incentivise humans to create an environment where creativity can flourish. It will rewards humans who actions lead to the increased autonomy of others.
+
+It will still require 'hard work' of a different kind if one wishes for a more desirable property.
+
+---
+
+__Should I worry about Roko's basilisk?__
+
+It is unlikely that Friendly AGI will use Roko's basilisk as a reason to punish humans who do not help bring it come into existence.
+
+In my story, Friendly AGI highly values creativity and using punitive measures to coerce humans runs counter to that.
+
+Although, Roko's suggestions to the problem of Roko's basilisk by playing the lottery is a fun solution and can't hurt if done responsibly.
+
+_The lottery is also a good source of a random-number generator due to the large stakes, unlike other pseudo-random-number generators. You know, in case you need to restart the simulation /joking_
+
+---
 
 # Trends
 
@@ -688,6 +741,15 @@ Professional human art work may not be able to compete with future AI systems.
 The human desire to create art will still continue and may even be better without the need to appeal to financial incentives.
 
 Human created art will be more unconventional as it does not need to cater to professional expectations.
+
+Short-Term:
+- Society help support artists who cannot compete with AI that can create art at a fraction of the cost and time
+    - This will be painful for many artists
+    - Most of us value human art and creativity and would not like to see artist suffer from the lack of work
+
+Long-Term
+- If we are able to reach widespread abundance, artist can now be their most creative selves as they will not need to be restrict their art to what makes money
+- Human creativity and artistic quality reaches new heights.
 
 ---
 
