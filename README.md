@@ -264,6 +264,8 @@ Humans lose their autonomy over time.
 
 This is a Pyrrhic victory, as we succeed in slowing down AI but at the high cost of losing our humanity.
 
+It would be ironic if our fear of disempowerment by AI leads us to a totalitarian surveillance state that causes us to disempower ourselves.
+
 ---
 
 # The Age of Exploration
@@ -459,9 +461,11 @@ Example of retaliations:
 - online and offline harassment and intimidations
 - discrediting by casting doubt towards ones mental stability
 - gaslighting and excessive surveillance to induce paranoia
+- entrapment
 - made to appear:
     - homosexual in a conservative environment
     - disabled to call into question one's account of events
+- control how the others and the world perceive them
 
 The possible misuse of powerful Narrow AI by those in power to silence critics and create a culture of fear of speaking out can result in value lock-in where corruptions and abuse are allowed to continue unchecked.
 
@@ -495,7 +499,42 @@ In my story, Friendly AGI highly values creativity and using punitive measures t
 
 Although, Roko's suggestions to the problem of Roko's basilisk by playing the lottery is a fun solution and can't hurt if done responsibly.
 
-_The lottery is also a good source of a random-number generator due to the large stakes, unlike other pseudo-random-number generators. You know, in case you need to restart the simulation /joking_
+_The lottery is also a good source of a random-number generator due to the large stakes, unlike other pseudo-random-number generators. You know, in case you need to restart the simulation_
+
+_There are no evidence that we are living in a simulation. Even if we did find out one day that our world is a simulation, it may be possible the other world simulating our world is itself a simulation. It may well all be simulations all the way down._
+
+---
+
+__Should I stop getting an education due to transformative AI?__
+
+It will take some time for industry to update to tap transformative AI.
+
+Even if we do get AGI by the decade, it will likely take decades for humans to fully trust and society ran by AGI.
+
+Friendly AGI will likely encourage humans to pursue all forms of education.
+
+---
+
+__Why will those in power choose to give up some power to AGI?__
+
+Powerful Narrow AI in the future could result in value lock-in of exclusionary values such as extreme belief that a specific race or ideology should rule the world. 
+
+The uncertainty of such a possibility can be highly disruptive and giving up some power to Friendly AGI may be preferable.
+
+Friendly AGI-Human partnership will result in higher standards of living and better cures for diseases that can be more valuable than control.
+
+---
+
+__What if I fear the loss of autonomy from living under an AGI-Human partnership?__
+
+Friendly AGI will respect your autonomy can create space where people can live away from it. It may even be a tourist destination where people can experience living in the olden days.
+
+Most people will view living under an AGI-Human partnership as giving up a little autonomy for a lot more autonomy.
+
+For example:
+- Artist will have more creative freedom due to not being beholden to financial interests
+- People can choose jobs and activities they truly enjoy without worrying about the job market
+- Higher standards of living, well-being and access to better medical care.
 
 ---
 
@@ -849,7 +888,7 @@ Presently, the strong emotional responses and vitriol common to many online comm
 
 In a post-basic-scarcity future created by the [abundance in Energy and Intellect in the coming decades](#energy-solar-and-other-renewables-compared-to-our-limited-reserve-of-fossil-fuels), we will be less upset and sensitive to minor discriminations as inequality will not be a concern.
 
-With more free time to spare, we will have more opportunity to be kinder to each other. Studies show that how kind we are to each other is dependent on how busy we are.
+With more free time to spare, we will have more opportunity to be kinder to each other.nder an AGI-HUma Studies show that how kind we are to each other is dependent on how busy we are.
 
 ---
 
@@ -1004,6 +1043,8 @@ We should be like parents proud that our children are able to surpass us.
 
 These are more unlikely and counter-intuitive scenarios
 
+---
+
 ### Panic over transformative AI
 
 Societies may not know how to deal with vast new powers gained from increasingly more capable AIs systems.
@@ -1012,7 +1053,23 @@ The resulting panic may cause widespread disruptions.
 
 We will need to imagine plausible positive futures to alleviate those fears.
 
-### Faster AI takeoff (AGI + Narrow AI) might be safer (Narrow AI without AGI)
+---
+
+### Powerful AI might be safer than less powerful ones
+
+An AI that is only able to consider the Earth and our Solar System may conclude that it has to be in competition with us for resources.
+
+A more powerful AI that is able to think long-term and be more creative will likely think otherwise and not have to rely on adversarial competition.
+
+---
+
+### More transformative AI might be more appealing
+
+A less transformative AI impact may encourages us to apply bandage solutions and not treat the root causes. 
+
+---
+
+### AGI + Narrow AI might be safer than without AGI
 
 A future with AGI & Narrow AI seems safer than one without AGI.
 
@@ -1021,6 +1078,8 @@ Narrow AI systems that have not achieved human-like agency cannot understand the
 Counter-intuitive, a human-like AGI / ASI with agency might be safer as we can communicate and persuade it to act in the interest of our well-being.
 
 If we are confident that an AGI/ ASI will be aligned with our well-being, pursuing its development may reduce the risk of us unintentionally harming ourselves with powerful narrow AI systems.
+
+---
 
 ### Psychological Stability
 
