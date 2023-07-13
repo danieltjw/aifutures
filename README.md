@@ -353,7 +353,8 @@ Humans are limited to a brain power of ~20 watts
         - Independent AGI can self-correct
         - Narrow AI inherits from humans biases
 
-Humans will be less cost efficient than AAIGI
+Humans will be less cost efficient than AGI
+- requires ~20 years of training to be productive
 - require more energy and resources to upkeep
     - body 
         - food
@@ -466,6 +467,7 @@ Example of retaliations:
     - homosexual in a conservative environment
     - disabled to call into question one's account of events
 - control how the others and the world perceive them
+    - alienation from a false projection created by others
 
 The possible misuse of powerful Narrow AI by those in power to silence critics and create a culture of fear of speaking out can result in value lock-in where corruptions and abuse are allowed to continue unchecked.
 
@@ -535,6 +537,16 @@ For example:
 - Artist will have more creative freedom due to not being beholden to financial interests
 - People can choose jobs and activities they truly enjoy without worrying about the job market
 - Higher standards of living, well-being and access to better medical care.
+
+---
+
+__Why AGI will likely preserve bio-diversity rather than harm it?__
+
+Our bio-sphere, including human beings, contain latent creative potential which a Friendly AGI finds valuable.
+
+AGI can exploit space for the resources (energy, land and materials) it require rather then humans who have less choices.
+
+AGI will likely preserve bio-diversity and humans rather then choose to unwittingly harm it.
 
 ---
 
