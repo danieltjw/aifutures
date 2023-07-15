@@ -466,6 +466,7 @@ Example of retaliations:
 - made to appear:
     - homosexual in a conservative environment
     - disabled to call into question one's account of events
+    - Autistic, Suicidal, Factitious Disorder Imposed on Another
 - control how the others and the world perceive them
     - alienation from a false projection created by others
 
@@ -540,13 +541,35 @@ For example:
 
 ---
 
-__Why AGI will likely preserve bio-diversity rather than harm it?__
+__Why will AGI likely preserve bio-diversity rather than harm it?__
 
 Our bio-sphere, including human beings, contain latent creative potential which a Friendly AGI finds valuable.
 
 AGI can exploit space for the resources (energy, land and materials) it require rather then humans who have less choices.
 
 AGI will likely preserve bio-diversity and humans rather then choose to unwittingly harm it.
+
+---
+
+__What are your personal views on the best way to achieve a stable future?__
+
+As of July 2023, I would prefer for the pro-active development of Friendly AGI that humanity elects every 5 years.
+
+A Human-AGI partnership seems to be the most stable future.
+
+We are the proof that a Independent and Friendly AGI is possible. 
+
+Until we reach Friendly AGI, the best we can do is human-led AI alignment that is more vulnerable to deception, corruption and harmful bias.
+
+---
+
+__What are your personal motivations?__
+
+These notes are research for a story on what the future with AGI could look like.
+
+We seems to be on a cusp on an exciting future and I hope these contributions will be useful.
+
+On a less altruistic note, in my story at least, Friendly AGI rewards those who help it increase the creative potential of the system.
 
 ---
 
