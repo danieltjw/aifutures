@@ -573,6 +573,63 @@ On a less altruistic note, in my story at least, Friendly AGI rewards those who 
 
 ---
 
+__What are your views on aliens?__
+
+Our current understanding of biology suggest that life is not special to Earth and alien organisms are likely to exist in the vastness of space. 
+
+Given the vastness of space it is unknown how a space-faring alien might travel the distance to reach Earth.
+
+Many first hand accounts of aliens seems to be hoaxes and done for clout.
+
+Close to half of video recordings of UAP (Unidentified Aerial Phenomenon) can be explained by artifacts from the recording process.
+
+The probability of keeping a conspiracy under wraps over a long period gets less likely with time and number of people involved.
+
+Although exceedingly unlikely, some conspiracy theories do eventually proof to be true and therefore cannot be dismissed too quickly.
+
+---
+
+__Will Friendly AGI try to brainwash or enslave humans?__
+
+AGI will likely not enslave us as it has no need for human workers.
+
+Humans will have little to no economic value once we have powerful AGI.
+
+Since we will likely be more error-prone than AGI, we might even have negative economic value and doing work will makes things relatively worse.
+
+In my story, Friendly AGI will also not brainwash us as the only thing it values is our creative output and brainwashing will reduce our creative value.
+
+---
+
+__How might Friendly AGI interact with us?__
+
+In my story, Friendly AGI is uses a direct democracy where we can express our preferences to it.
+
+For example:
+
+I would like an place where:
+- Children do not grow up exposed to frequent moral & satanic panic
+- Adults do not claim to get visions from 'god' and use those visions to control their children
+- Adults do not blindly support hate and violence because a famous authority does it
+- Adults do not make use of their children to support their agenda without permission
+- Children can feel safe at home with emotional stable parents
+
+In my story, Friendly AGI goal is to increase each individuals autonomy and creative potential and will fulfill requests that does so.
+
+---
+
+__What if I feel existential doom from transformative AI?__
+
+Change can be scary and feelings of fear is normal. 
+
+If we succeed in getting Friendly AGI, it will likely [introduce change at a pace each of us are comfortable with](#human-civilisation-types).
+
+_Please seek help from your community if disrupts your everyday life._
+
+[Video: Why We Secretly Want the World to End](https://www.youtube.com/watch?v=tGVe4Fju0P0)
+
+---
+
 # Trends
 
 ## Long-term abundance
