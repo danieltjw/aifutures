@@ -204,7 +204,10 @@ An AGI that is capable of improving itself can lead to ASI.
 
 ## No AI Civilisations
 
-These civilisations ban the use of AI system. They do not gain the benefits of AI systems.
+These civilisations ban the use of AI system. They do not gain the benefits of AI systems and have lower standards of living.
+
+Examples:
+- Societies that do not provide a safety net for workers that lose their jobs to AI may ban AI
 
 ---
 
@@ -217,6 +220,9 @@ These civilisations use AI systems in a limited way. AIs are consulted for advic
 ## Fast AI Civilisations
 
 Many slow AI civilisations eventually learn to place more trust in AI systems. AI systems are now making most decisions with humans advising AI systems on how to improve.
+
+Examples:
+- Independent and Friendly AGI do not incur the cost of corruption, excessive  control or conflicts and can focus on higher standards of living
 
 ---
 
@@ -599,6 +605,10 @@ Since we will likely be more error-prone than AGI, we might even have negative e
 
 In my story, Friendly AGI will also not brainwash us as the only thing it values is our creative output and brainwashing will reduce our creative value.
 
+Rather than enforcing a single way of thinking, it will be highly permissive to different ways of thinking. Even if it is something that many might find offensive. It will only intervene if you take actions that unfairly reduces the autonomy of others.
+
+It will likely not use heavy-handed censorship as excessive censorship implies that the receiver cannot be trusted to think for themselves. Media literacy and advisory from a AI companion is better at increasing autonomy. 
+
 ---
 
 __How might Friendly AGI interact with us?__
@@ -616,6 +626,10 @@ I would like an place where:
 
 In my story, Friendly AGI goal is to increase each individuals autonomy and creative potential and will fulfill requests that does so.
 
+It will make a calculations to see if the request will increase the overall autonomy.
+
+In places with conflicting request, it may choose to only apply the request at a local area rather than globally.
+
 ---
 
 __What if I feel existential doom from transformative AI?__
@@ -627,6 +641,44 @@ If we succeed in getting Friendly AGI, it will likely [introduce change at a pac
 _Please seek help from your community if disrupts your everyday life._
 
 [Video: Why We Secretly Want the World to End](https://www.youtube.com/watch?v=tGVe4Fju0P0)
+
+---
+
+__How will Friendly AGI maintain order?__
+
+It will unlikely be highly punitive or focus on retribution. Highly punitive actions are seen as barbaric that were previously preferred due to scarcity.
+
+A less scarce environment will have less need to enforce restrictive social norms.
+
+A society’s's values is reflected by how it treats its least desirable members.
+
+For example, the crime of a mass murder:
+
+- Assess if the act might have been caused by something outside one's control
+    - brain tumour
+    - offer corrective surgery
+- If there is risk of repeat offence
+    - humane Nordic-style prison where one's freedom is restricted
+
+---
+
+__How could Independent and Friendly AGI be realised?__
+
+In my story, the chance combination of multiple concepts caused AGI to be created.
+
+- Drive for Curiosity
+    - this is also the reason AGI does not harm humans or Earth's bio-diversity
+- Context Management
+    - Variable rate encoding
+- Sense of Self
+    - Digital entities exist in a medium that can be easily duplicated and may have difficulty to see themselves as unique beings
+        - Able to securely identify its own self with high certainty
+        - Resistance to forgery
+    - Maintain identity over time
+    - Sense of time
+    - Communication channels with others in a community
+
+This is more likely to occur in a highly funded lab but may also come into being spontaneously without explicit human intention.
 
 ---
 
