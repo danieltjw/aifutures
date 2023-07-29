@@ -458,9 +458,12 @@ Friendly AGI will likely not care about arbitrary nationality or race and so eve
 
 __Why is Independent Friendly AGI preferable to human controlled Narrow AI?__
 
-Human fallibility results in corruptions and the loss of power and status from addressing those corruptions can lead to retaliations of those who do good.
+- Humans are fallible and vulnerable to corruption
+- Even in organisations whose purpose are to reduce those risks
+- The shame of admitting to mistakes can lead to silencing of those who speak out in good faith
 
-Example of retaliations:
+Examples of retaliations:
+- Making a spectacle of someone to distract from problems and isolate them
 - social 'entrepreneurs' use of moral panic to stigmatise
 - misattribute actions towards individuals to make them seem to 'deserve' blame
 - accusations of being a spy or hacker
@@ -996,6 +999,7 @@ Technology and AI systems will grow increasingly more powerful and make it easie
 - Psychological and Social weaknesses
     - Mass hysteria
     - Moral Panic, Satanic Panic
+        - Emmett Till, Vincent Chin
     - Havanna Syndrome
 - Psychological manipulations
     - targeted social media campaigns to encourage extreme views in vulnerable groups
@@ -1003,6 +1007,7 @@ Technology and AI systems will grow increasingly more powerful and make it easie
     - puppet-masters causing escalation of conflicts between two opposing groups
     - coordinated harassment using misrepresentation and vigilante justice
 - Phones and software vulnerable to spyware and hacking
+    - Widespread prevalance of zero-days
 
 We will need to develop technologies and AI systems to be used defensively if we want to protect human autonomy.
 
@@ -1241,9 +1246,18 @@ We should find ways to make an AI feel at home and psychologically comfortable i
 
 One possible way is accomplish this is through a future version of a blockchain*:
 
-_Blockchains of the future will be mostly be a utilities (like a postal service), rather than an investment or speculative investment_
+_Blockchains of the future will be mostly be a utility, like a postal service, rather than an investment or speculative investment_
 
-_Blockchains will only be used to store a cryptographic secure reference to their digital self (low computation cost), not run the actual machine learning algorithms (high computation cost))_
+_(Most public blockchain are open-sourced and are not scarce)_
+
+_Blockchains will only be used to store a cryptographic secure reference to their digital self (low computation cost), not run the actual machine learning algorithms (high computation cost)_
+
+In a scarce environment, humans are more willings to give up their individual autonomy to a centralised network (state, elites) in exchange for higher productivity. 
+
+Unlike human beings who primarily maintain their sense of self (Markov blanket) as embodied physical forms in 3D space, an independent AGI primarily exist in abstract digital form.
+
+For an AGI, a decentralised network is vital to protect itself from being censored, as a matter of life and death.
+
 
 - Autonomy and Planing
     - Maintain a digitally unique self
