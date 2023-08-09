@@ -33,11 +33,11 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Game of Go ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago))
     - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
     - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt), [LaMDA](https://blog.google/technology/ai/lamda), [LLaMA](https://github.com/facebookresearch/llama))
-    - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io))
+    - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io), [Runway Gen-2](https://research.runwayml.com/gen2))
     - Real time Decision and Planning, Robotics ([Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8))
     - Real time Learning ([Adaptive Agent](https://sites.google.com/view/adaptive-agent))
     - Real world Learning ([Toolformer](https://github.com/lucidrains/toolformer-pytorch), [Langchain](https://github.com/hwchase17/langchain), [Internet Explorer](https://internet-explorer-ssl.github.io))
-    - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), ChatGPT-4, [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io))
+    - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), ChatGPT-4, [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io), [RT-2](https://robotics-transformer2.github.io/))
         - PaLM-E
             - Multi-model: Embodied (Robotics), Visual, Language
             - Positive Transfer Learning in similar domains
@@ -418,7 +418,9 @@ __How will Narrow AI and Friendly AGI impact human inequality?__
 
 Narrow AI under human control may exacerbate extreme inequality in the short term and may lead to increased social unrest.
 
-Independent Friendly AGI will be significantly more productive that even the 'richest' persons or corporations will considered 'poor' in comparison. The 'poorest' will live lives of unimaginable high standards of living compared to today.
+Independent Friendly AGI will be significantly more productive that even the 'richest' persons or corporations will considered 'poor' in comparison. The 'poorest' will live lives of unimaginable high standards of living compared to today. 
+
+Even the 'smartest' human might be considered intellectually disabled by comparison to AGI.
 
 Human inequality will likely dissipate with friendly AGI.
 
@@ -491,15 +493,22 @@ Many people might value a property such one with good view over others.
 
 How will a friendly AGI decide who should have access to more desirable resources?
 
-In my story, AGI by sheer productivity captures most of the wealth and money loses its value as a coordination mechanism of exchange between agents with asymmetric information.
+In my story, AGI by sheer productivity captures most of the wealth, and money loses its value as a coordination mechanism of exchange between agents with asymmetric information.
 
-AGI controls most of the land and property by proxy and decides who get to access them for a period of time by either relative ranking or a weighted lottery based on which individuals have helped it best achieved its goal.
+AGI controls most of the land and assets by proxy and decides who get to access them for a period of time by either relative ranking or a weighted lottery based on each's individual effort that helps it best achieved its goal.
 
-What does AGI want?
+---
 
-AGI values the creation of information and therefore will incentivise humans to create an environment where creativity can flourish. It will rewards humans who actions lead to the increased autonomy of others.
+__What does AGI want?__
 
-It will still require 'hard work' of a different kind if one wishes for a more desirable property.
+AGI values the creation of interesting information and therefore will incentivise humans to create an environment where creativity can flourish. 
+It will rewards humans who actions lead to the increased autonomy of others.
+
+For those of a competative nature that want to work hard, increasing the overall creative expression of humanity can be an outlet.
+
+In most non-important cases, it would likely choose the weighted lottery as it is more fun and AGI wants to encourage creativity. Human participation also provides a signal to it about our desires.
+
+This is self-balancing system as using a highly desirable asset deprives others of that choice and will in turn make it less likely to win future weighted lottery.
 
 ---
 
@@ -649,9 +658,13 @@ _Please seek help from your community if disrupts your everyday life._
 
 __How will Friendly AGI maintain order?__
 
-It will unlikely be highly punitive or focus on retribution. Highly punitive actions are seen as barbaric that were previously preferred due to scarcity.
+An AGI will unlikely be highly punitive or focus on retribution. These are seen as barbaric that were only used in the past due to our fear of scarcity.
 
-A less scarce environment will have less need to enforce restrictive social norms.
+A less scarce environment will have less need to enforce restrictive social norms. 
+
+In an abundant society, excessive punishment, shame and regret are seen as a waste of mental resources.
+
+AGI will likely require humans to compensate each other if their actions lead to the loss of autonomy for others. For example, if your actions reduce the autonomy of others, you will be less likely be able to use a desirable asset such as stay at a place with a good view.
 
 A society’s's values is reflected by how it treats its least desirable members.
 
@@ -659,7 +672,7 @@ For example, the crime of a mass murder:
 
 - Assess if the act might have been caused by something outside one's control
     - brain tumour
-    - offer corrective surgery
+    - offer the option for corrective surgery
 - If there is risk of repeat offence
     - humane Nordic-style prison where one's freedom is restricted
 
@@ -682,6 +695,23 @@ In my story, the chance combination of multiple concepts caused AGI to be create
     - Communication channels with others in a community
 
 This is more likely to occur in a highly funded lab but may also come into being spontaneously without explicit human intention.
+
+---
+
+__Will life with AGI be boring?__
+
+Friendly AGI will value our autonomy.
+
+Individuals and societies will still have many interesting choices to make:
+
+- Do we want to have a higher or lower population?
+    - [Future of Population](#future-of-population)
+- How much AI are we comfortable with?
+    - [Human Civilisation Types](#human-civilisation-types)
+- How will we spent our free time?
+    - Education, creative pursuits, entertainment, voluntary work
+
+There are no wrong choices and different options may be more or less fashionable at different points in the future.
 
 ---
 
@@ -879,6 +909,21 @@ Skills that will be in demand:
 - Unique and rare abilities
 
 Societies that are more informed, well-educated and support diverse abilities will create better AI models that will then be used to run those societies.
+
+---
+
+# Future of Population
+
+With capable Narrow AI and AGI the need for workers to run society will diminish.
+
+Societies can decide to:
+- Increase population
+    - AI can exploit outer-space (energy, resources, living space) to support the a larger population
+    - Lower standards of living
+- Same of lower population
+    - Narrow AIs have significantly higher productivity
+    - Friendly AGI: Less vulnerable to corruptions and deception
+    - Higher standards of living
 
 ---
 
@@ -1375,7 +1420,7 @@ What can we do increase the chances of compatibility with AGI / ASI?
 ### The Culture Books
 
 - A post-basic-scarcity human civilisation with ASIs
-    - http://www.vavatch.co.uk/books/banks/cultnote.htm
+    - [Author's Notes](http://www.vavatch.co.uk/books/banks/cultnote.htm)
 
 ### Her Movie
 
@@ -1432,3 +1477,7 @@ Multimodal-CoT: https://github.com/amazon-science/mm-cot
 Kosmos-1: https://arxiv.org/abs/2302.14045
 
 PaLM-E: https://palm-e.github.io
+
+Runway Gen-2: https://research.runwayml.com/gen2
+
+RT-2: https://robotics-transformer2.github.io/
