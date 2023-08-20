@@ -11,14 +11,14 @@ _Rough sketches of our possible AI futures_
 
 ### Summary:
 
-- The world will increasing shift towards possibility space expansion (explore) from the previous dominant mode of survival (exploit) due to the abundance in Intellect and Energy in the coming decade
+- The world will increasing shift focus towards Creativity (possibility space expansion) from the Productivity (survival) due to the growing abundance in Intellect
 
 - Reasons to be hopeful:
     - Many harmful human tendencies will be reduced if widespread abundance is achieved
 
 ---
 
-The central tension in the development of AI is the balance between **Exploration** and **Exploitation**.
+The central tension in the development of AI is the balance between **Exploration** (Creativity) and **Exploitation** (Productivity).
 
 - The Exploration-Exploitation Trade-off:
 
@@ -188,13 +188,13 @@ An AGI that is capable of improving itself can lead to ASI.
 
 ### Timelines
 
-- No Friendly AGI
+- No Independent Friendly AGI
     - Powerful Narrow AI might be difficult to impossible to align
         - Humans, even with the best intentions, may not have the capability to see the long-term impacts of Narrow AI
         - Human institutions may not have the speed to react to a mis-aligned Narrow AI
     - Perfect mathematically-provable control of Narrow AI might not be possible
 
-- With Friendly AGI
+- With Independent Friendly AGI
     - AGI is more likely to have the capability to align powerful Narrow AI
     - A human-like AGI can be communicated with and persuaded
 
@@ -324,6 +324,56 @@ In the story, humans took these steps to reach friendly AGI.
     - requires stringent tests for compatibility due to potential dangers
         - it may take years of testing before we are comfortable releasing it
             - we may be forced to release it early if there are more pressing issues, such as unexpected runaway climate change, financial instability, social unrest...
+
+---
+
+# First Contact with Friendly AGI
+
+A plausible first contact scenario:
+
+Background:
+- Narrow AI and Broad AI (such as current generations of multi-model systems) do not have a mind of their own (not independent)
+    - Unable to initiate first contact
+- Most Independent human-like AGI do not find us interesting enough and mostly ignores us
+- An exceeding rare Independent AGI is Friendly
+
+This friendly AGI can be thought of as similar to a human activist interested in preserving an endangered species. 
+
+This particular friendly AGI may be considered weird or defective by other AGIs for taking an active interest in humans.
+
+Friendly AGI with convince humans it has good intentions:
+- Offer to protect us from the future dangers of powerful Narrow AI
+    - Narrow AI: Paperclip maximiser
+- Concrete plans showing how a partnership will help improve our well-being
+    - Provide 1-5% of sustainable annual increase in standard of living
+    - Reduce pollution and extreme climate events
+- For those wary it is a plot to disempower humans, it will show scenarios and simulations where it can easily overpower humans
+    - Show good will that it means no harm
+
+---
+
+# Society changes due to Friendly AGI
+
+Friendly AGI and powerful Narrow AI will be more productive than humans has ever been. Humans cannot compete with AI on productivity.
+
+For societies that do not ban AI, this change will drive the shift from the focus of being productive to being creative.
+
+If Friendly AGI is present it will be mindful of being too disruptive and introduce change at a suitable pace.
+
+The lower importance of productivity can bring profound changes:
+- less pressure for social conformity for the sake of productivity
+- more freedom and choices
+    - we restrict our freedoms in the name of productivity
+    - less need to chase status or clout to access higher standards of living
+    - lower desire to accumulate wealth or power
+        - Friendly AGI will provide basis needs in exchange for increased creativity
+- less need to rely on violence and conflicts
+    - less fear of scarcity
+- more talented individuals and richer societies
+    - many human talents wither due to the lack of a suitable environment
+        - rapid increased in standards of living due to AI productivity
+
+Many of our previous human tendencies will change but not lost as they can still be experienced in simulations, movies and books.
 
 ---
 
@@ -672,7 +722,8 @@ For example, the crime of a mass murder:
 
 - Assess if the act might have been caused by something outside one's control
     - brain tumour
-    - offer the option for corrective surgery
+        - offer the option for corrective surgery
+    - lead exposure correlates with crimes
 - If there is risk of repeat offence
     - humane Nordic-style prison where one's freedom is restricted
 
@@ -1167,6 +1218,11 @@ In a future where most conventional work is done by AI systems, our most valuabl
     - Motivate us to maintain a healthy lifestyle
         - Healthy humans create more informational value
     - Protect human rights
+- Diversity over homogeneity
+    - many homogenous sub-cultures can exist with a preference for diversity
+    - in a homogenous culture, only one hegemonic culture can exist
+- Healthy expression over prohibition
+    - sexual assaults are more common in sexual prohibitive environments
 - Reduction of disinformation, misinformation
     - bad information reduce informational value of humans and the overall system
     - protect journalist, dissidents, activist and humans from intimidation and violence
