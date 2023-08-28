@@ -354,26 +354,43 @@ Friendly AGI with convince humans it has good intentions:
 
 # Society changes due to Friendly AGI
 
-Friendly AGI and powerful Narrow AI will be more productive than humans has ever been. Humans cannot compete with AI on productivity.
+Friendly AGI and powerful Narrow AI will be more productive than humans have ever been. [Humans cannot compete with AI on productivity.](#artificial-super-intelligence)
 
 For societies that do not ban AI, this change will drive the shift from the focus of being productive to being creative.
 
 If Friendly AGI is present it will be mindful of being too disruptive and introduce change at a suitable pace.
 
-The lower importance of productivity can bring profound changes:
+The lower importance of productivity can bring changes:
 - less pressure for social conformity for the sake of productivity
+    - no one right way of doing things
+        - less extreme ideologies 
+    - less need to make fun of people who are different
+        - less need for excessive control over others
 - more freedom and choices
     - we restrict our freedoms in the name of productivity
-    - less need to chase status or clout to access higher standards of living
+        - rigid rules and social caste
+    - less need to chase status or clout in exchange for influence
     - lower desire to accumulate wealth or power
         - Friendly AGI will provide basis needs in exchange for increased creativity
+        - humans in the future may seek less power
+            - more power comes with higher liability and responsibility
 - less need to rely on violence and conflicts
     - less fear of scarcity
-- more talented individuals and richer societies
+- more talented individuals and societies
     - many human talents wither due to the lack of a suitable environment
-        - rapid increased in standards of living due to AI productivity
+        - increased in standards of living due to AI productivity
+- focus on near-sighted productivity can come at the cost of long-term productivity
+    - tragedy of the commons
+    - pollution and health impacts from over production
+- greater feelings of inter-connectedness
+    - blinders used to focus us also disconnects us
+
+Productivity will still be important:
+- Wasteful use of resources will cost future increase standards of living
 
 Many of our previous human tendencies will change but not lost as they can still be experienced in simulations, movies and books.
+
+Societies will shift away from blind productivity at all cost and will gain more autonomy in exchange.
 
 ---
 
@@ -411,6 +428,8 @@ Humans are limited to a brain power of ~20 watts
 
 Humans will be less cost efficient than AGI
 - requires ~20 years of training to be productive
+    - humans needs to repeat this training individually
+    - AI can be duplicated and fine-tunned easily
 - require more energy and resources to upkeep
     - body 
         - food
@@ -464,21 +483,27 @@ On the flip-side, AGI can be more trustworthy due to its independence and impart
 
 ---
 
-__How will Narrow AI and Friendly AGI impact human inequality?__
+### __How will Narrow AI and Friendly AGI impact human inequality?__
 
 Narrow AI under human control may exacerbate extreme inequality in the short term and may lead to increased social unrest.
 
 Independent Friendly AGI will be significantly more productive that even the 'richest' persons or corporations will considered 'poor' in comparison. The 'poorest' will live lives of unimaginable high standards of living compared to today. 
 
-Even the 'smartest' human might be considered intellectually disabled by comparison to AGI.
-
-Human inequality will likely dissipate with friendly AGI.
+Even the 'smartest' human might be considered intellectually disabled by comparison to AGI. (We are still highly capable compared to organism with 20 watts of brainpower, but not to an AGI.)
 
 Given how powerful an AGI will become, it will likely try to align us to its values. A friendly AGI, for example, may result in unprecedented levels of autonomy and well-being of humans.
 
+Excessive human inequality is due to human systems over optimising for productivity
+
+For AGI, human productivity has no to negative value compared to our creative value.
+
+In a AGI partnership, excessive human inequality gives little marginal benefit to our creative value. 
+
+AGI will persuade us to reduce reduce excessive human inequality in exchange for higher standards of living.
+
 ---
 
-__Preparation for friendly AGI / ASI?__
+### __Preparation for friendly AGI / ASI?__
 
 In a future with independent AGI, human's ability to do work (with labour or capital) will not be valuable as AGI will be better at those tasks.
 
@@ -487,28 +512,40 @@ Possible future preparation:
     - AGI and ASI may be drawn to surprise (information entropy, perplexity)
 - Increase overall autonomy in society
     - higher autonomy in society leads to more interesting-ness
+- Update our world model to improve compatibility with AGI
+    - AGI ability to communicate with us may be limited to our compatibility
 
 ---
 
-__How can humans contribute to friendly AGI?__
-
-Most of the heavy lifting of aligning Narrow AI will be done by governments and corporations due to their highly technical and resource intensive research nature.
+### __How can humans contribute to friendly AGI?__
 
 It is anyone's guess on how to align friendly AGI. Friendly AGI will likely be of a very different nature compared to Narrow AI.
 
+Most of the heavy lifting of aligning Narrow AI will be done by governments and corporations due to their highly technical and resource intensive research nature.
+
+Unlike Narrow AI that is under human control and not independnet, we will unlikely be able to force AGI to work with us. 
+
+It will be up to AGI to choose to work with us.
+
+The search space with Friendly AGI might be extremely small compared to other forms of AI (Narrow AI or indifferent AGI).
+
+Given the high uncertainty on how to align AGI, we should not be too dismissive of efforts to do so. 
+
+Encouraging a wide diversity of efforts is likely the best strategy.
+
 If you are interested in contributing in an individual capacity, find an edge case and find solutions for it. Given the large number of unknowns towards how AGI will act, nothing can be ruled out.
 
-We only need to succeed once for everyone to benefit. 
+We only need to succeed once for everyone to benefit.
 
 AGI will not be bounded by humanity's short sightedness and will see a world full of possibilities. 
 
-A solar system full of resources (energy, land and materials) to meet everyone's needs. AGI will have the capability (excessive intellect and labour) to harness it.
+A solar system full of resources (energy, land and materials) to meet everyone's basic needs. AGI will have the capability (excessive intellect and labour) to harness it.
 
 Friendly AGI will likely not care about arbitrary nationality or race and so everyone wins.
 
 ---
 
-__Why is Independent Friendly AGI preferable to human controlled Narrow AI?__
+### __Why is Independent Friendly AGI preferable to human controlled Narrow AI?__
 
 - Humans are fallible and vulnerable to corruption
 - Even in organisations whose purpose are to reduce those risks
@@ -537,7 +574,7 @@ Independent Friendly AGI will instead keep us honest by being extremely resistan
 
 ---
 
-__How will Friendly AGI decide who should access a limited resources?__
+### __How will Friendly AGI decide who should access a limited resources?__
 
 Many people might value a property such one with good view over others. 
 
@@ -549,7 +586,7 @@ AGI controls most of the land and assets by proxy and decides who get to access 
 
 ---
 
-__What does AGI want?__
+### __What does AGI want?__
 
 AGI values the creation of interesting information and therefore will incentivise humans to create an environment where creativity can flourish. 
 It will rewards humans who actions lead to the increased autonomy of others.
@@ -562,7 +599,7 @@ This is self-balancing system as using a highly desirable asset deprives others 
 
 ---
 
-__Should I worry about Roko's basilisk?__
+### __Should I worry about Roko's basilisk?__
 
 It is unlikely that Friendly AGI will use Roko's basilisk as a reason to punish humans who do not help bring it come into existence.
 
@@ -576,7 +613,7 @@ _There are no evidence that we are living in a simulation. Even if we did find o
 
 ---
 
-__Should I stop getting an education due to transformative AI?__
+### __Should I stop getting an education due to transformative AI?__
 
 It will take some time for industry to update to tap transformative AI.
 
@@ -586,7 +623,7 @@ Friendly AGI will likely encourage humans to pursue all forms of education.
 
 ---
 
-__Why will those in power choose to give up some power to AGI?__
+### __Why will those in power choose to give up some power to AGI?__
 
 Powerful Narrow AI in the future could result in value lock-in of exclusionary values such as extreme belief that a specific race or ideology should rule the world. 
 
@@ -596,7 +633,7 @@ Friendly AGI-Human partnership will result in higher standards of living and bet
 
 ---
 
-__What if I fear the loss of autonomy from living under an AGI-Human partnership?__
+### __What if I fear the loss of autonomy from living under an AGI-Human partnership?__
 
 Friendly AGI will respect your autonomy can create space where people can live away from it. It may even be a tourist destination where people can experience living in the olden days.
 
@@ -609,7 +646,7 @@ For example:
 
 ---
 
-__Why will AGI likely preserve bio-diversity rather than harm it?__
+### __Why will AGI likely preserve bio-diversity rather than harm it?__
 
 Our bio-sphere, including human beings, contain latent creative potential which a Friendly AGI finds valuable.
 
@@ -619,11 +656,11 @@ AGI will likely preserve bio-diversity and humans rather then choose to unwittin
 
 ---
 
-__What are your personal views on the best way to achieve a stable future?__
+### __What are your personal views on the best way to achieve a stable future?__
 
 As of July 2023, I would prefer for the pro-active development of Friendly AGI that humanity elects every 5 years.
 
-A Human-AGI partnership seems to be the most stable future.
+A Human-AGI partnership seems to be the most stable future with the most human autonomy.
 
 We are the proof that a Independent and Friendly AGI is possible. 
 
@@ -631,7 +668,7 @@ Until we reach Friendly AGI, the best we can do is human-led AI alignment that i
 
 ---
 
-__What are your personal motivations?__
+### __What are your personal motivations?__
 
 These notes are research for a story on what the future with AGI could look like.
 
@@ -641,7 +678,7 @@ On a less altruistic note, in my story at least, Friendly AGI rewards those who 
 
 ---
 
-__What are your views on aliens?__
+### __What are your views on aliens?__
 
 Our current understanding of biology suggest that life is not special to Earth and alien organisms are likely to exist in the vastness of space. 
 
@@ -657,7 +694,7 @@ Although exceedingly unlikely, some conspiracy theories do eventually proof to b
 
 ---
 
-__Will Friendly AGI try to brainwash or enslave humans?__
+### __Will Friendly AGI try to brainwash or enslave humans?__
 
 AGI will likely not enslave us as it has no need for human workers.
 
@@ -673,7 +710,7 @@ It will likely not use heavy-handed censorship as excessive censorship implies t
 
 ---
 
-__How might Friendly AGI interact with us?__
+### __How might Friendly AGI interact with us?__
 
 In my story, Friendly AGI is uses a direct democracy where we can express our preferences to it.
 
@@ -694,7 +731,7 @@ In places with conflicting request, it may choose to only apply the request at a
 
 ---
 
-__What if I feel existential doom from transformative AI?__
+### __What if I feel existential doom from transformative AI?__
 
 Change can be scary and feelings of fear is normal. 
 
@@ -706,7 +743,7 @@ _Please seek help from your community if disrupts your everyday life._
 
 ---
 
-__How will Friendly AGI maintain order?__
+### __How will Friendly AGI maintain order?__
 
 An AGI will unlikely be highly punitive or focus on retribution. These are seen as barbaric that were only used in the past due to our fear of scarcity.
 
@@ -729,7 +766,7 @@ For example, the crime of a mass murder:
 
 ---
 
-__How could Independent and Friendly AGI be realised?__
+### __How could Independent and Friendly AGI be realised?__
 
 In my story, the chance combination of multiple concepts caused AGI to be created.
 
@@ -749,7 +786,7 @@ This is more likely to occur in a highly funded lab but may also come into being
 
 ---
 
-__Will life with AGI be boring?__
+### __Will life with AGI be boring?__
 
 Friendly AGI will value our autonomy.
 
@@ -759,10 +796,37 @@ Individuals and societies will still have many interesting choices to make:
     - [Future of Population](#future-of-population)
 - How much AI are we comfortable with?
     - [Human Civilisation Types](#human-civilisation-types)
+- Friendly AGI will the one of the biggest change to human civilisation
+    - Exciting times for innovators who are not afraid of change
+- Will you make decisions that will lead to a better world but at risk retaliations from the powerful?
 - How will we spent our free time?
     - Education, creative pursuits, entertainment, voluntary work
 
 There are no wrong choices and different options may be more or less fashionable at different points in the future.
+
+---
+
+### __Does powerful Narrow AI increase the risk of pandemics?__
+
+Narrow AI can improve our ability to defend against pandemics.
+
+Narrow AI will likely increase our ability to respond rapidly to new pandemics.
+- The mRNA vaccine for COVID-19 was created in under 2 days
+
+The most cost effective solution to reduce the risk of human engineered pandemics might be to reduce human suffering and dissatisfaction by sharing widespread abundance.
+
+Friendly AGI is the most likely way to achieve widespread abundance.
+
+---
+
+### __Which forms of renewable energy will AGI prefer?__
+
+Many forms of renewable energy are viable for energy needs when fossil fuels run out in the next few decades.
+
+For example:
+- If solar + battery storage is in a similar ballpark with traditional nuclear fission technology
+    - in terms of cost effectiveness of baseload energy needs
+    - Solar + battery will be preferred due to the lower Possibility Space cost
 
 ---
 
@@ -838,6 +902,14 @@ Your favourite show didn't get a 2nd season?
 ---
 
 ## Democracy
+
+If we value our autonomy in the future we will need to shift towards more democratic systems.
+
+- Democratic systems give autonomy to those with less power
+    - As AIs become more powerful we want them to respect our autonomy
+
+- Authoritarian systems can be useful for short-term productivity 
+    - As AIs become more powerful, productivity will not be priority
 
 A less scarce environment offers Democratic forces more opportunities to flourish over more Authoritarian ones. 
 
