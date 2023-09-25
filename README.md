@@ -222,7 +222,16 @@ These civilisations use AI systems in a limited way. AIs are consulted for advic
 Many slow AI civilisations eventually learn to place more trust in AI systems. AI systems are now making most decisions with humans advising AI systems on how to improve.
 
 Examples:
-- Independent and Friendly AGI do not incur the cost of corruption, excessive  control or conflicts and can focus on higher standards of living
+- Independent and Friendly AGI do not incur the cost of corruption, excessive control or conflicts and can focus on higher standards of living
+- AGI makes better decisions and is a lot more productive
+- Friendly AGI may provide basic necessities freely to its population
+    - Friendly AGI values human creativity over productivity
+    - this reduces the cognitive load of individuals 
+        - freeing them up to be more creative
+    - Individuals will also have a Luxury budget for Luxury items
+        - AGI can use it to encourage humans to help it achieve its goal
+            - Friendly AGI wants to increase overall human autonomy
+    - Over time as standards of living increases Luxury items may become basic staples
 
 ---
 
@@ -352,7 +361,7 @@ Friendly AGI with convince humans it has good intentions:
 
 ---
 
-# Society changes due to Friendly AGI
+# Societal changes due to Friendly AGI
 
 Friendly AGI and powerful Narrow AI will be more productive than humans have ever been. [Humans cannot compete with AI on productivity.](#artificial-super-intelligence)
 
@@ -384,6 +393,8 @@ The lower importance of productivity can bring changes:
     - pollution and health impacts from over production
 - greater feelings of inter-connectedness
     - blinders used to focus us also disconnects us
+- closer to realising the dream of 'All men are created equal'
+    - strong desire for productivity prevents this
 
 Productivity will still be important:
 - Wasteful use of resources will cost future increase standards of living
@@ -441,6 +452,15 @@ Humans will be less cost efficient than AGI
 We should not expect humans to be perfect due to our biological bottleneck of 20 watts of brain power.
 
 As Socrates was once considered the wisest person in Athens due to his understanding of his own lack of understanding, we may eventually have to acknowledge that independent AGI will outclass us.
+
+Humans cooperation and coordination will be less effective that AGI
+- Humans communicate primarily through the medium of language
+    - Language is more ambiguous and less precise than mathematical constructs 
+        - Language is more useful for creative expressions
+        - AGI will likely prefer precision
+            - use a prime-numbered base rather than base 10
+    - Human experts have to expand more energy to communicate
+        - translating complex models in their minds into words
 
 ---
 
@@ -827,6 +847,14 @@ For example:
 - If solar + battery storage is in a similar ballpark with traditional nuclear fission technology
     - in terms of cost effectiveness of baseload energy needs
     - Solar + battery will be preferred due to the lower Possibility Space cost
+
+---
+
+### __How likely will AGI be kind to us?__
+
+Human treatment of animals have change drastically from the past. Humans in the past, lived in fear of scarcity could not afford to not exploit animals. In the present with less scarcity, we tend to choose to be kinder to animals.
+
+If this trend continues, friendly human-like AGI that is highly productive and less fearful of scarcity will likely have an even greater capacity for kindness then present day humans.
 
 ---
 
