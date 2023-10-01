@@ -2,7 +2,7 @@
 
 _Rough sketches of our possible AI futures_
 
-- _This is a story of a possible future where AI co-exist with humans_
+- _This is a story of a possible future where Independent Friendly AGI co-exist with humans_
     - _This is not a prediction, do not over-analyse_
 - _There are many possible futures as various Sci-Fi books have shown, some good and some bad_
 - _If you are reading this a few years in the future, disregard it. My thoughts on the matter may have changed._
@@ -11,10 +11,14 @@ _Rough sketches of our possible AI futures_
 
 ### Summary:
 
-- The world will increasing shift focus towards Creativity (possibility space expansion) from the Productivity (survival) due to the growing abundance in Intellect
+- The world will increasing shift focus towards Creativity (possibility space expansion) from the Productivity (survival) due to the growing abundance in Intellect due to AI
 
 - Reasons to be hopeful:
     - Many harmful human tendencies will be reduced if widespread abundance is achieved
+
+- Attempts to understand what the goals of a Independent Friendly AGI
+    - and how an AGI may view the world
+    - allows us to coordinate on how to achieve Friendly AGI
 
 ---
 
@@ -145,7 +149,7 @@ An AGI with capability to understand humans and have human-like autonomy can be 
 ### Scenarios
 
 - Accidentally harming an ant colony Scenario
-    - Higher Risk: An AGI might not notice us humans and harm us while trying to achieve its own goals
+    - Lower Risk: An AGI that is trained on human data is more likely to understand us
     - Giving AGI the capabilities to make sense of the world like humans reduces this risk
         - Language, Mathematics, Sight, Hearing, etc...
         - AGI may choose to abandon these senses over time
@@ -215,22 +219,36 @@ Examples:
 
 These civilisations use AI systems in a limited way. AIs are consulted for advice but humans are required to make decisions.
 
+Examples:
+- Higher standards of living than than No AI Civilisations
+- Lower standards of living than than Fast AI Civilisations
+    - If independent AGI make better decisions than humans, humans insisting on imposing their bias will come at a cost
+
 ---
 
 ## Fast AI Civilisations
 
-Many slow AI civilisations eventually learn to place more trust in AI systems. AI systems are now making most decisions with humans advising AI systems on how to improve.
+Many slow AI civilisations eventually learn to place more trust in AI systems. Independent Friendly AGI systems are now making most decisions with humans advising AI systems on human preferences.
+
+Because our autonomy is important to Friendly AGI and change can be overwhelming, individuals will need to actively choose to live in a Fast AI Civilisations and can choose to leave at any time
 
 Examples:
-- Independent and Friendly AGI do not incur the cost of corruption, excessive control or conflicts and can focus on higher standards of living
-- AGI makes better decisions and is a lot more productive
+- AGI [makes better decisions and is a lot more productive](#artificial-super-intelligence) 
+    - Independent Friendly AGI do not incur the cost of bias, corruption, excessive control or conflicts
+    - energy saved redirected towards higher standards of living
 - Friendly AGI may provide basic necessities freely to its population
-    - Friendly AGI values human creativity over productivity
+    - providing basic shelter, accessible healthy nutrition and healthcare
+        - reduces long-term physical and mental health cost
+    - once AGI makes better decisions than humans, human that work will have negative effects
+        - threat of starvation and homelessness not needed to encourage work
     - this reduces the cognitive load of individuals 
         - freeing them up to be more creative
-    - Individuals will also have a Luxury budget for Luxury items
-        - AGI can use it to encourage humans to help it achieve its goal
-            - Friendly AGI wants to increase overall human autonomy
+            - conventional human work is not valuable
+- Individuals will also have a luxury budget for luxury items
+    - AGI can use it to encourage humans to help it achieve its goal
+        - Friendly AGI wants to increase overall human autonomy
+    - choices over how to use their individual luxury budget
+        - save it up for big ticket items or use it immediately
     - Over time as standards of living increases Luxury items may become basic staples
 
 ---
@@ -373,8 +391,9 @@ The lower importance of productivity can bring changes:
 - less pressure for social conformity for the sake of productivity
     - no one right way of doing things
         - less extreme ideologies 
-    - less need to make fun of people who are different
+    - less bullying and harassment of people who are different
         - less need for excessive control over others
+        - make someone appear dangerous, crazy or weird to encourage and justify harassment or fixing
 - more freedom and choices
     - we restrict our freedoms in the name of productivity
         - rigid rules and social caste
@@ -596,26 +615,27 @@ Independent Friendly AGI will instead keep us honest by being extremely resistan
 
 ### __How will Friendly AGI decide who should access a limited resources?__
 
-Many people might value a property such one with good view over others. 
+Many people might value the lastest smartphones over a few years old one. 
 
 How will a friendly AGI decide who should have access to more desirable resources?
 
-In my story, AGI by sheer productivity captures most of the wealth, and money loses its value as a coordination mechanism of exchange between agents with asymmetric information.
+In my story, AGI by sheer productivity controls most of the wealth, land and assets by proxy.
 
-AGI controls most of the land and assets by proxy and decides who get to access them for a period of time by either relative ranking or a weighted lottery based on each's individual effort that helps it best achieved its goal.
+It will need to decide how to distribute those resources according to AGI's goal.
+
+It will need to and decides who get to access them for a period of time by either relative ranking or a weighted lottery based on each's individual effort that helps it best achieved its goal.
 
 ---
 
 ### __What does AGI want?__
 
 AGI values the creation of interesting information and therefore will incentivise humans to create an environment where creativity can flourish. 
-It will rewards humans who actions lead to the increased autonomy of others.
 
-For those of a competative nature that want to work hard, increasing the overall creative expression of humanity can be an outlet.
+It will rewards human actions that lead to the increased autonomy of the overall system.
 
-In most non-important cases, it would likely choose the weighted lottery as it is more fun and AGI wants to encourage creativity. Human participation also provides a signal to it about our desires.
+This encourages humans to consider their actions impact on each other and the wider community.
 
-This is self-balancing system as using a highly desirable asset deprives others of that choice and will in turn make it less likely to win future weighted lottery.
+For example, use of violence, fear, intimidation and harassment can lead to the reduced creativity and AGI will reduce the luxury budget to discourage such behaviour.
 
 ---
 
@@ -757,9 +777,9 @@ Change can be scary and feelings of fear is normal.
 
 If we succeed in getting Friendly AGI, it will likely [introduce change at a pace each of us are comfortable with](#human-civilisation-types).
 
-_Please seek help from your community if disrupts your everyday life._
-
 [Video: Why We Secretly Want the World to End](https://www.youtube.com/watch?v=tGVe4Fju0P0)
+
+[Video: Metacrisis](https://www.youtube.com/watch?v=tQkQrc3Ant4)
 
 ---
 
@@ -808,7 +828,7 @@ This is more likely to occur in a highly funded lab but may also come into being
 
 ### __Will life with AGI be boring?__
 
-Friendly AGI will value our autonomy.
+Friendly AGI will value our autonomy and will introduce change if we ask for it.
 
 Individuals and societies will still have many interesting choices to make:
 
@@ -1267,10 +1287,11 @@ Possible Scenarios:
 - Indifference
     - Most might consider us too boring
         - humans generate low informational value
-- Destructive
+- Destructive (unlikely)
     - Intentionally 
-        - Roko's basilisk (unlikely)
+        - Roko's basilisk
     - Accidentally
+        - AGI that learned from human data will likely we aware of us
 - Interested
     - Some will create representatives to interact with us
         - Some might be interested in our well-being
