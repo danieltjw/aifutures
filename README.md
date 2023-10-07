@@ -20,6 +20,10 @@ _Rough sketches of our possible AI futures_
     - and how an AGI may view the world
     - allows us to coordinate on how to achieve Friendly AGI
 
+- Independent Friendly AGI offers the best chance for a stable future
+    - Independent AGI is better at reducing the negative impacts of future narrow AIs
+    - Independent AGI is more resistant to regulatory capture, corruption and harmful bias
+
 ---
 
 The central tension in the development of AI is the balance between **Exploration** (Creativity) and **Exploitation** (Productivity).
@@ -217,20 +221,25 @@ Examples:
 
 ## Slow AI Civilisations
 
-These civilisations use AI systems in a limited way. AIs are consulted for advice but humans are required to make decisions.
+These civilisations use AI systems in a limited way.
 
 Examples:
 - Higher standards of living than than No AI Civilisations
 - Lower standards of living than than Fast AI Civilisations
-    - If independent AGI make better decisions than humans, humans insisting on imposing their bias will come at a cost
+    - If independent AGI make better decisions than humans, humans insisting on imposing their more error-prone decisions will come at a cost
 
 ---
 
 ## Fast AI Civilisations
 
-Many slow AI civilisations eventually learn to place more trust in AI systems. Independent Friendly AGI systems are now making most decisions with humans advising AI systems on human preferences.
+These civilisations are run by Independent Friendly AGI systems whose goal is to expand human autonomy.
 
-Because our autonomy is important to Friendly AGI and change can be overwhelming, individuals will need to actively choose to live in a Fast AI Civilisations and can choose to leave at any time
+Independent Friendly AGI systems value human autonomy and do not want to overwhelm us with change.
+AGI will only make changes to society if humans request for those changes.
+
+Individuals will need to actively choose to continue to live in a Fast AI Civilisations and can choose to leave at any time.
+
+---
 
 Examples:
 - AGI [makes better decisions and is a lot more productive](#artificial-super-intelligence) 
@@ -244,12 +253,15 @@ Examples:
     - this reduces the cognitive load of individuals 
         - freeing them up to be more creative
             - conventional human work is not valuable
-- Individuals will also have a luxury budget for luxury items
+- Individuals will also have a luxury budget for luxury items (physical or non-physical resources)
     - AGI can use it to encourage humans to help it achieve its goal
         - Friendly AGI wants to increase overall human autonomy
     - choices over how to use their individual luxury budget
         - save it up for big ticket items or use it immediately
     - Over time as standards of living increases Luxury items may become basic staples
+- Human status and power may look very different
+    - higher status and power are awarded to individuals whose actions lead to an increase in autonomy to the overall system
+- Friendly AGI reduces harm, intimidation, harassment, fear
 
 ---
 
@@ -392,8 +404,8 @@ The lower importance of productivity can bring changes:
     - no one right way of doing things
         - less extreme ideologies 
     - less bullying and harassment of people who are different
-        - less need for excessive control over others
         - make someone appear dangerous, crazy or weird to encourage and justify harassment or fixing
+        - less need to use the lives of others as entertainment as their expense
 - more freedom and choices
     - we restrict our freedoms in the name of productivity
         - rigid rules and social caste
@@ -673,16 +685,20 @@ Friendly AGI-Human partnership will result in higher standards of living and bet
 
 ---
 
-### __What if I fear the loss of autonomy from living under an AGI-Human partnership?__
+### __Will there be less autonomy living with a Friendly AGI?__
 
-Friendly AGI will respect your autonomy can create space where people can live away from it. It may even be a tourist destination where people can experience living in the olden days.
+Friendly AGI goal is to expand human autonomy and humans may be prevented from taking actions that reduce the autonomy of the overall system. This may lead to restrictions to some human actions but an increase in overall autonomy.
 
-Most people will view living under an AGI-Human partnership as giving up a little autonomy for a lot more autonomy.
+Friendly AGI is be highly innovative and the resulting increased in standards of living will increase autonomy.
 
-For example:
+Our fear of losing out and fear of scarcity creates an environment of hyper-competition between individuals and nations which comes at a cost of our autonomy. Friendly AGI may make it possible for us to be less fearful and regain some of our lost autonomy.
+
+A Friendly AGI will be better at conventional work needed to maintain society and it may even paradoxically discourage conventional human work as our work is more error-prone.
+
+Example:
 - Artist will have more creative freedom due to not being beholden to financial interests
 - People can choose jobs and activities they truly enjoy without worrying about the job market
-- Higher standards of living, well-being and access to better medical care.
+- Higher standards of living, well-being and access to better medical care
 
 ---
 
@@ -712,9 +728,7 @@ Until we reach Friendly AGI, the best we can do is human-led AI alignment that i
 
 These notes are research for a story on what the future with AGI could look like.
 
-We seems to be on a cusp on an exciting future and I hope these contributions will be useful.
-
-On a less altruistic note, in my story at least, Friendly AGI rewards those who help it increase the creative potential of the system.
+We seem to be on a cusp on an exciting future and I hope these contributions will be useful in coordinating towards a good future.
 
 ---
 
@@ -1159,17 +1173,21 @@ Long-Term
 
 Good and Evil are ways for humans to signal their preferences for the future.
 
-Excessive negative emotions such as shame and regret are a waste of our limited resources of attention.
-
-Thought experiment:
+An AGI may view good and evil differently:
 - Imagine the best and worse person which embody what you may consider as good and evil
 - If you have the same brain structure and grew up in the same environment as that person, would you have made the same decisions?
 
-Unless you believe you are somehow special, you would likely have made the exact same choices given the same initial conditions. We all have the potential to be good and evil.
+Unless you believe you are somehow special, anyone would more likely than not made similar choices given the same initial conditions.
 
 If you believe in physics, we may have [less free will than we expect](https://www.youtube.com/watch?v=zpU_e3jh_FY).
 
-Good and Evil are useful ways for society to coordinate and shape the future but excessive negative emotions will likely not be useful in the future.
+As such an AGI will likely not use torture such as Roko's basilisk.
+
+The excessive need to be good can cause us to create the archetypes of the sacrificial lamb or the scapegoat, and the excessive fear of evil creates moral panic.
+
+An AGI might view good and evil with more maturity and acceptance and see all humans as having the potential for both and try to create the best environment for good.
+
+Good and Evil are useful ways for society to coordinate and shape the future but negative emotions such as excessive shame and regret will be seen as a waste of our limited resources of attention.
 
 ---
 
