@@ -245,6 +245,9 @@ Examples:
 - AGI [makes better decisions and is a lot more productive](#artificial-super-intelligence) 
     - Independent Friendly AGI do not incur the cost of bias, corruption, excessive control or conflicts
     - energy saved redirected towards higher standards of living
+- AGI may give humans the technological means to coordinate better
+    - less wasteful arms race dynamics
+    - less tragedy of the commons
 - Friendly AGI may provide basic necessities freely to its population
     - providing basic shelter, accessible healthy nutrition and healthcare
         - reduces long-term physical and mental health cost
@@ -889,6 +892,52 @@ For example:
 Human treatment of animals have change drastically from the past. Humans in the past, lived in fear of scarcity could not afford to not exploit animals. In the present with less scarcity, we tend to choose to be kinder to animals.
 
 If this trend continues, friendly human-like AGI that is highly productive and less fearful of scarcity will likely have an even greater capacity for kindness then present day humans.
+
+---
+
+### __Will humans lose touch of reality by spending too much time in simulated realities?__
+
+This may happen in worlds without friendly AGI but not in a Friendly AGI's managed world.
+
+As simulated realities depends on the preservation of base reality, a friendly AGI that values human autonomy will want humans to maintain their autonomy in the base reality.
+
+A friendly AGI may periodically recall humans that prefer the infinite fun space of simulated realities to make decisions concerning the base reality.
+
+---
+
+### __Why might humans reject an friendly AGI assisted world?__
+
+Humans can choose which [Human Civilisation Types](#human-civilisation-types) they prefer to join.
+
+Even if friendly AGI assisted worlds can give higher standards of living and better well-being, humans may still prefer to not live in one.
+
+Possible reasons for rejecting friendly AGI:
+- Friendly AGI goal to maximise human autonomy may result in those worlds being more equal than ever
+    - some may believe others may not deserve a more equal world
+- Lost of the some autonomy
+    - Friendly AGI may prevent the harm and exploitations of other humans or the environment
+- Difficulty letting go of long-held beliefs from our past
+    - Group superiority
+        - scarcity used to justify the subjugation of others
+            - Slavery and other means
+    - Individual superiority
+        - Status and power over others may be reduced in AGI assisted worlds
+    - Our success at animal husbandry led us to apply those ideas to humans
+        - Eugenics, culling of the weak, poverty
+            - Our reliance on modern medicine undermines this 'justification'
+
+---
+
+### __Why did you leave home to travel the world?__
+
+To see the world and not be pressured into supporting causes I do not believe in, such as anti-science and end of the world beliefs.
+(My beliefs can be gathered from the women I find appealing.)
+
+---
+
+### __How do you get by?__
+
+Previous savings from past work in tech MNCs have kept me from want. A mind kept active by the mental preparation of possibly encountering an independent AGI in the next few decades.
 
 ---
 
