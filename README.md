@@ -9,7 +9,7 @@ _Rough sketches of our possible AI futures_
 
 ---
 
-### Summary:
+## Summary
 
 - The world will increasing shift focus towards Creativity (possibility space expansion) from the Productivity (survival) due to the growing abundance in Intellect due to AI
 
@@ -20,11 +20,23 @@ _Rough sketches of our possible AI futures_
     - and how an AGI may view the world
     - allows us to coordinate on how to achieve Friendly AGI
 
-- Independent Friendly AGI offers the best chance for a stable future
+- Independent Friendly AGI offers the best chance for a promising future
     - Independent AGI is better at reducing the negative impacts of future narrow AIs
     - Independent AGI is more resistant to regulatory capture, corruption and harmful bias
 
 ---
+
+## Relevancy
+
+The speed of progress of narrow and multi-model AI capabilities in 2022-2023 have been surprising to many observers in the tech space.
+
+It seems increasing likely that this will have a transformative impact on societies and individuals. 
+
+Even the more far-fetched possibility of the existence of independent AGIs is may be plausible within our lifetimes and worthy of consideration.
+
+---
+
+## Background
 
 The central tension in the development of AI is the balance between **Exploration** (Creativity) and **Exploitation** (Productivity).
 
@@ -45,7 +57,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Real time Decision and Planning, Robotics ([Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8))
     - Real time Learning ([Adaptive Agent](https://sites.google.com/view/adaptive-agent))
     - Real world Learning ([Toolformer](https://github.com/lucidrains/toolformer-pytorch), [Langchain](https://github.com/hwchase17/langchain), [Internet Explorer](https://internet-explorer-ssl.github.io))
-    - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), ChatGPT-4, [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io), [RT-2](https://robotics-transformer2.github.io/))
+    - Some Generalisation ability, Multi-model ([Flamingo](https://www.deepmind.com/blog/tackling-multiple-tasks-with-a-single-visual-language-model), [Cato](https://www.deepmind.com/publications/a-generalist-agent), [Multimodal-CoT](https://github.com/amazon-science/mm-cot), ChatGPT-4, [Kosmos-1](https://arxiv.org/abs/2302.14045), [PaLM-E](https://palm-e.github.io), [RT-2](https://robotics-transformer2.github.io), [Open X-Embodiment]())
         - PaLM-E
             - Multi-model: Embodied (Robotics), Visual, Language
             - Positive Transfer Learning in similar domains
@@ -915,16 +927,21 @@ Possible reasons for rejecting friendly AGI:
 - Friendly AGI goal to maximise human autonomy may result in those worlds being more equal than ever
     - some may believe others may not deserve a more equal world
 - Lost of the some autonomy
-    - Friendly AGI may prevent the harm and exploitations of other humans or the environment
+    - Friendly AGI may prevent the harm and exploitations of other humans or the environment in base reality
 - Difficulty letting go of long-held beliefs from our past
     - Group superiority
         - scarcity used to justify the subjugation of others
             - Slavery and other means
+        - believe in 'Ragnarok' and other end of world ideas
+            - this usually involves a final battle between 'good' and 'evil'
+                - each group believes that they are the 'good' ones destined to defeat the other 'evil'*
     - Individual superiority
         - Status and power over others may be reduced in AGI assisted worlds
     - Our success at animal husbandry led us to apply those ideas to humans
         - Eugenics, culling of the weak, poverty
             - Our reliance on modern medicine undermines this 'justification'
+
+*Even if the 'good' group does succeed in getting rid of 'evil' for a period of time, our tendency to believe in this idea will eventually create a new 'good' and 'evil' group from the previous 'good' group. This idea was likely inherited from our past where the existential fears of scarcity led to the need for such extreme framing. Will we outgrow this tendency in a future of abundance?
 
 ---
 
@@ -935,9 +952,13 @@ To see the world and not be pressured into supporting causes I do not believe in
 
 ---
 
-### __How do you get by?__
+### __How do you get by without work?__
 
-Previous savings from past work in tech MNCs have kept me from want. A mind kept active by the mental preparation of possibly encountering an independent AGI in the next few decades.
+Savings from past work in tech MNCs have kept me from want.
+
+Keeping up with the latest research and imagining what form AGIs might take has been intellectually engaging.
+
+While I have been quite the recluse, I'm open to any concerns.
 
 ---
 
@@ -1099,13 +1120,24 @@ This is an open question and one of the challenges of our times.
 ### Short to Medium
 
 - Jobs required for societies to function will be increasing be done by AI systems
+    - AIs are more cost effective and less error-prone
 
 - Humans will be in-charge of teaching and giving feedback to those AI systems
 
 - Marginal value of each additional human teaching the same AI systems will drop
     - traditional 1:1 ratio of job to human will not be required
     - humans will instead move to more unconventional tasks
-        - unconventional skills will be more valuable to an AI system once it has learned conventional skills
+        - unconventional skills will be more valuable to an AI system once it has learned more conventional skills
+    - AIs are good at generating synthetic data from existing data
+        - AIs are not yet good at generating tail-end distribution data that are less conventional
+            - high demand for unconventional skills
+            - quality over quantity of data
+
+Societies that are better at encouraging humans to generate more unconventional tail-end distribution data will be more successful in the long run.
+
+Societies shift to encouraging creativity over excessive productivity.
+
+Creativity will be key to more capable AI systems and by extension the society that relies on those AI systems.
 
 ### Medium to Long
 
