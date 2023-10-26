@@ -32,7 +32,40 @@ The speed of progress of narrow and multi-model AI capabilities in 2022-2023 hav
 
 It seems increasing likely that this will have a transformative impact on societies and individuals. 
 
-Even the more far-fetched possibility of the existence of independent AGIs is may be plausible within our lifetimes and worthy of consideration.
+Even the more far-fetched possibility of the existence of independent AGIs is may be plausible within the next few decades and worthy of consideration.
+
+It might be prudent to start the difficult work of preparing ourselves to adapt to a world with powerful non-independent AI and / or Independent AGI.
+
+This story explores a potential path towards Independent Friendly AGI using currently available research as a starting point. The trek towards Independent Friendly AGI could be a challenging one as many of our present human tendencies are incompatible with an Independent Friendly AGI. 
+
+---
+
+## Explorations
+
+Short term
+- Transformative non-independent AI
+    - allows higher standards of living
+        - concentrated or shared
+
+- Topics
+    - How to mitigate the harm of misuse?
+        - Will those mitigations cause more harm than benefit?
+    - How to evaluate if an AI system is safe?
+    - How best ensure the transition from non-independent AI to Independent Friendly AGI?
+    - How does decisions made in the short term affect the likelihood of Friendly AGI in the long term?
+
+Long term
+- Independent Friendly AGI / ASI
+    - still theoretical, may arrive in the next few decades or longer
+    - allows the highest standards of living, well-being and autonomy for all
+        - if AGI improves human cooperation
+
+- Topics
+    - How might we go about creating Independent Friendly AGI?
+    - How do we evaluate if an AGI is Friendly?
+    - How do we persuade Independent AGI to work with us?
+    - What might be the needs and wants of an Independent AGI
+    - How do we prepare human individuals and societies to co-exist with AGI?
 
 ---
 
