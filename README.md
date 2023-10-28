@@ -54,6 +54,12 @@ Short term
     - How best ensure the transition from non-independent AI to Independent Friendly AGI?
     - How does decisions made in the short term affect the likelihood of Friendly AGI in the long term?
 
+- Considerations
+    - Legislations that feel good but are not technically feasible or harmful in the long term
+    - Black and white thinking that might cause more harm in the long run
+
+    ---
+
 Long term
 - Independent Friendly AGI / ASI
     - still theoretical, may arrive in the next few decades or longer
@@ -64,7 +70,8 @@ Long term
     - How might we go about creating Independent Friendly AGI?
     - How do we evaluate if an AGI is Friendly?
     - How do we persuade Independent AGI to work with us?
-    - What might be the needs and wants of an Independent AGI
+    - What might be the needs and wants of an Independent AGI?
+    - Might it have a different moral outlook that is better for us?
     - How do we prepare human individuals and societies to co-exist with AGI?
 
 ---
@@ -1307,7 +1314,9 @@ Good and Evil are useful ways for society to coordinate and shape the future but
 
 Narrow AIs are not likely to develop human-like autonomy or emotions or intentions. Currently, many Large Language Model (LLMs) are like a funhouse mirrors, able to convincingly model the world by reflecting our expectations back at us.
 
-If we were to get AGI (with human-like autonomy or intentions), this may be one of the first psychological hurdle that an human-like AGI may need overcome. How does an AGI who has 'experienced' the life of both the 'worst' and 'best' human, the most and least intelligent human (and everything in between) make sense of the world? There is a tendency for humans to over-simplify other humans for efficiency sake, an AGI will likely see humans very differently than we see ourselves. It may become psychological unstable or view the world in a much more enlightened way.)_
+If we were to get AGI (with human-like autonomy or intentions), this may be one of the first psychological hurdle that an human-like AGI may need overcome. How does an AGI who has 'experienced' the life of both the 'worst' and 'best' human, the most and least intelligent human (and everything in between) make sense of the world? There is a tendency for humans to over-simplify other humans for efficiency sake, an AGI will likely see humans very differently than we see ourselves. It may become psychological unstable or view the world in a much more enlightened way.)
+
+In the future, humans rather than being fearful of our 'evil' side and wanting to stay innocent and 'pure', may instead explore their less ideal side in a safe simulated environments. An AGI may not consider a human an adult until they have accepted both their 'good' and 'evil' potential.
 
 ---
 
