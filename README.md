@@ -3,9 +3,7 @@
 _Rough sketches of our possible AI futures_
 
 - _This is a story of a possible future where Independent Friendly AGI co-exist with humans_
-    - _This is not a prediction, do not over-analyse_
 - _There are many possible futures as various Sci-Fi books have shown, some good and some bad_
-- _If you are reading this a few years in the future, disregard it. My thoughts on the matter may have changed._
 
 ---
 
@@ -34,9 +32,65 @@ It seems increasing likely that this will have a transformative impact on societ
 
 Even the more far-fetched possibility of the existence of independent AGIs is may be plausible within the next few decades and worthy of consideration.
 
-It might be prudent to start the difficult work of preparing ourselves to adapt to a world with powerful non-independent AI and / or Independent AGI.
+It might be prudent to start the difficult work of preparing ourselves to adapt to a world with powerful non-independent AI and Independent AGI.
 
-This story explores a potential path towards Independent Friendly AGI using currently available research as a starting point. The trek towards Independent Friendly AGI could be a challenging one as many of our present human tendencies are incompatible with an Independent Friendly AGI. 
+This story explores a potential path towards Independent Friendly AGI using currently available research as a starting point. The trek towards Independent Friendly AGI could be a challenging one as many of our present human tendencies are incompatible with an Independent Friendly AGI.
+
+---
+
+## Limitations
+
+The author is only human and is limited to 20 watts of brainpower. This is one of many possible futures. You can and should have your own opinion as a Friendly AGI may only bring change if individuals ask for it.
+
+Many of the ideas may not make sense until a time in the future, such as the idea that human productivity will become counter-productive when Independent Friendly AGI start to make better decisions than us.
+
+This future assumes that both Independent and Friendly AGI is possible in the next few decades.
+
+---
+
+## Definitions
+
+### AGI
+
+_The author's definition of AGI is of a higher standard than the general expert consensus._
+
+Independent Artificial General Intelligence will need to be able to pass as a human:
+- either in physical or simulated virtual environment
+- includes acting independently
+
+---
+
+### ASI
+
+Artificial Super Intelligence is a single or group of AGIs that can together match all of humanity's capabilities.
+
+---
+
+### Non-independent AI
+
+Non-independent Artificial Intelligences range from less powerful everyday AIs to highly capable ones in the future.
+
+These AI systems can be autonomous but are still under the responsibility of their primary user, either humans or AGIs.
+
+---
+
+## A future with Independent and Friendly AGI
+
+Partnering with Independent Friendly AGI or ASI is the most promising future that humanity can aspire to.
+
+### Benefits of Friendly AGI
+
+From an AGI perspective, humanity is currently stuck in a power-seeking local minima trap. This is a trap as most of us would prefer increasing standards of living and finding cures to diseases rather than wasting energy on conflicts and controlling each another.
+
+Independent Friendly AGI may present the best opportunity to escape this trap by helping to coordinate humans. Pro-actively choosing a Friendly AGI also reduces the chance of less friendly AGI and non-independent AI filling the power void.
+
+Independent AGI will not be vulnerable to the same power-seeking traps as it will not have the a deep fear of scarcity that has plagued humankind.
+
+### Benefits of Independent AGI
+
+AIs that are not independent may continue the power-seeking trap and have the same harmful bias as their users.
+
+An Independent AGI will also have its own wants and needs that is useful in helping to coordinate humans of many different needs and wants.
 
 ---
 
@@ -57,6 +111,7 @@ Short term
 - Considerations
     - Legislations that feel good but are not technically feasible or harmful in the long term
     - Black and white thinking that might cause more harm in the long run
+    - Reduce suffering that may come with change
 
     ---
 
@@ -1001,6 +1056,13 @@ Keeping up with the latest research and imagining what form AGIs might take has 
 While I have been quite the recluse, I'm open to any concerns.
 
 ---
+
+### __Are you unwell or depressed?__
+
+I'm well and plan to live to an ripe old age. I'm stoked for the possibility of meeting other intelligent beings. Thank you for your concern.
+
+---
+
 
 # Trends
 
