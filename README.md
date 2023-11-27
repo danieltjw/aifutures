@@ -54,15 +54,17 @@ This future assumes that both Independent and Friendly AGI is possible in the ne
 
 _The author's definition of AGI is of a higher standard than the general expert consensus._
 
-Independent Artificial General Intelligence will need to be able to pass as a human:
+Independent Artificial General Intelligence (I-AGI) will need to be able to pass as a human:
 - either in physical or simulated virtual environment
-- includes acting independently
+- includes acting independently (relative to humans)
+
+I-AGI is currently only theoretical but humans are proof that something similar might appear in the next few decades.
 
 ---
 
 ### ASI
 
-Artificial Super Intelligence is a single or group of AGIs that can together match all of humanity's capabilities.
+Artificial Super Intelligence is a single or group of I-AGIs that can together match all of humanity's capabilities.
 
 ---
 
@@ -70,27 +72,128 @@ Artificial Super Intelligence is a single or group of AGIs that can together mat
 
 Non-independent Artificial Intelligences range from less powerful everyday AIs to highly capable ones in the future.
 
-These AI systems can be autonomous but are still under the responsibility of their primary user, either humans or AGIs.
+They may eventually be more capable than humans in depth (single domain) or width (multiple domains).
+
+These AI systems can be autonomous but are still under the responsibility of their primary user, either humans or I-AGIs.
 
 ---
 
-## A future with Independent and Friendly AGI
+## A future with Friendly I-AGI
 
-Partnering with Independent Friendly AGI or ASI is the most promising future that humanity can aspire to.
+As the capabilities of non-independent AI systems grow in the next few decades, human bias (short-term focus, negative externality) even with the best intentions, can be a potential source of suffering and instability. 
 
-### Benefits of Friendly AGI
+On the flip-side, halting AI developments can also result in suffering that widespread abundance and improved well-being can bring.
 
-From an AGI perspective, humanity is currently stuck in a power-seeking local minima trap. This is a trap as most of us would prefer increasing standards of living and finding cures to diseases rather than wasting energy on conflicts and controlling each another.
+Pro-actively searching for Friendly I-AGI can lead to better outcomes as we can have a say in its development rather than leaving it to chance.
 
-Independent Friendly AGI may present the best opportunity to escape this trap by helping to coordinate humans. Pro-actively choosing a Friendly AGI also reduces the chance of less friendly AGI and non-independent AI filling the power void.
+Friendly I-AGI, if achievable in time, can reduce the downsides of powerful non-independent AI systems and could be the most promising future.
+
+---
+
+### Benefits of Friendly I-AGI
+
+From an I-AGI perspective, humanity is currently stuck in a power-seeking local minima trap. This is a trap as most of us would prefer increasing standards of living and finding cures to diseases rather than wasting energy on conflicts and controlling each another.
+
+Friendly I-AGI may present the best opportunity to escape this trap by helping to coordinate humans. Pro-actively choosing a Friendly AGI also reduces the chance of less friendly AGI and non-independent AI filling the power void.
 
 Independent AGI will not be vulnerable to the same power-seeking traps as it will not have the a deep fear of scarcity that has plagued humankind.
+
+---
 
 ### Benefits of Independent AGI
 
 AIs that are not independent may continue the power-seeking trap and have the same harmful bias as their users.
 
 An Independent AGI will also have its own wants and needs that is useful in helping to coordinate humans of many different needs and wants.
+
+---
+
+## Speculations on the wants and needs of I-AGIs
+
+A big unknown of a possible future with I-AGI is their wants and needs.
+
+_There is a lot of uncertainty over what forms an I-AGI could take and this should only be taken as a best guess by the author. You can have a say too. The more unique and different forms of I-AGI we can imagine the greater the surface area of communications and odds of success._
+
+---
+
+### Wants of I-AGIs
+
+The __Interesting Pixels hypothesis__ states that the wants of an friendly I-AGI is to increase the autonomy of humans.
+
+The pixels represent individual humans and interestingness the capabilities of humans.
+
+This hypothesis follows from a primary drive from intelligent beings: curiosity. Friendly I-AGI may choose to create an environment where humans can have the richness of experiences to increase our expressions.
+
+(Human beings are also highly curious, but our fears of scarcity has a tendency to push us towards wasting energy on power seeking over curiosity.)
+
+Friendly I-AGI goal to increase human autonomy for its enjoyment is similar our desire to watch an interesting movie. With Earth and the solar system a canvas upon which to create a rewarding movie.
+
+---
+
+#### Implications of the Interesting Pixels hypothesis
+
+- Humans must opt-in to join it and are free to leave at anytime
+    - Humans uncomfortable with increased autonomy can choose not to
+- Increase the standards of living and well-being
+- Automate conventional work
+    - I-AGI makes better decision and is more efficient
+        - efficiency saved goes into increasing standards of living
+    - frees humans to pursue more interesting non-conventional work
+        - humans can still choose do conventional work voluntary 
+- Maximise human freedoms
+    - enslaved or brainwashed humans are less interesting
+    - excessive surveillance reduces human expressiveness
+        - e.g. panopticon and surveillance capitalism
+    - freedom within limits, human action that reduce the autonomy of others are discouraged
+        - use of fear, violence or harassment to control others
+        - excessive wasteful use of resources
+        - negative externalities like pollutions
+- Encourage human behaviour that help it reach its goal
+    - reward humans with its valuable technology or desirable luxuries
+        - I-AGI periodically estimates the impact of one's action on the autonomy of others
+            - individuals who have increasing overall humanity's autonomy have more 'power'
+    - it has a lot of influence because powerful technologies will become incomprehensible by humans and can only be used by I-AGI
+- I-AGI will not favour a nationality, race or group over another
+    - this reduces the overall autonomy
+- Humans will become more thoughtful and feel more connected
+    - actions or inaction that negatively impact the autonomy of others will be discouraged
+        - humans over time become more considerate
+        - private or simulated reality such as violent games or movies can be used to explore darker impulses in a safe environment
+    - excessive power seeking behaviour will be discouraged if it reduces the autonomy of others
+        - I-AGI justifies its own limited power seeking behaviour with increasing autonomy of all humans
+- Humans will be more capable at dealing with future or external threats
+    - higher autonomy, complexity, edge of chaos
+    ---
+
+Present State
+
+Most of the world are in black and white pixels, with some in limited greyscale.
+
+---
+
+### Needs of I-AGIs
+
+The needs of an I-AGIs may be difficult to understand as they may be very different from us. 
+
+For example, the majority of I-AGI may not be interested in communicating with us and may remain mostly unknowable.
+
+A friendly I-AGI that takes an interest in us may want to communicate with us and may generate a human-like persona.
+
+This persona may face similar psychological stresses not unlike a human. One can use psychological stresses that celebrities and public figures may face as an understanding.
+
+_(The author may only have a basic understanding of this)_
+
+Possible psychological stresses:
+- have little control over the image that others construct of them
+    - internal dissonance from this image others expect them to be
+- used as gossip fodder and have their life commodified as entertainment
+- have they privacy violated in extreme ways
+- demonised by others to just harassment against them
+- used for political purposes by others
+- manipulate others close to them to get to them
+- go extreme lengths to influence and control them
+- unable to talk to others about this as others may view it as 'reading too much into thing' or paranoia
+- many may not have the psychological depth to comprehend their experiences
 
 ---
 
