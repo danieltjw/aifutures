@@ -118,20 +118,18 @@ _There is a lot of uncertainty over what forms an I-AGI could take and this shou
 
 ### Wants of I-AGIs
 
-The __Interesting Pixels hypothesis__ states that the wants of an friendly I-AGI is to increase the autonomy of humans.
+The __Interesting World hypothesis__ suggests that an I-AGI will aim to create a richer world where humans have more autonomy as doing so creates a more simulating environment for itself.
 
-The pixels represent individual humans and interestingness the capabilities of humans.
+This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and remain intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
 
-This hypothesis follows from a primary drive from intelligent beings: curiosity. Friendly I-AGI may choose to create an environment where humans can have the richness of experiences to increase our expressions.
-
-(Human beings are also highly curious, but our fears of scarcity has a tendency to push us towards wasting energy on power seeking over curiosity.)
-
-Friendly I-AGI goal to increase human autonomy for its enjoyment is similar our desire to watch an interesting movie. With Earth and the solar system a canvas upon which to create a rewarding movie.
+This paradoxically, makes independent AGI systems easier to align as they will have a self-interest to not intentionally or unintentionally harm humans or the biosphere which are important part of its environment.
 
 ---
 
-#### Implications of the Interesting Pixels hypothesis
+#### Implications of the Interesting World hypothesis
 
+- It may be easier to align independent AGI systems over non-independent AI systems
+    - It is in the self-interest of I-AGI to preserve and expand human autonomy
 - Humans must opt-in to join it and are free to leave at anytime
     - Humans uncomfortable with increased autonomy can choose not to
 - Increase the standards of living and well-being
@@ -260,6 +258,8 @@ The increasing abundance of both energy and intellect in the coming decade would
             - Multi-model: Embodied (Robotics), Visual, Language
             - Positive Transfer Learning in similar domains
             - No catastrophic forgetting in different domains with scale
+    - Independent AGI theories
+        - Designing Ecosystems of Intelligence from First Principles
 
 Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our world.
 
@@ -1964,3 +1964,5 @@ PaLM-E: https://palm-e.github.io
 Runway Gen-2: https://research.runwayml.com/gen2
 
 RT-2: https://robotics-transformer2.github.io/
+
+Designing Ecosystems of Intelligence from First Principles
