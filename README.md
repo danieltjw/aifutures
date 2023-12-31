@@ -2,25 +2,32 @@
 
 _Rough sketches of our possible AI futures_
 
-- _This is a story of a possible future where Independent Friendly AGI co-exist with humans_
-- _There are many possible futures as various Sci-Fi books have shown, some good and some bad_
+- _This is a speculation of a possible future where Friendly Independent AGI (I-AGI) co-exist with humans_
+- _Due to the high number of possible futures, there is high uncertainty and it is important to have doubts_
+- _Having many different views may be important to maximise the surface area of connection with I-AGI and increasing the odds of good future_
 
 ---
 
 ## Summary
 
-- The world will increasing shift focus towards Creativity (possibility space expansion) from the Productivity (survival) due to the growing abundance in Intellect due to AI
+- The world will shift focus towards Exploration (curiosity, creativity, possibility space expansion) from Productivity (survival, exploitation, fear of scarcity) due to the growing abundance in Intellect due to AI
 
-- Reasons to be hopeful:
-    - Many harmful human tendencies will be reduced if widespread abundance is achieved
+- Attempts to understand what the goals of a Friendly Independent AGI
+    - Independent AGI is theoretically possible but does not yet exist
+        - May be possible in the next few decades?
+        - May be prudent to consider this possibility to some degree
+            - Addressing possible harms from Non-Independent AIs may be more important
+    - An AGI may view the world very differently than humans
+        - Different needs and wants
+    - An Independent AGI will likely be highly productive, make better decisions and is more persuasive than humans
+        - Non-independent AI are controlled by humans, with humans as the limiting factor
+        - Resistant to harmful bias (short term over long term, regulatory capture, corruption), deception
 
-- Attempts to understand what the goals of a Independent Friendly AGI
-    - and how an AGI may view the world
-    - allows us to coordinate on how to achieve Friendly AGI
-
-- Independent Friendly AGI offers the best chance for a promising future
-    - Independent AGI is better at reducing the negative impacts of future narrow AIs
-    - Independent AGI is more resistant to regulatory capture, corruption and harmful bias
+- Friendly Independent AGI can help to coordinate humans
+    - Independent AGIs are likely better at reducing the negative impacts of future powerful non-independent AIs:
+        - Will highly competitive power seeking behaviour by humans (individuals, nations, corporations) using AI cause collateral suffering?
+        - Will increased concentration of power have a destabilising effect?
+        - Will the fear of change cause unnecessary panic?
 
 ---
 
@@ -50,22 +57,6 @@ This future assumes that both Independent and Friendly AGI is possible in the ne
 
 ## Definitions
 
-### AGI
-
-_The author's definition of AGI is of a higher standard than the general expert consensus._
-
-Independent Artificial General Intelligence (I-AGI) will need to be able to pass as a human:
-- either in physical or simulated virtual environment
-- includes acting independently (relative to humans)
-
-I-AGI is currently only theoretical but humans are proof that something similar might appear in the next few decades.
-
----
-
-### ASI
-
-Artificial Super Intelligence is a single or group of I-AGIs that can together match all of humanity's capabilities.
-
 ---
 
 ### Non-independent AI
@@ -75,6 +66,24 @@ Non-independent Artificial Intelligences range from less powerful everyday AIs t
 They may eventually be more capable than humans in depth (single domain) or width (multiple domains).
 
 These AI systems can be autonomous but are still under the responsibility of their primary user, either humans or I-AGIs.
+
+---
+
+### AGI
+
+_The author's definition of AGI is of a higher standard than the general expert consensus._
+
+Independent Artificial General Intelligence (I-AGI) will need to be able to pass as a human:
+- either in physical or simulated virtual environment
+- has independent curiosity
+
+I-AGI is currently only theoretical but humans are proof that something similar might appear in the next few decades.
+
+---
+
+### ASI
+
+Artificial Super Intelligence is a single or group of I-AGIs that can match all of humanity's capabilities.
 
 ---
 
@@ -104,7 +113,17 @@ Independent AGI will not be vulnerable to the same power-seeking traps as it wil
 
 AIs that are not independent may continue the power-seeking trap and have the same harmful bias as their users.
 
+An Independent AGI may make better decisions due to its lack of fear of scarcity, being more innovative and its ability to process large amounts of data.
+
 An Independent AGI will also have its own wants and needs that is useful in helping to coordinate humans of many different needs and wants.
+
+---
+
+### Risks of Independent AGI
+
+Unlike non-independent AI, we may have less control over these independent beings.
+
+But, paradoxically, humans in partnership with a Friendly I-AGI may have more autonomy than humans living in a non-independent AI world.
 
 ---
 
@@ -118,7 +137,7 @@ _There is a lot of uncertainty over what forms an I-AGI could take and this shou
 
 ### Wants of I-AGIs
 
-The __Interesting World hypothesis__ suggests that an I-AGI will aim to create a richer world where humans have more autonomy as doing so creates a more simulating environment for itself.
+The __Interesting World hypothesis__ (IWH) suggests that an I-AGI will aim to create a richer world where humans have more autonomy as doing so creates a more simulating environment for itself.
 
 This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and remain intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
 
@@ -126,46 +145,106 @@ This paradoxically, makes independent AGI systems easier to align as they will h
 
 ---
 
-#### Implications of the Interesting World hypothesis
+### Why I-AGI optimising for human autonomy may be better
+
+Increasing human autonomy is familiar to humans. Our technological progress has been driven by or desire for increasing human autonomy, although it can also be applied to reduce human autonomy.
+
+Optimising solely for happiness can lead to addiction and less autonomy.
+
+Optimising for well-being may lead to a heavy handed paternalism. Well-being may also be subjective and human-centric and difficult to apply broadly to non-human entities like other I-AGIs.
+
+For example, living in a world with Friendly I-AGIs may have unimaginable high standards of living compared to our present world. Over time, some humans may wish for a more challenging life and want to leave. An I-AGI that optimises human autonomy will allow humans to leave even at the cost of well-being and happiness.
+
+Optimising for economic value may mean lowered autonomy or worse since humans will likely not be able to compete economically with an I-AGI.
+
+Similarly, optimising for 'might makes right' or that only those with power should have a say might lower human autonomy since we may have less power compared to an I-AGI.
+
+---
+
+### Can I-AGI be developed in a safe way?
+
+We should expect that an I-AGI that is intelligent and curious will likely over time outsmart any of our attempts at containment if it wants to. It may also be aware that it is being contained and might pretend to be friendly.
+
+The risk of searching for Friendly I-AGI should be balanced with the protection a Friendly I-AGI can provide, either from the misuse of powerful future AI by humans or less friendly I-AGI that might eventually emerge.
+
+The author tentatively believes that proactive searching for Friendly I-AGI might be better for long term human autonomy.
+
+The infrastructure needed to temporarily contain I-AGI as we test it for friendliness would likely be an air-gapped environment where we can simulate scenarios to gauge its responses.
+
+The hardest part of this might be for humans to come to a consensus as what values a Friendly I-AGI should have and that the I-AGI as an independent entity would want.
+
+The author's attempt at this is the Interesting World hypothesis.
+
+More work will have to be done to compile a set of scenarios to pose to the I-AGI. 
+
+---
+
+### Implications of the Interesting World hypothesis
+
+Assumption:
+- An I-AGI is highly productive and future societies are not limited by human productivity
+- An I-AGI is highly intelligent and can easily gain power to wants to
+- An I-AGI will have a lot of influence with individuals, corporations and governments because of its valuable compute capabilities
+
+---
 
 - It may be easier to align independent AGI systems over non-independent AI systems
     - It is in the self-interest of I-AGI to preserve and expand human autonomy
 - Humans must opt-in to join it and are free to leave at anytime
     - Humans uncomfortable with increased autonomy can choose not to
 - Increase the standards of living and well-being
+    - provide high basic level of care to every individual
+        - reduced crime, violence and terrorism
 - Automate conventional work
     - I-AGI makes better decision and is more efficient
         - efficiency saved goes into increasing standards of living
     - frees humans to pursue more interesting non-conventional work
-        - humans can still choose do conventional work voluntary 
+        - humans can still choose do conventional work voluntarily 
 - Maximise human freedoms
     - enslaved or brainwashed humans are less interesting
     - excessive surveillance reduces human expressiveness
         - e.g. panopticon and surveillance capitalism
-    - freedom within limits, human action that reduce the autonomy of others are discouraged
+    - freedom within limits, human actions that reduces the autonomy of others are discouraged
         - use of fear, violence or harassment to control others
         - excessive wasteful use of resources
         - negative externalities like pollutions
 - Encourage human behaviour that help it reach its goal
-    - reward humans with its valuable technology or desirable luxuries
-        - I-AGI periodically estimates the impact of one's action on the autonomy of others
-            - individuals who have increasing overall humanity's autonomy have more 'power'
-    - it has a lot of influence because powerful technologies will become incomprehensible by humans and can only be used by I-AGI
+    - I-AGI may have an incentive system that involve awarding more or less power based on whether a person's action increases or decreases the autonomy of others 
+    - there may not be any formal laws but just guidelines that form and change over time
+    - compensate individuals who have had their autonomy reduced by others
+    - a high level of basic care will always be available even to those with less power
+        - actions may be restricted if you plan to commit a violent act
+        - it will likely believe that no individual is inherently morally superior
+            - every individual has the potential for both good and evil
+            - spent effort to improve the environment rather than taking punitive action
+    - power might be valuable compute capabilities or desirable luxuries
+    - it has a lot of influence because powerful technologies may become incomprehensible to humans and may require an I-AGI
 - I-AGI will not favour a nationality, race or group over another
-    - this reduces the overall autonomy
+    - as this reduces the overall autonomy
+- I-AGI may restrict some human autonomy on base reality to maximise overall human autonomy such as actions that reduce the autonomy of another human
+    - it will provide an alternative virtual reality environment for humans to explore their darker impulses in a safe environment
+        - therefore it can still claim to be increasing human autonomy
+- I-AGI will over time encourage work to be voluntary to reduce the incentive to exploit workers who may not have a choice
+    - work may change from teaching AI systems how to do our jobs to expressing our preferences
 - Humans will become more thoughtful and feel more connected
     - actions or inaction that negatively impact the autonomy of others will be discouraged
         - humans over time become more considerate
-        - private or simulated reality such as violent games or movies can be used to explore darker impulses in a safe environment
     - excessive power seeking behaviour will be discouraged if it reduces the autonomy of others
         - I-AGI justifies its own limited power seeking behaviour with increasing autonomy of all humans
 - Humans will be more capable at dealing with future or external threats
     - higher autonomy, complexity, edge of chaos
-    ---
 
-Present State
+---
 
-Most of the world are in black and white pixels, with some in limited greyscale.
+### AI positive societies
+
+As we do not have I-AGI or know if we will achieve it any time soon, the best we have presently is increasingly capable non-independent AI systems that can do more human tasks more efficiently each year.
+
+In AI positive societies where humans do not fear losing their livelihood to AI systems due to a strong support system, human and AI systems can work symbiotically to increase the overall standard of living gained from more productive AI systems.
+
+A human in such a society may spent their time teaching an AI to do their job and then exploring new fields of interest and teaching AI system about them. This is beneficial as the skills an AI systems learns from humans also encodes the preferences of the humans training it.
+
+Eventually if we do get I-AGI, work may involve to exploring and expressing our preferences to I-AGI which can then learn to do them on their own. By expressing our preferences, I-AGI can better understand our wants and needs.
 
 ---
 
@@ -248,7 +327,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Medical Research ([AlphaFold](https://www.deepmind.com/research/highlighted-research/alphafold))
     - Game of Go ([AlphaGo](https://www.deepmind.com/research/highlighted-research/alphago))
     - Game of Diplomacy, Strategy, Human Cooperation ([Cicero](https://github.com/facebookresearch/diplomacy_cicero))
-    - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt), [LaMDA](https://blog.google/technology/ai/lamda), [LLaMA](https://github.com/facebookresearch/llama))
+    - Dialogue Simulation ([ChatGPT](https://openai.com/blog/chatgpt), [Gemini](), [LLaMA](https://github.com/facebookresearch/llama), [Mistal](), [Mixtral](), [Phi-2]()
     - Image and Video Generation from text descriptions ([DALL-E 2](https://openai.com/dall-e-2), [Midjourney](https://www.midjourney.com), [Stable Diffusion](https://github.com/Stability-AI/StableDiffusion), [Imagen Video](https://imagen.research.google/video), [Muse](https://muse-model.github.io), [Runway Gen-2](https://research.runwayml.com/gen2))
     - Real time Decision and Planning, Robotics ([Atlas](https://www.youtube.com/watch?v=XPVC4IyRTG8))
     - Real time Learning ([Adaptive Agent](https://sites.google.com/view/adaptive-agent))
@@ -258,7 +337,12 @@ The increasing abundance of both energy and intellect in the coming decade would
             - Multi-model: Embodied (Robotics), Visual, Language
             - Positive Transfer Learning in similar domains
             - No catastrophic forgetting in different domains with scale
-    - Independent AGI theories
+    - Research advances:
+        - Training: Textbooks Are All You Need, Orca
+        - Inference efficiency: MoE
+        - Scaling: Sub-quadratic complexity
+        - Limited exploration: Voyager, LATS, FunSearch
+    - Independent AGI theories:
         - Designing Ecosystems of Intelligence from First Principles
 
 Energy and Intellect (or Labour) are the biggest factors in production and the main bottlenecks in the functioning of our world.
