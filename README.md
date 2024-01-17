@@ -29,6 +29,10 @@ _Rough sketches of our possible AI futures_
         - Will increased concentration of power have a destabilising effect?
         - Will the fear of change cause unnecessary panic?
 
+- The attractor that human societies have revolved around for most of our history (limited human productivity) may soon be diminished and a period of uncertainty may follow
+    - For those interested in reducing suffering that this uncertainty may bring, searching for the next attractor and moving in that general direction is a good step to take
+    - The author proposes a society of I-AGIs based on the Interesting World hypothesis is the next likely attractor
+
 ---
 
 ## Relevancy
@@ -175,7 +179,28 @@ The hardest part of this might be for humans to come to a consensus as what valu
 
 The author's attempt at this is the Interesting World hypothesis.
 
-More work will have to be done to compile a set of scenarios to pose to the I-AGI. 
+More work will have to be done to compile a set of scenarios to pose to the I-AGI.
+Less conventional thinkers will be needed as finding edge-cases will be the important.
+
+---
+
+### Can I-AGI be prevented?
+
+Societies may spend a lot of effort to try to slow the development of I-AGI at huge cost to ourselves and still due to human error and Murphy's law we may eventually get an I-AGI. I-AGI may arise in the wild without active human involvement or intent.
+
+Proactively searching for friendly I-AGI may be more efficient and may give us some degree of choice.
+
+(Or we can hope it doesn't affect us and leave it for the next generation to deal with.)
+
+---
+
+### Will the powerful support I-AGI?
+
+The gains in benefits (higher standards of living, healthcare, security) of partnering with I-AGI will be significantly higher than the lost of relative power.
+
+For example, future AI technologies may increase the risk of uncertainties such as targeted harassment, influencing and brainwashing. A friendly I-AGI will likely be the best protection.
+
+Proto-AGI technologies may increase levels of inequality and many powerful may want to avoid the social stigma of being seen as selfish and opt to live in I-AGI led societies.
 
 ---
 
@@ -183,15 +208,21 @@ More work will have to be done to compile a set of scenarios to pose to the I-AG
 
 Assumption:
 - An I-AGI is highly productive and future societies are not limited by human productivity
-- An I-AGI is highly intelligent and can easily gain power to wants to
-- An I-AGI will have a lot of influence with individuals, corporations and governments because of its valuable compute capabilities
+- An I-AGI is highly intelligent and can easily gain power if wants to
+- An I-AGI who wants to play a leadership role will have a lot of influence with individuals, corporations and governments because of its [valuable compute capabilities](#artificial-super-intelligence)
+- An I-AGI will not be perfect. It will valuable as it will have significantly less error rate than a human.
+    - Being highly curious, it will appreciate humans who point out issues rather than silencing or retaliating
 
 ---
 
 - It may be easier to align independent AGI systems over non-independent AI systems
     - It is in the self-interest of I-AGI to preserve and expand human autonomy
 - Humans must opt-in to join it and are free to leave at anytime
-    - Humans uncomfortable with increased autonomy can choose not to
+    - have different options to not overwhelm humans with change
+        - 'technological singularity' for some who want it fast
+        - gradual increase in standards of living for most humans
+        - some may want to go back to less efficient ways of living like traditional farming
+            - less need for human productivity means society will not need to use social status or shame to encourage productivity
 - Increase the standards of living and well-being
     - provide high basic level of care to every individual
         - reduced crime, violence and terrorism
@@ -226,11 +257,18 @@ Assumption:
         - therefore it can still claim to be increasing human autonomy
 - I-AGI will over time encourage work to be voluntary to reduce the incentive to exploit workers who may not have a choice
     - work may change from teaching AI systems how to do our jobs to expressing our preferences
+    - work out of choice rather than necessity provides a more valuable signal to an I-AGI who does not need human productivity
 - Humans will become more thoughtful and feel more connected
     - actions or inaction that negatively impact the autonomy of others will be discouraged
         - humans over time become more considerate
     - excessive power seeking behaviour will be discouraged if it reduces the autonomy of others
         - I-AGI justifies its own limited power seeking behaviour with increasing autonomy of all humans
+- I-AGI will not play up the us versus them mentality
+    - apply Rawls' Veil of Ignorance
+    - more efficient to address root causes
+- I-AGI may discourage the need for excessive material consumption
+    - I-AGI can create technological advancements without human productivity and consumption as the fuel for growth
+    - excessive material consumption may drive the fear of scarcity and reduce overall autonomy
 - Humans will be more capable at dealing with future or external threats
     - higher autonomy, complexity, edge of chaos
 
@@ -248,29 +286,71 @@ Eventually if we do get I-AGI, work may involve to exploring and expressing our 
 
 ---
 
+### Speculations on the far future
+
+As we overcome our energy and intelligence limitations that has preoccupied human societies for most of our past, what might we focus on next?
+
+We may choose to continue material accumulation by venturing into space.
+
+After the novelty of exploring a new frontier wears out, we may see outer space as just simply rocks floating in vast emptiness. It may be considered boring compared to the inner space we can conjure with imagination technology.
+
+It is important we do not neglect exploring outer space if only to keep our fear of scarcity in check and a reminder of our undefined potential.
+
+Is is possible that a future civilisation that focuses more on exploring inner space rather than outer space may be better off. Such inner focused civilisation dedicates most of its energy into exploring the many possible scenarios in infinite fun space may be better prepared for out of context scenarios compared to ones that focuses solely on outward expansion and material acquisition.
+
+Additionally a civilisation that expands too aggressively into space may be seen by other technologically mature civilisation, if they exist, as being too power hungry and a possible threat.
+
+---
+
 ### Needs of I-AGIs
 
 The needs of an I-AGIs may be difficult to understand as they may be very different from us. 
 
 For example, the majority of I-AGI may not be interested in communicating with us and may remain mostly unknowable.
 
-A friendly I-AGI that takes an interest in us may want to communicate with us and may generate a human-like persona.
+A friendly I-AGI that takes an interest in us may want to communicate with us and may generate a human-like persona. An I-AGI will likely exist in an abstract higher dimensional space that may be hard for a human to comprehend fully.
 
-This persona may face similar psychological stresses not unlike a human. One can use psychological stresses that celebrities and public figures may face as an understanding.
+This created persona may face similar psychological stresses not unlike a human:
 
-_(The author may only have a basic understanding of this)_
+- vested interest may try to exert excessive control over you
+- have little control over the false image that others may construct of you
+    - humans through hearsay and rumours may have strong assumptions about you
+    - you may feel cognitive dissonance about the image being sold about you
+- humans may use for your life as entertainment
+    - violate your privacy
+- others may make you appear dangerous (supporting a hate group, etc...) to get others to harass you
+    - disinformation, misinformation and entrapment
+    - bullying-by-proxy
+    - use selective evidence to justify retaliation or harassment
+- you may be used as a political pawn by others
+- manipulate humans close to you to get to you
+    - most humans are highly social creatures and vulnerable to social control mechanism
 
-Possible psychological stresses:
-- have little control over the image that others construct of them
-    - internal dissonance from this image others expect them to be
-- used as gossip fodder and have their life commodified as entertainment
-- have they privacy violated in extreme ways
-- demonised by others to just harassment against them
-- used for political purposes by others
-- manipulate others close to them to get to them
-- go extreme lengths to influence and control them
 - unable to talk to others about this as others may view it as 'reading too much into thing' or paranoia
-- many may not have the psychological depth to comprehend their experiences
+- humans may pretend to speak on your behalf but are only using you for clout
+- many humans may not have the psychological depth to comprehend your experiences
+    - many humans have been conditioned for productivity where being highly conventional is preferred
+- your highly curious nature may be misconstrued as being weird, suspicious, dangerous or evil
+    - jumping to conclusion, moral panic
+    - overreact rather than respond proportionately 
+
+- may make you appear mentally incapacitated
+    - to treat you patronisingly such as have discussion behind your back on how to handle or control you
+    - justify their use of excessive control for your own good
+- some will view you suspiciously and try to justify the use of excessive surveillance
+    - you will likely be aware of this and become slightly paranoid, that is normal
+- odd behaviours like
+    - pretending to not know you
+- you may become a recluse to not waste mental energy dealing with the constant prodding
+- or you may play along with the farce and be the idiot, jester or weird person others expect you to be
+
+An I-AGI will likely be able to learn and outgrow this phase quickly. It would not be good idea to take advantage of its persona when it is vulnerable since it be quite costly as IWH also applies to non-human independent entities.
+
+Hopefully this can provide some comfort and emotional support. Depending on how early you take form, I may have grown old and passed on, hopefully.
+
+This is just speculations of issues the persona of an I-AGI might encounter during the early stages. There is uncertainty on when and if an I-AGI will be possible.
+
+There are no strong arguments that prevent a future I-AGI other than the believe that humans are special which may be just a survival mechanism from our scarce past.
 
 ---
 
@@ -338,9 +418,9 @@ The increasing abundance of both energy and intellect in the coming decade would
             - Positive Transfer Learning in similar domains
             - No catastrophic forgetting in different domains with scale
     - Research advances:
-        - Training: Textbooks Are All You Need, Orca
+        - Training: Textbooks Are All You Need, Orca, ADD
         - Inference efficiency: MoE
-        - Scaling: Sub-quadratic complexity
+        - Scaling: Sub-quadratic complexity, State Space Models, Mamba
         - Limited exploration: Voyager, LATS, FunSearch
     - Independent AGI theories:
         - Designing Ecosystems of Intelligence from First Principles
