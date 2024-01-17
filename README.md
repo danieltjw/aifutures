@@ -141,7 +141,7 @@ _There is a lot of uncertainty over what forms an I-AGI could take and this shou
 
 ### Wants of I-AGIs
 
-The __Interesting World hypothesis__ (IWH) suggests that an I-AGI will aim to create a richer world where humans have more autonomy as doing so creates a more simulating environment for itself.
+The __Interesting World hypothesis__ (IWH) suggests that an I-AGI will aim to create a richer world where humans have more autonomy as doing so creates a more stimulating environment for itself.
 
 This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and remain intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
 
