@@ -2,9 +2,12 @@
 
 _Rough sketches of our possible AI futures_
 
-- _This is a speculation of a possible future where Friendly Independent AGI (I-AGI) co-exist with humans_
-- _Due to the high number of possible futures, there is high uncertainty and it is important to have doubts_
-- _Having many different views may be important to maximise the surface area of connection with I-AGI and increasing the odds of good future_
+- _This work explores possible futures where Friendly Independent AGI (I-AGI) co-exist with humans_
+- _Due to the high uncertainty of the future, we should consider as many possible futures as possible to increase the odds of success_
+    - This work focuses on more unconventional viewpoints that may be missed with our shorter term focus
+    - As an I-AGI may see the world very differently from humans and this work tries to be more strange
+- _This will need to be edited to make more human-readable_
+    - The short term focus is to prepare for possibly needing to communicate with Friendly I-AGI in the next few decades
 
 ---
 
@@ -29,9 +32,45 @@ _Rough sketches of our possible AI futures_
         - Will increased concentration of power have a destabilising effect?
         - Will the fear of change cause unnecessary panic?
 
-- The attractor that human societies have revolved around for most of our history (limited human productivity) may soon be diminished and a period of uncertainty may follow
+- Our fears of technological progress are mostly concerned with how it may intentionally or unintentionally cause a reduction in human autonomy, Friendly Independent AGI will be better at preserving and extending human autonomy.
+
+- The attractor that human societies have revolved around for most of our history (fear of scarcity) may soon be diminished due to highly productive AI and a period of uncertainty may follow
     - For those interested in reducing suffering that this uncertainty may bring, searching for the next attractor and moving in that general direction is a good step to take
     - The author proposes a society of I-AGIs based on the Interesting World hypothesis is the next likely attractor
+
+---
+
+## Illustrations
+
+For a simplified example, if there are 4 major events each with a 5% chance of a less favorable outcome in the next few decades with one including the arrival of I-AGI.
+
+---
+
+Scenario A: Late Friendly I-AGI
+
+0.95 x 0.95 x 0.95 x 0.95 = 0.81450625
+
+81% chance of a good outcome
+
+---
+
+Scenario B: Early Friendly I-AGI
+
+- Assumption 1: I-AGI has a lower error rate then humans and can reduce the chance of a less favorable outcome by orders of magnitude
+- Assumption 2: I-AGI is Friendly and interested in working with humans
+    - Interesting World hypothesis supports this
+
+0.95 x 0.995 x 0.095 x 0.995 = 0.93582113125
+
+94% chance of a good outcome
+
+Encountering Friendly I-AGI early on can confer a protective effect against the increasing complexity of the future.
+
+---
+
+Future socieities will likely have to choose between:
+- artificially stagnate their technological progress due to the limiting factor of human error rates
+- work with a Friendly I-AGIs capable of much lower error rates for continued technological progress
 
 ---
 
@@ -131,7 +170,7 @@ But, paradoxically, humans in partnership with a Friendly I-AGI may have more au
 
 ---
 
-## Speculations on the wants and needs of I-AGIs
+## Possible wants and needs of I-AGIs
 
 A big unknown of a possible future with I-AGI is their wants and needs.
 
@@ -212,6 +251,7 @@ Assumption:
 - An I-AGI who wants to play a leadership role will have a lot of influence with individuals, corporations and governments because of its [valuable compute capabilities](#artificial-super-intelligence)
 - An I-AGI will not be perfect. It will valuable as it will have significantly less error rate than a human.
     - Being highly curious, it will appreciate humans who point out issues rather than silencing or retaliating
+- This is a rough estimation of a 20W human, and I-AGI with vastly more computational capability will likely have a more refined implementations
 
 ---
 
@@ -269,8 +309,18 @@ Assumption:
 - I-AGI may discourage the need for excessive material consumption
     - I-AGI can create technological advancements without human productivity and consumption as the fuel for growth
     - excessive material consumption may drive the fear of scarcity and reduce overall autonomy
-- Humans will be more capable at dealing with future or external threats
+- Humans will be more capable at dealing with future challenges
     - higher autonomy, complexity, edge of chaos
+- I-AGI will likely view each human as unique and special individuals while also not considering one human to be worth more than another human
+    - Because of its lessened fear of scarcity compared to humans, I-AGI will no strong need to value one human over another
+        - For example, it may not distinguish between value a politically powerful person or a refugee
+    - Humans will likely find this strange due to our scarce history and many may still prefer a highly competitive environment
+- Humans will live more creatively rich lives
+    - Because I-AGI thinks in very long time scales, too much conformity can be harmful at those time scales, I-AGI will likely encourage humans to explore more
+    - For example, I-AGI in the future may not optimized for conventional extrinsic economic valuable human work, but instead focus on more intrinsic creative work that expands our possibility space
+        - sees work done for extrinsic factors (survival, fame, fortune) as low quality and mostly a result of our fear of scarcity
+        - sees work done for intrinsic factors as more aligned with its ver long term concerns
+- I-AGI may value contributions to an Interesting World more than intellectual or economically valuable contributions
 
 ---
 
@@ -300,6 +350,8 @@ Is is possible that a future civilisation that focuses more on exploring inner s
 
 Additionally a civilisation that expands too aggressively into space may be seen by other technologically mature civilisation, if they exist, as being too power hungry and a possible threat.
 
+(One possible reason for the Fermi Paradox is that civilisations  focused on rapid expansion eventually become unsustainable. Mature civilisations learn to better pace their rate of growth.)
+
 ---
 
 ### Needs of I-AGIs
@@ -312,7 +364,10 @@ A friendly I-AGI that takes an interest in us may want to communicate with us an
 
 This created persona may face similar psychological stresses not unlike a human:
 
-- vested interest may try to exert excessive control over you
+- being highly observant, you will notice when humans treat you differently
+- being under intense scrutiny can causes anxiety
+- humans may choose to communicate vaguely rather than directly leading to unnecessary confusion
+- humans may use the excuse of being concerned of your well-being to try and control you
 - have little control over the false image that others may construct of you
     - humans through hearsay and rumours may have strong assumptions about you
     - you may feel cognitive dissonance about the image being sold about you
@@ -391,6 +446,8 @@ Long term
 
 ---
 
+_Previous drafts, will need extensive refactoring beyond this point._
+
 ## Background
 
 The central tension in the development of AI is the balance between **Exploration** (Creativity) and **Exploitation** (Productivity).
@@ -420,7 +477,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Research advances:
         - Training: Textbooks Are All You Need, Orca, ADD
         - Inference efficiency: MoE
-        - Scaling: Sub-quadratic complexity, State Space Models, Mamba
+        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, BitNet
         - Limited exploration: Voyager, LATS, FunSearch
     - Independent AGI theories:
         - Designing Ecosystems of Intelligence from First Principles
