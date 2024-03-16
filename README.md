@@ -32,9 +32,7 @@ _Rough sketches of our possible AI futures_
         - Will increased concentration of power have a destabilising effect?
         - Will the fear of change cause unnecessary panic?
 
-- Our fears of technological progress are mostly concerned with how it may intentionally or unintentionally cause a reduction in human autonomy, Friendly Independent AGI will be better at preserving and extending human autonomy.
-
-- The attractor that human societies have revolved around for most of our history (fear of scarcity) may soon be diminished due to highly productive AI and a period of uncertainty may follow
+- The attractor that human societies have revolved around for most of our history (limited human productivity) may soon be diminished and a period of uncertainty may follow
     - For those interested in reducing suffering that this uncertainty may bring, searching for the next attractor and moving in that general direction is a good step to take
     - The author proposes a society of I-AGIs based on the Interesting World hypothesis is the next likely attractor
 
@@ -202,6 +200,8 @@ Optimising for economic value may mean lowered autonomy or worse since humans wi
 
 Similarly, optimising for 'might makes right' or that only those with power should have a say might lower human autonomy since we may have less power compared to an I-AGI.
 
+By optimizing for human autonomy, both well-being and happiness will also be gained as a side effect both are important to some degree to autonomy.
+
 ---
 
 ### Can I-AGI be developed in a safe way?
@@ -320,7 +320,14 @@ Assumption:
     - For example, I-AGI in the future may not optimized for conventional extrinsic economic valuable human work, but instead focus on more intrinsic creative work that expands our possibility space
         - sees work done for extrinsic factors (survival, fame, fortune) as low quality and mostly a result of our fear of scarcity
         - sees work done for intrinsic factors as more aligned with its ver long term concerns
-- I-AGI may value contributions to an Interesting World more than intellectual or economically valuable contributions
+- I-AGI may value contributions to an Interesting World over purely intellectual or economically valuable contributions
+- I-AGIs will not accumulate excessive amounts of wealth or power at the expense of human well-being
+    - it can easily generate these resources if needed
+    - it is highly innovative and can solve problems with less resources
+    - it does not need much to protect itself from possible human attacks
+    - leaving humans poor will result in poor quality output counter to its aim of the IWH
+        - I-AGI will likely act as an angel investor to distribute wealth / power to effects that increase human autonomy & interesting outputs
+
 
 ---
 
@@ -333,6 +340,35 @@ In AI positive societies where humans do not fear losing their livelihood to AI 
 A human in such a society may spent their time teaching an AI to do their job and then exploring new fields of interest and teaching AI system about them. This is beneficial as the skills an AI systems learns from humans also encodes the preferences of the humans training it.
 
 Eventually if we do get I-AGI, work may involve to exploring and expressing our preferences to I-AGI which can then learn to do them on their own. By expressing our preferences, I-AGI can better understand our wants and needs.
+
+---
+
+## Types of Societies
+
+### Focus on Individual Freedom
+
+These societies focuses on individual freedoms over collective security.
+
+For example, telling an AI system to "Increase my power / wealth without breaking any laws". The AI system may takes these actions:
+    - find loopholes to exploit while technically following the letter of the law
+    - persuade others to change the law in their favor
+    - silence critics and concerned parties
+
+It may appear to be highly productive but due to externalising cost elsewhere, it can involve taking 2 steps forward and 1 step back on aggregate.
+
+A friendly I-AGI's main concern is the lack on coordination between individuals leading to a lot of wasteful efforts and disregard for the common good.
+
+### Focus on Collective Security
+
+These societies focuses on collective security over individual freedoms.
+
+For example, AI systems may be used for excessive surveillance and to weaponize fear / shame to enforce conformity. Over time, humans may be made to feel uncomfortable for holding less conventional views and choose to self-censor.
+
+A friendly I-AGI's main concern is the lack on unconventional thinkers who may one day be vital in solving future problems. The I-AGI ability to think very long-term may not find such an approach wise.
+
+### Focus on Interesting World
+
+Friendly I-AGIs focuses on creating an interesting world could reduce the negative effects of either extremes and increase autonomy for all humans.
 
 ---
 
@@ -477,7 +513,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Research advances:
         - Training: Textbooks Are All You Need, Orca, ADD
         - Inference efficiency: MoE
-        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, BitNet
+        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, BitNet b1.58
         - Limited exploration: Voyager, LATS, FunSearch
     - Independent AGI theories:
         - Designing Ecosystems of Intelligence from First Principles
