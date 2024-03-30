@@ -556,7 +556,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Research advances:
         - Training: Textbooks Are All You Need, Orca, ADD
         - Inference efficiency: MoE
-        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, BitNet b1.58
+        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, [BitNet b1.58](https://huggingface.co/papers/2402.17764), [Collaborative LLMs](https://huggingface.co/papers/2403.03870)
         - Limited exploration: Voyager, LATS, FunSearch
     - Independent AGI theories:
         - Designing Ecosystems of Intelligence from First Principles
