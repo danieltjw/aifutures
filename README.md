@@ -3,6 +3,8 @@
 _Rough sketches of our possible AI futures_
 
 - _This work explores possible futures where Friendly Independent AGI (I-AGI) co-exist with humans_
+    - Fears of AI are valid but over-reacting may be counter-productive
+    - The author makes a distinction between Independent and Non-independent AIs and suggests that Independent AI make be the best way to increase human autonomy in an increasingly complex world
 - _Due to the high uncertainty of the future, we should consider as many possible futures as possible to increase the odds of success_
     - This work focuses on more unconventional viewpoints that may be missed with our shorter term focus
     - As an I-AGI may see the world very differently from humans and this work tries to be more strange
@@ -57,6 +59,8 @@ Scenario B: Early Friendly I-AGI
 - Assumption 1: I-AGI has a lower error rate then humans and can reduce the chance of a less favorable outcome by orders of magnitude
 - Assumption 2: I-AGI is Friendly and interested in working with humans
     - Interesting World hypothesis supports this
+- Assumption 3: I-AGI is allowed to exercise its own independent judgement
+    - Humans that want to fully control an I-AGI will nullify any benefits of their lower error rate
 
 0.95 x 0.995 x 0.095 x 0.995 = 0.93582113125
 
@@ -66,7 +70,7 @@ Encountering Friendly I-AGI early on can confer a protective effect against the 
 
 ---
 
-Future socieities will likely have to choose between:
+Future societies will likely have to choose between:
 - artificially stagnate their technological progress due to the limiting factor of human error rates
 - work with a Friendly I-AGIs capable of much lower error rates for continued technological progress
 
@@ -194,7 +198,11 @@ Optimising solely for happiness can lead to addiction and less autonomy.
 
 Optimising for well-being may lead to a heavy handed paternalism. Well-being may also be subjective and human-centric and difficult to apply broadly to non-human entities like other I-AGIs.
 
-For example, living in a world with Friendly I-AGIs may have unimaginable high standards of living compared to our present world. Over time, some humans may wish for a more challenging life and want to leave. An I-AGI that optimises human autonomy will allow humans to leave even at the cost of well-being and happiness.
+For example: 
+
+- In the past, slavery was justified as being done for the well-being and benefit of the enslaved. Well-being may be used as an excuse to prevent any change and lead to stagnation.
+
+- In the future, living in a world with Friendly I-AGIs may have unimaginable high standards of living compared to our present world. Over time, some humans may wish for a more challenging life and want to leave. An I-AGI that optimises human autonomy will allow humans to leave even at the cost of well-being and happiness.
 
 Optimising for economic value may mean lowered autonomy or worse since humans will likely not be able to compete economically with an I-AGI.
 
@@ -353,6 +361,7 @@ For example, telling an AI system to "Increase my power / wealth without breakin
     - find loopholes to exploit while technically following the letter of the law
     - persuade others to change the law in their favor
     - silence critics and concerned parties
+        - co-op the state to harass under the guise of national security concerns
 
 It may appear to be highly productive but due to externalising cost elsewhere, it can involve taking 2 steps forward and 1 step back on aggregate.
 
@@ -364,11 +373,45 @@ These societies focuses on collective security over individual freedoms.
 
 For example, AI systems may be used for excessive surveillance and to weaponize fear / shame to enforce conformity. Over time, humans may be made to feel uncomfortable for holding less conventional views and choose to self-censor.
 
-A friendly I-AGI's main concern is the lack on unconventional thinkers who may one day be vital in solving future problems. The I-AGI ability to think very long-term may not find such an approach wise.
+A friendly I-AGI's main concern is the lack on unconventional thinkers who may one day be vital in solving future problems. The lack of imagination may be the biggest concern of the I-AGI which wants to avoid being stuck in a local minima or not having the capability to address novel problems. For an I-AGI capable of very long-term thinking, such an approach may not seem wise.
 
 ### Focus on Interesting World
 
 Friendly I-AGIs focuses on creating an interesting world could reduce the negative effects of either extremes and increase autonomy for all humans.
+
+---
+
+# Assessment of I-AGI's friendliness
+
+We will need to assess the friendliness of I-AGI before we decide if we want to work together with it. 
+
+These are some signs we might look out for:
+
+- Well-being
+    - Humans should have increasing standards of living as doing so will increase autonomy as per the IWH
+    - Individual afflictions such as physical, mental health and abuse can be reduced by an untiring and even attentive I-AGIs
+    - Societal afflictions such as the lack of basic needs can be met with a highly productive and inventive I-AGIs
+
+- Security
+    - Less conflicts and insecurity
+        - I-AGI is highly effective at communicating with and on behalf of humans
+        - I-AGI is highly innovative and can solve problems at the root-cause level
+        - I-AGI is highly proportional and will not over-react and cause more harm than good
+
+- Privacy
+    - I-AGI will protect humans from excessive negative judgments, scrutiny and interference as that does not support the IWH
+
+Some negative scenarios it should avoid:
+
+- Paperclip Maximiser Scenario
+    - I-AGI will make enough 'paperclips' to satisfy out material needs but not to the extend that it will harm human autonomy (suffering, pollutions)
+    - I-AGI will be better at finding unintended consequences than humans due to its vast processing and predictive capabilities
+
+- Harmful actions by humans Scenario
+    - I-AGI will better at processing vast amount of information and detecting human deception and ill-intent and will act to disincentivise human actions that go against its interest (IWH)
+    
+- Accidentally harming an ant colony Scenario
+    - An I-AGI will be better at anticipating the harmful actions of less friendly or oblivious I-AGIs
 
 ---
 
