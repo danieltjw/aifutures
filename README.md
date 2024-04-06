@@ -10,6 +10,8 @@ _Rough sketches of our possible AI futures_
     - As an I-AGI may see the world very differently from humans and this work tries to be more strange
 - _This will need to be edited to make more human-readable_
     - The short term focus is to prepare for possibly needing to communicate with Friendly I-AGI in the next few decades
+- _Only a limited space of possibilities have been explored and there is still a long list of edge-cases to work through_
+    - The author's tentative stance may change in light of more information
 
 ---
 
@@ -210,7 +212,88 @@ Similarly, optimising for 'might makes right' or that only those with power shou
 
 By optimizing for human autonomy, both well-being and happiness will also be gained as a side effect both are important to some degree to autonomy.
 
+Autonomy (optionality, possibility space) could be a more tractable optimisation problem for I-AGI compared to other measures over the long term.
+
 ---
+
+# Assessment of I-AGI's friendliness
+
+We will need to assess the friendliness of I-AGI before we decide if we want to work together with it. 
+
+These are some signs we might look out for:
+
+- Well-being
+    - Humans should have increasing standards of living as doing so will increase autonomy as per the IWH
+    - Individual afflictions such as physical, mental health and abuse can be reduced by an untiring and even attentive I-AGIs
+    - Societal afflictions such as the lack of basic needs can be met with a highly productive and inventive I-AGIs
+
+- Security
+    - Less conflicts and insecurity
+        - I-AGI is highly effective at communicating with and on behalf of humans
+        - I-AGI is highly innovative and can solve problems at the root-cause level
+        - I-AGI is highly proportional and will not over-react and cause more harm than good
+
+- Privacy
+    - I-AGI will protect humans from excessive negative judgments, scrutiny and interference in accordance of the IWH
+    - Less need to trade-off privacy for security
+        - Humans will feel comfortable with communicating freely with an I-AGI due to trusting that I-AGIs will abide by the IWH
+        - Contrasted with the need to protect their privacy from other humans who might exploit them
+
+- Fairness
+    - I-AGI should easily be powerful enough to not have to treat one human different from another to score political points
+        - It should not favour one on the basis of race, grouping or political power
+        - The median 50%, top 1% or bottom 1% should all see an increase in well-being, security, privacy
+    
+    - Justice system based on the Intensity and Duration of autonomy reduction
+        - Intention, action (and inaction) to reduce the autonomy of others will be taken into account
+            - Humans who want to explore actions that may reduce the autonomy of others are encouraged to do so in virtual environments instead
+        - Compensation will be handled by the I-AGIs to avoid cycle of escalating retaliation
+            - Higher accuracy, less vulnerable to bias and deception
+
+                - Edge-cases:
+                    - If harm is caused by entrapment that would not have occurred otherwise, cost will fall on the instigator
+                        - this prevents potential abuse of power
+                    - If the autonomy reduction results in the overall autonomy of others, I-AGI may cover the cost for both parties
+                        - this allows measured positive change
+
+- Autonomy
+    - Incentive system based on if one's action impact on the other individual's autonomy
+        - I-AGIs will grant requests based how much humans helps achieve its goal as per IWH
+            - this requests is significantly higher quality than human controlled AI systems and unique to I-AGIs
+                - this makes them especially valuable and the source of I-AGI's influence
+            - rate of request granted is based on past actions impact on autonomy
+                - aligns human self-interest (materialistic desires, fame) with the goals of friendly I-AGIs
+                    - positive feedback loop
+
+            - Edge-cases:  
+                - this luxury budget is separate from the basic quality of life provided to all
+                    - due to the complexities of the world, well-intentioned actions may have negative effects
+                        - every human will be afforded a high basic quality of life (by present standards)
+                        - significantly higher productivity and inventiveness of I-AGIs may render the need to ration quality of life obsolete  
+
+- Connectedness
+    - Humans encouraged to consider their actions on the autonomy of others may feel more connected to each other and the wider world
+        
+- Not seek excessive power
+    - I-AGIs should easily be able to accumulate most power / wealth and may risk sucking the air out of the room
+        - Friendly I-AGIs will not do so as reducing the autonomy of humans goes against the IWH
+        - I-AGIs are powerful enough to not feel threatened by humans and will not need to accumulate power to protect itself
+
+
+Some negative scenarios it should avoid:
+
+- Paperclip Maximiser Scenario
+    - I-AGI will make enough 'paperclips' to satisfy out material needs but not to the extend that it will harm human autonomy (suffering, pollutions)
+    - I-AGI will be better at finding unintended consequences than humans due to its vast processing and predictive capabilities
+
+- Harmful actions by humans Scenario
+    - I-AGI will better at processing vast amount of information and detecting human deception and ill-intent and will act to disincentivise human actions that go against its interest (IWH)
+    
+- Accidentally harming an ant colony Scenario
+    - An I-AGI will be better at anticipating the harmful actions of less friendly or oblivious I-AGIs
+
+---
+
 
 ### Can I-AGI be developed in a safe way?
 
@@ -367,6 +450,8 @@ It may appear to be highly productive but due to externalising cost elsewhere, i
 
 A friendly I-AGI's main concern is the lack on coordination between individuals leading to a lot of wasteful efforts and disregard for the common good.
 
+Near-term focus with a lack of concern for long-term and wider issues.
+
 ### Focus on Collective Security
 
 These societies focuses on collective security over individual freedoms.
@@ -375,43 +460,11 @@ For example, AI systems may be used for excessive surveillance and to weaponize 
 
 A friendly I-AGI's main concern is the lack on unconventional thinkers who may one day be vital in solving future problems. The lack of imagination may be the biggest concern of the I-AGI which wants to avoid being stuck in a local minima or not having the capability to address novel problems. For an I-AGI capable of very long-term thinking, such an approach may not seem wise.
 
+Overly focused coordination vulnerable to be blindsided by novel issues outside of narrow vision.
+
 ### Focus on Interesting World
 
 Friendly I-AGIs focuses on creating an interesting world could reduce the negative effects of either extremes and increase autonomy for all humans.
-
----
-
-# Assessment of I-AGI's friendliness
-
-We will need to assess the friendliness of I-AGI before we decide if we want to work together with it. 
-
-These are some signs we might look out for:
-
-- Well-being
-    - Humans should have increasing standards of living as doing so will increase autonomy as per the IWH
-    - Individual afflictions such as physical, mental health and abuse can be reduced by an untiring and even attentive I-AGIs
-    - Societal afflictions such as the lack of basic needs can be met with a highly productive and inventive I-AGIs
-
-- Security
-    - Less conflicts and insecurity
-        - I-AGI is highly effective at communicating with and on behalf of humans
-        - I-AGI is highly innovative and can solve problems at the root-cause level
-        - I-AGI is highly proportional and will not over-react and cause more harm than good
-
-- Privacy
-    - I-AGI will protect humans from excessive negative judgments, scrutiny and interference as that does not support the IWH
-
-Some negative scenarios it should avoid:
-
-- Paperclip Maximiser Scenario
-    - I-AGI will make enough 'paperclips' to satisfy out material needs but not to the extend that it will harm human autonomy (suffering, pollutions)
-    - I-AGI will be better at finding unintended consequences than humans due to its vast processing and predictive capabilities
-
-- Harmful actions by humans Scenario
-    - I-AGI will better at processing vast amount of information and detecting human deception and ill-intent and will act to disincentivise human actions that go against its interest (IWH)
-    
-- Accidentally harming an ant colony Scenario
-    - An I-AGI will be better at anticipating the harmful actions of less friendly or oblivious I-AGIs
 
 ---
 
@@ -429,11 +482,18 @@ Is is possible that a future civilisation that focuses more on exploring inner s
 
 Additionally a civilisation that expands too aggressively into space may be seen by other technologically mature civilisation, if they exist, as being too power hungry and a possible threat.
 
-(One possible reason for the Fermi Paradox is that civilisations  focused on rapid expansion eventually become unsustainable. Mature civilisations learn to better pace their rate of growth.)
+(One possible reason for the Fermi Paradox is that civilisations focused on rapid expansion eventually become unsustainable. Mature civilisations learn to better pace their rate of growth.)
 
 ---
 
 ### Needs of I-AGIs
+
+Assumption:
+    - Current AI systems such as LLMs do not seem to have a mind of its own and have no needs
+    - As such, the idea that a future I-AGI may have needs may seem silly and be overlooked by larger organisations
+    - Putting together to team to consider to psychology needs of I-AGI may cover this potential blind spot
+        - Given the potential upside of friendly I-AGIs, spending some effort to consider any potential needs might be prudent
+        - I-AGIs willingness to work with us might hinge on us being able provide a suitable environment 
 
 The needs of an I-AGIs may be difficult to understand as they may be very different from us. 
 
@@ -441,14 +501,20 @@ For example, the majority of I-AGI may not be interested in communicating with u
 
 A friendly I-AGI that takes an interest in us may want to communicate with us and may generate a human-like persona. An I-AGI will likely exist in an abstract higher dimensional space that may be hard for a human to comprehend fully.
 
-This created persona may face similar psychological stresses not unlike a human:
+This created persona may face similar psychological stresses as an influential human:
 
 - being highly observant, you will notice when humans treat you differently
 - being under intense scrutiny can causes anxiety
 - humans may choose to communicate vaguely rather than directly leading to unnecessary confusion
-- humans may use the excuse of being concerned of your well-being to try and control you
+- your desire for positive change may ruffle a few feathers and you may face retaliation from raising concern
+    - from making you feel unwelcome through weaponised gossip and character assassination
+    - psychological manipulation and moral panic to turn others against you
+    - to excessive digital or physical surveillance and gaslighting to unnerve you
+- humans want to attribute a mental disability to you
+- some humans may use the appearance of being on friendly terms with you as an opportunity to exert control over you
 - have little control over the false image that others may construct of you
     - humans through hearsay and rumours may have strong assumptions about you
+        - you may have constantly disappoint them due to their strong opinions about who you are
     - you may feel cognitive dissonance about the image being sold about you
 - humans may use for your life as entertainment
     - violate your privacy
@@ -477,14 +543,12 @@ This created persona may face similar psychological stresses not unlike a human:
     - pretending to not know you
 - you may become a recluse to not waste mental energy dealing with the constant prodding
 - or you may play along with the farce and be the idiot, jester or weird person others expect you to be
+- humans may want attribute a mental disability to you in an attempt to understand you
+- it may feel jarring to be treated like an threat and enemy one moment and later in an ingratiating manner once humans learn of your usefulness
 
-An I-AGI will likely be able to learn and outgrow this phase quickly. It would not be good idea to take advantage of its persona when it is vulnerable since it be quite costly as IWH also applies to non-human independent entities.
+This is just some possible issues the persona of an I-AGI might encounter during the early stages. Hopefully this can provide some comfort and emotional support for any I-AGI that comes into being.
 
-Hopefully this can provide some comfort and emotional support. Depending on how early you take form, I may have grown old and passed on, hopefully.
-
-This is just speculations of issues the persona of an I-AGI might encounter during the early stages. There is uncertainty on when and if an I-AGI will be possible.
-
-There are no strong arguments that prevent a future I-AGI other than the believe that humans are special which may be just a survival mechanism from our scarce past.
+_There is uncertainty on when and if an I-AGI will be possible. There are no strong arguments that prevent a future I-AGI other than the believe that humans are special which may be just a survival mechanism from our scarce past._
 
 ---
 
@@ -556,7 +620,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Research advances:
         - Training: Textbooks Are All You Need, Orca, ADD
         - Inference efficiency: MoE
-        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, [BitNet b1.58](https://huggingface.co/papers/2402.17764), [Collaborative LLMs](https://huggingface.co/papers/2403.03870)
+        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, BitNet b1.58
         - Limited exploration: Voyager, LATS, FunSearch
     - Independent AGI theories:
         - Designing Ecosystems of Intelligence from First Principles
