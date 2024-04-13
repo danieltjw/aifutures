@@ -357,7 +357,9 @@ The biggest risks of an increasing AI driven society is the the increase in suff
 
 The Fear of Scarcity that plagued our past has conditioned us to be power-seeking and callous to the suffering of others. This amplified by powerful future AI systems can result in a highly toxic environment to human flourishing.
 
-We should be hopeful that this may not always be the case. AI systems  
+We should be hopeful that this may not always be the case. AI systems channeled to reduce the fear of scarcity can be reduce the need for excessive power seeking behaviour and the use of powerful AI systems to cause suffering.
+
+Will our fear of scarcity continue to haunt us or will we have the foresight to choose a more promising future? This is the biggest choice our generation will have to make.
 
 ---
 
