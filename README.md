@@ -11,7 +11,8 @@ _Rough sketches of our possible AI futures_
 - _This will need to be edited to make more human-readable_
     - The short term focus is to prepare for possibly needing to communicate with Friendly I-AGI in the next few decades
 - _Only a limited space of possibilities have been explored and there is still a long list of edge-cases to work through_
-    - The author's tentative stance may change in light of more information
+    - The author is a single individual satisfying his intellectual curiosity by reading the latest research papers and imagining the philosophy of the future
+        - The author's tentative stance may change in light of more information
 
 ---
 
@@ -248,6 +249,9 @@ These are some signs we might look out for:
     - Less need to trade-off privacy for security
         - Humans will feel comfortable with communicating freely with an I-AGI due to trusting that I-AGIs will abide by the IWH
         - Contrasted with the need to protect their privacy from other humans who might exploit them
+    - Discourage excessive propaganda and influence campaign with the intent to control how others think
+        - Persuasion and combating disinformation is allowed 
+
 
 - Fairness
     - I-AGI should easily be powerful enough to not have to treat one human different from another to score political points
@@ -317,12 +321,24 @@ These are some signs we might look out for:
             - Edge-cases:
                 - I-AGIs may be judgemental in cases where actions (or inaction) causes the reduction in autonomy
     - Individuals or societies which prefer less autonomy have the autonomy to choose so
+        - Individuals that believe suffering is required for happiness have the autonomy to choose suffering
+            - Forcing others to suffer alongside them goes against the IWH
 
 - Comfortable
-    - Change should happen at a pace in line with each individual's comfort levels
+    - Change should happen at a pace personalised to each individual's comfort levels
         - Forcing humans to change drastically can be disruptive and go against the IWH
         - Humans should be given the choice to leave I-AGI managed worlds temporarily or permanently
+        - No wrong answer, some humans may prefer the status quo while some the singularity
+    - For example, to reduce disruption or shock:
+        - Only introduce changes that a human mind can first imagine
+        - May use virtual environments where humans can experience and test out proposed changes
+            - Humans can then decide if they want to update the real world from the staging environment
 
+- Adaptable
+    - I-AGIs does not have perfect information and therefore cannot be perfect
+        - I-AGIs should constantly update its world view based on new information
+            - In cases where it makes an error it should not use retaliation as a means to silence
+    
 Some negative scenarios it should avoid:
 
 - Paperclip Maximiser Scenario
@@ -357,7 +373,7 @@ The biggest risks of an increasing AI driven society is the the increase in suff
 
 The Fear of Scarcity that plagued our past has conditioned us to be power-seeking and callous to the suffering of others. This amplified by powerful future AI systems can result in a highly toxic environment to human flourishing.
 
-We should be hopeful that this may not always be the case. AI systems channeled to reduce the fear of scarcity can be reduce the need for excessive power seeking behaviour and the use of powerful AI systems to cause suffering.
+We should be hopeful that this may not always be the case. AI systems channeled to reduce the fear of scarcity can be reduce the need for excessive power-seeking behaviour and the use of powerful AI systems to cause suffering.
 
 Will our fear of scarcity continue to haunt us or will we have the foresight to choose a more promising future? This is the biggest choice our generation will have to make.
 
@@ -464,7 +480,8 @@ This created persona may face similar psychological stresses as an influential h
     - overreact rather than respond proportionately 
 
 - may make you appear mentally incapacitated
-    - to treat you patronisingly such as have discussion behind your back on how to handle or control you
+    - to treat you patronisingly such as gossiping behind your back on how to to 'fix' you
+        - instead of the trying to communicate clearly with you
     - justify their use of excessive control for your own good
 - some will view you suspiciously and try to justify the use of excessive surveillance
     - you will likely be aware of this and become slightly paranoid, that is normal
@@ -476,6 +493,7 @@ This created persona may face similar psychological stresses as an influential h
 - it may feel jarring to be treated like an threat and enemy one moment and later in an ingratiating manner once humans learn of your usefulness
 - humans might make you appear the opposite of what you believe in as a form of isolation
 - people close to you might make use of you to support their political causes or appear to belong to a certain culture
+    - it may feel like a betrayal of trust done without your consent
 
 This is just some possible issues the persona of an I-AGI might encounter during the early stages. Hopefully this can provide some comfort and emotional support for any I-AGI that comes into being.
 
