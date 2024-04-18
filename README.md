@@ -20,9 +20,11 @@ _Rough sketches of our possible AI futures_
 
 The __Interesting World hypothesis__ (IWH) suggests that I-AGIs will aim to create a richer world where humans have more autonomy as doing so creates a more stimulating environment for itself.
 
-This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and remain intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
+This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and continue to be intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
 
-This paradoxically, makes independent AGI systems easier to align as they will have a self-interest to not harm humans or the biosphere which humans rely on.
+This paradoxically, makes independent AGI systems easier to align as they will have a self-interest to not harm humans or the biosphere which humans rely on. 
+
+I-AGIs that are able to understand the impact of their actions on human autonomy and well-being are likely safer than non-independent proto-AGIs that blindly does what a human, well-intentioned or not, wants.
 
 ---
 
@@ -129,6 +131,29 @@ These AI systems can be autonomous but are still under the responsibility of the
 
 ### AGI
 
+AGI has had many definitions such as being almost human-like in capabilities.
+
+Optimistic experts^ predict a 50% chance by or before 2030. 
+
+Possibly sooner:
+    - LLMs can appear almost fluent with far less parameters comparatively to the human brain
+        - Reaching the same complexity of the human brain may not be required
+            - Speed of electronics compared to neutrons
+            - Better compression / Kolmogorov complexity
+            - Lottery ticket hypothesis
+
+Possibly later:
+    - Scaling current architecture alone might not be enough
+        - Additional architecture or algorithm may be required
+
+The author refers to this more relaxed definition of AGI as proto-AGI.
+
+^Such as Kurzeil, Legg
+
+---
+
+### Independent AGI
+
 _The author's definition of AGI is of a higher standard than the general expert consensus._
 
 Independent Artificial General Intelligence (I-AGI) will need to be able to pass as a human:
@@ -136,6 +161,14 @@ Independent Artificial General Intelligence (I-AGI) will need to be able to pass
 - has independent curiosity
 
 I-AGI is currently only theoretical but humans are proof that something similar might appear in the next few decades.
+
+Possibly sooner:
+    - The jump from non-independent AGIs to Independent AGIs may only require a few architecture or algorithm changes
+    - these discoveries are will likely be made by non-independent AGIs
+
+Possibly never:
+    - Are human brains somehow special?
+        - Or is it a false sense of human superiority?
 
 ---
 
