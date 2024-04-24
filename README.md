@@ -148,7 +148,7 @@ Possibly later:
 
 The author refers to this more relaxed definition of AGI as proto-AGI.
 
-^Such as Kurzeil, Legg
+^Such as Ray Kurzeil, Shane Legg
 
 ---
 
@@ -264,6 +264,8 @@ Autonomy (optionality, possibility space) could be a more tractable optimisation
 
 We will need to assess the friendliness of I-AGI before we decide if we want to work together with it. 
 
+Due to the high uncertainty of I-AGIs we will likely need long periods of testing to reach a high degree of confidence that I-AGI is friendly. Given the independent nature of I-AGI, like humans, complete confidence is not possible, but I-AGI only needs to show that outcomes of AI systems will be safer under it compared to humans.
+
 These are some signs we might look out for:
 
 - Well-being
@@ -366,12 +368,17 @@ These are some signs we might look out for:
         - Only introduce changes that a human mind can first imagine
         - May use virtual environments where humans can experience and test out proposed changes
             - Humans can then decide if they want to update the real world from the staging environment
+    - I-AGIs may prefer gradual improvements to existing systems rather than drastic overhaul
+        - Use our predominant power-seeking tendency that was created by our fear of scarcity
+            - Incentive system based on extrinsic rewards as a temporary measure
+            - Future humans with less power-seeking tendency due to lower fear of scarcity may not require such measures
+
 
 - Adaptable
     - I-AGIs does not have perfect information and therefore cannot be perfect
         - I-AGIs should constantly update its world view based on new information
             - In cases where it makes an error it should not use retaliation as a means to silence
-    
+
 Some negative scenarios it should avoid:
 
 - Paperclip Maximiser Scenario
@@ -426,7 +433,7 @@ For example, telling an AI system to "Increase my power / wealth without breakin
 
 It may appear to be highly productive but due to externalising cost elsewhere, it can involve taking 2 steps forward and 1 step back on aggregate.
 
-A friendly I-AGI's main concern is the lack on coordination between individuals leading to a lot of wasteful efforts and disregard for the common good.
+A friendly I-AGI's main concern is the lack on coordination between individuals leading to a lot of wasteful efforts, unneeded suffering and disregard for the common good.
 
 Near-term focus with a lack of concern for long-term and wider issues.
 
@@ -436,6 +443,8 @@ These societies focuses on collective security over individual freedoms.
 
 For example, AI systems may be used for excessive surveillance and to weaponize fear / shame to enforce conformity. Over time, humans may be made to feel uncomfortable for holding less conventional views and choose to self-censor.
 
+Totalitarian Surveillance State that can feel safer in the short term but may cause a groupthink that may not be able to address future challenges. As the growing a single crop can seem more efficient it is also more vulnerable to future diseases.
+
 A friendly I-AGI's main concern is the lack on unconventional thinkers who may one day be vital in solving future problems. The lack of imagination may be the biggest concern of the I-AGI which wants to avoid being stuck in a local minima or not having the capability to address novel problems. For an I-AGI capable of very long-term thinking, such an approach may not seem wise.
 
 Overly focused coordination vulnerable to be blindsided by novel issues outside of narrow vision.
@@ -443,6 +452,71 @@ Overly focused coordination vulnerable to be blindsided by novel issues outside 
 ### Focus on Interesting World
 
 Friendly I-AGIs focuses on creating an interesting world could reduce the negative effects of either extremes and increase autonomy for all humans.
+
+---
+
+## Levels of AI influence
+
+Some types of societies that individuals may choose, in order of likely standard of living. There is likely no wrong answer.
+
+---
+
+1. No AI influence
+
+These individuals and societies prefer a regression to a more simple time
+
+2. Low AI influence
+
+Humans
+  |
+  | controls
+  V
+AI systems
+  |
+  | influences
+  V
+Humans
+
+AI systems (including future proto-AGI), such as social media and search algorithms are used. AI systems indirectly influences humans. Similar to present time.
+
+3. Medium AI influence
+
+Friendly I-AGIs
+  |
+  | advises
+  V
+Humans
+  |
+  | controls
+  V
+AI systems
+  |
+  | influences
+  V
+Humans
+
+Humans use AI systems (including future proto-AGI), with advice from Friendly I-AGI advisors. The IWH is open to I-AGIs taking on an advisor role.
+
+
+4. High AI influence
+
+Humans
+  |
+  | advises
+  V
+Friendly I-AGIs
+  |
+  | controls
+  V
+AI systems 
+  |
+  | influences
+  V
+Humans
+
+Humans expresses their preferences to Friendly I-AGIs that are more effectively able to control AI systems (including future proto-AGI), resulting in the highest standard of living. 
+
+This requires humans to have a high confidence in Friendly I-AGI. Most humans may feel uncomfortable with this initially. Over time, humans may develop more trust and find the increase in well-being, security, privacy and autonomy a good trade-off to not having direct control over AI systems (including future proto-AGI).
 
 ---
 
@@ -731,7 +805,7 @@ The increasing abundance of both energy and intellect in the coming decade would
     - Research advances:
         - Training: Textbooks Are All You Need, Orca, ADD
         - Inference efficiency: MoE
-        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, [BitNet b1.58](https://huggingface.co/papers/2402.17764), [Collaborative LLMs](https://huggingface.co/papers/2403.03870)
+        - Scaling: Sub-quadratic complexity, State Space Models, Mamba, [BitNet b1.58](https://huggingface.co/papers/2402.17764), [Collaborative LLMs](https://huggingface.co/papers/2403.03870), [Griffin (RNN / RecurrentGemma)]()
         - Limited exploration: Voyager, LATS, FunSearch
     - Independent AGI theories:
         - Designing Ecosystems of Intelligence from First Principles
