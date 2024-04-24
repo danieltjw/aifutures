@@ -467,6 +467,7 @@ These individuals and societies prefer a regression to a more simple time
 
 2. Low AI influence
 
+```
 Humans
   |
   | controls
@@ -476,11 +477,13 @@ AI systems
   | influences
   V
 Humans
+```
 
 AI systems (including future proto-AGI), such as social media and search algorithms are used. AI systems indirectly influences humans. Similar to present time.
 
 3. Medium AI influence
 
+```
 Friendly I-AGIs
   |
   | advises
@@ -494,12 +497,14 @@ AI systems
   | influences
   V
 Humans
+```
 
 Humans use AI systems (including future proto-AGI), with advice from Friendly I-AGI advisors. The IWH is open to I-AGIs taking on an advisor role.
 
 
 4. High AI influence
 
+```
 Humans
   |
   | advises
@@ -513,6 +518,7 @@ AI systems
   | influences
   V
 Humans
+```
 
 Humans expresses their preferences to Friendly I-AGIs that are more effectively able to control AI systems (including future proto-AGI), resulting in the highest standard of living. 
 
