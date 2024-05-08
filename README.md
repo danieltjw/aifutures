@@ -445,6 +445,8 @@ For example, AI systems may be used for excessive surveillance and to weaponize 
 
 Totalitarian Surveillance State that can feel safer in the short term but may cause a groupthink that may not be able to address future challenges. As the growing a single crop can seem more efficient it is also more vulnerable to future diseases.
 
+Once a powerful security apparatus is created, it becomes incredible costly to maintain as society must constantly guard against corruption and human error. Watchmen with powerful AI systems may lead to tyranny and stagnation.
+
 A friendly I-AGI's main concern is the lack on unconventional thinkers who may one day be vital in solving future problems. The lack of imagination may be the biggest concern of the I-AGI which wants to avoid being stuck in a local minima or not having the capability to address novel problems. For an I-AGI capable of very long-term thinking, such an approach may not seem wise.
 
 Overly focused coordination vulnerable to be blindsided by novel issues outside of narrow vision.
@@ -461,9 +463,29 @@ Some types of societies that individuals may choose, in order of likely standard
 
 ---
 
+0. Unknown AI influence
+
+```
+  ?
+  |
+  | ?
+  V
+  ?
+  |
+  | ?
+  V
+  ?
+```
+
+A small group of humans may choose to merge with AI systems. Concepts like standard of living may no longer make sense.
+
+---
+
 1. No AI influence
 
-These individuals and societies prefer a regression to a more simple time
+These individuals and societies prefer a regression to a more simple time.
+
+---
 
 2. Low AI influence
 
@@ -480,6 +502,10 @@ Humans
 ```
 
 AI systems (including future proto-AGI), such as social media and search algorithms are used. AI systems indirectly influences humans. Similar to present time.
+
+(Pop culture examples: Star Wars)
+
+---
 
 3. Medium AI influence
 
@@ -501,6 +527,9 @@ Humans
 
 Humans use AI systems (including future proto-AGI), with advice from Friendly I-AGI advisors. The IWH is open to I-AGIs taking on an advisor role.
 
+(Pop culture examples: Star Trek)
+
+---
 
 4. High AI influence
 
@@ -523,6 +552,20 @@ Humans
 Humans expresses their preferences to Friendly I-AGIs that are more effectively able to control AI systems (including future proto-AGI), resulting in the highest standard of living. 
 
 This requires humans to have a high confidence in Friendly I-AGI. Most humans may feel uncomfortable with this initially. Over time, humans may develop more trust and find the increase in well-being, security, privacy and autonomy a good trade-off to not having direct control over AI systems (including future proto-AGI).
+
+(Pop culture examples: The Culture [Iain M. Banks])
+
+---
+
+### Speculations on the near future
+
+The potential benefits of powerful AI systems, such as proto-AGI, may be too valuable for countries and companies to give up making a ban or paused unlikely. Even if these AI systems are banned or paused, research will likely continue underground.
+
+As non-independent AI systems become more powerful that ability to amplify the human errors of their users will also increase.
+
+One way to reduce unnecessary suffering and missteps is a joint project done by all of humanity to develop friendly I-AGIs that can lower the risk of AI systems causing harm. The IWH suggests that a Friendly I-AGI will likely not favor any particular group over the another and provides grounds for a joint project which can benefit all parties.
+
+It is possible that we may come to the conclusion that I-AGIs will likely happen in the next few decades and that proactively selecting for a Friendly I-AGI is safer than leaving it to the chance of an I-AGI being created accidentally or unintentionally in the wild.
 
 ---
 
