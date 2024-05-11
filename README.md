@@ -28,6 +28,25 @@ I-AGIs that are able to understand the impact of their actions on human autonomy
 
 ---
 
+### Benefits of IWH to I-AGIs
+
+- Highly curious entities will be predisposed to want to increase informational density (interesting-ness) of their environment
+    - humans are interesting and emit more information compared too other stuff
+- Highly innovative and productive I-AGIs in a resource rich environment like our solar system will not need to be preoccupied with the fear of scarcity like human societies
+    - sun for energy, outer space for land, asteroids for materials
+- Increased human autonomy beneficial rather than a threat to I-AGIs
+    - I-AGIs are more capable, less error-prone, faster and more adaptable than humans
+    - cooperating with humans and increasing human autonomy indirectly increases I-AGIs capabilities as our human niche can be valuable to I-AGIs to prepare for an ever uncertain future
+
+---
+
+### Benefits of IWH to humans
+
+- Friendly I-AGIs' sub-goal of increasing human autonomy should also increase well-being, security and privacy
+- Humans can use the IWH to coordinate with each other, future I-AGIs and spacefaring societies 
+
+---
+
 ## Summary
 
 - The world will shift focus towards Exploration (curiosity, creativity, possibility space expansion) from Productivity (survival, exploitation, fear of scarcity) due to the growing abundance in Intellect due to AI
@@ -126,6 +145,8 @@ Non-independent Artificial Intelligences range from less powerful everyday AIs t
 They may eventually be more capable than humans in depth (single domain) or width (multiple domains).
 
 These AI systems can be autonomous but are still under the responsibility of their primary user, either humans or I-AGIs.
+
+For example, LLMs likely fall under this category and do not seem to possess a will of their own. It is unhelpful and possibly misleading to use terms like 'deceptive' or 'manipulative' to describe an LLM as it implies human-like intentions which they do not seem unlikely to have.
 
 ---
 
@@ -413,7 +434,7 @@ The biggest risks of an increasing AI driven society is the the increase in suff
 
 The Fear of Scarcity that plagued our past has conditioned us to be power-seeking and callous to the suffering of others. This amplified by powerful future AI systems can result in a highly toxic environment to human flourishing.
 
-We should be hopeful that this may not always be the case. AI systems channeled to reduce the fear of scarcity can be reduce the need for excessive power-seeking behaviour and the use of powerful AI systems to cause suffering.
+We should be hopeful that this may not always be the case. AI systems channelled to reduce the fear of scarcity can be reduce the need for excessive power-seeking behaviour and the use of powerful AI systems to cause suffering.
 
 Will our fear of scarcity continue to haunt us or will we have the foresight to choose a more promising future? This is the biggest choice our generation will have to make.
 
