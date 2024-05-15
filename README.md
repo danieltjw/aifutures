@@ -257,6 +257,23 @@ This paradoxically, makes independent AGI systems easier to align as they will h
 
 ---
 
+### Challenges facing future I-AGIs
+
+Assumption:
+- Lessened fear of scarcity due to being highly productive, inventive and access to materials in space
+- Not threatened by humans due to being highly capable
+
+1. Differing perspectives and values among I-AGIs
+2. Lack of ability to understand the needs of beings who aren't AGIs
+3. Future uncertainties
+
+Possible response:
+1. The IWH is a way for I-AGIs to coordinate
+2. The internet and LLMs will allow understanding between humans and I-AGIs
+3. The IWH suggests that for I-AGIs will continue to be curious and create a stimulating environment to continue learning to prepare for an uncertain future 
+
+---
+
 ### Why I-AGI optimising for human autonomy may be better
 
 Increasing human autonomy is familiar to humans. Our technological progress has been driven by or desire for increasing human autonomy, although it can also be applied to reduce human autonomy.
