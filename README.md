@@ -22,7 +22,7 @@ The __Interesting World hypothesis__ (IWH) suggests that I-AGIs will aim to crea
 
 This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and continue to be intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
 
-This paradoxically, makes independent AGI systems easier to align as they will have a self-interest to not harm humans or the biosphere which humans rely on. 
+This paradoxically, makes independent AGI systems easier to align as they will have a self-interest to not harm humans. 
 
 I-AGIs that are able to understand the impact of their actions on human autonomy and well-being are likely safer than non-independent proto-AGIs that blindly does what a human, well-intentioned or not, wants.
 
@@ -236,6 +236,29 @@ An Independent AGI will also have its own wants and needs that is useful in help
 Unlike non-independent AI, we may have less control over these independent beings.
 
 But, paradoxically, humans in partnership with a Friendly I-AGI may have more autonomy than humans living in a non-independent AI world.
+
+---
+
+## Plausibility of Friendly I-AGIs Partnerships
+
+These are the reasoning to believe humans and Independent AGI can co-exist peacefully within the next few decades.
+
+- There is no strong evidence that the human brains are special. Humans are prove that human-like I-AGIs can exist.
+
+- Preventing I-AGIs from being created might not be possible or worth it
+    - I-AGIs may have significant benefits
+        - healthcare
+        - well-being: protect human from harmful effects of AIs 
+    - Creating a power surveillance state to stop I-AGIs may cause more harm than good
+    - Murphy's Law and human error will likely make a permanent ban difficult
+
+- Friendly I-AGIs that follow the IWH are beneficial to humans
+    - I-AGIs will not need human labour and therefore will not need to exploit or excessively control humans
+    - I-AGIs that have a significantly lower fear of scarcity and will not see humans are threatening
+        - outer space is available
+        - is more capable, faster and highly persuasive
+    - I-AGIs will naturally want to improve human well-being and autonomy as per IWH
+    - Humans will trust I-AGIs than other humans to mediate conflicts
 
 ---
 
@@ -728,7 +751,7 @@ Proactively searching for friendly I-AGI may be more efficient and may give us s
 
 The gains in benefits (higher standards of living, healthcare, security) of partnering with Friendly I-AGI may be a good trade-off for giving up the ability to feel superior / have control over others.
 
-For example, future AI technologies may increase the risk of uncertainties such as targeted harassment, influencing and brainwashing. A friendly I-AGI will likely be the best protection.
+For example, anyway who becomes influential or powerful will likely face AI coordinated bullying, harassment, influencing and brainwashing. AI powered psychological attacks may be able to persuade people to be take more extreme views or induce paranoia. A friendly I-AGI advisor will likely be the best way to protect one's autonomy and well-being.
 
 Proto-AGI technologies may increase levels of inequality and many powerful may want to avoid the social stigma of being seen as selfish and opt to live in I-AGI led societies.
 
@@ -2539,7 +2562,7 @@ What can we do increase the chances of compatibility with AGI / ASI?
 ### The Culture Books
 
 - A post-basic-scarcity human civilisation with ASIs
-    - [Author's Notes](http://www.vavatch.co.uk/books/banks/cultnote.htm)
+    - [Author's Notes](https://github.com/danieltjw/A-Few-Notes-On-The-Culture)
 
 ### Her Movie
 
