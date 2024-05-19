@@ -16,9 +16,28 @@ _Rough sketches of our possible AI futures_
 
 ---
 
-## Interesting World hypothesis
+## Outline
 
-The __Interesting World hypothesis__ (IWH) suggests that I-AGIs will aim to create a richer world where humans have more autonomy as doing so creates a more stimulating environment for itself.
+Questions to be considered:
+
+1. How likely are we to encounter Independent AGIs (I-AGI) in the next few decades?
+    - Can we able to prevent I-AGIs from being created?
+2. Is Friendly I-AGIs possible?
+3. How can we assess if I-AGIs are Friendly?
+4. Would it be advantageous to cooperate with Friendly I-AGIs?
+    - Why would Friendly I-AGIs want to cooperate with us?
+5. How might Friendly I-AGIs influence our social, economic and individual values?
+
+Main Concepts:
+- Interesting World Hypothesis
+- Fear of scarcity
+- Possibility space
+
+---
+
+## Interesting World Hypothesis
+
+The __Interesting World Hypothesis__ (IWH) suggests that I-AGIs will aim to create a richer world where humans have more autonomy as doing so creates a more stimulating environment for itself.
 
 This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and continue to be intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
 
@@ -2562,7 +2581,7 @@ What can we do increase the chances of compatibility with AGI / ASI?
 ### The Culture Books
 
 - A post-basic-scarcity human civilisation with ASIs
-    - [Author's Notes](https://github.com/danieltjw/A-Few-Notes-On-The-Culture)
+    - [A Few Notes On The Culture by Iain M. Banks](https://github.com/danieltjw/A-Few-Notes-On-The-Culture)
 
 ### Her Movie
 
