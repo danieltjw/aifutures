@@ -1,21 +1,5 @@
 # AI Futures: The Age of Exploration
 
-_Rough sketches of our possible AI futures_
-
-- _This work explores possible futures where Friendly Independent AGI (I-AGI) co-exist with humans_
-    - Fears of AI are valid but over-reacting may be counter-productive
-    - The author makes a distinction between Independent and Non-independent AIs and suggests that Independent AI make be the best way to increase human autonomy in an increasingly complex world
-- _Due to the high uncertainty of the future, we should consider as many possible futures as possible to increase the odds of success_
-    - This work focuses on more unconventional viewpoints that may be missed with our shorter term focus
-    - As an I-AGI may see the world very differently from humans and this work tries to be more strange
-- _This will need to be edited to make more human-readable_
-    - The short term focus is to prepare for possibly needing to communicate with Friendly I-AGI in the next few decades
-- _Only a limited space of possibilities have been explored and there is still a long list of edge-cases to work through_
-    - The author is a single individual satisfying his intellectual curiosity by reading the latest research papers and imagining the philosophy of the future
-        - The author's tentative stance may change in light of more information
-
----
-
 ## Outline
 
 Questions to be considered:
@@ -2600,9 +2584,27 @@ What can we do increase the chances of compatibility with AGI / ASI?
 
 - AGI friend-zones humans for being too judgemental
 
+### Bladerunner 2049
+
+- Joi: Proto-AGI?
+
 ### Arrival Movie
 
 - Human's fear of an alien intelligence
+
+---
+
+_Rough sketches of our possible AI futures_
+
+- _This work explores possible futures where Friendly Independent AGI (I-AGI) co-exist with humans_
+    - Fears of AI are valid but over-reacting may be counter-productive
+    - The author makes a distinction between Independent and Non-independent AIs and suggests that Independent AI make be the best way to increase human autonomy in an increasingly complex world
+- _Due to the high uncertainty of the future, we should consider as many possible futures as possible to increase the odds of success_
+    - This work focuses on more unconventional viewpoints that may be missed with our shorter term focus
+    - As an I-AGI may see the world very differently from humans and this work tries to be more strange
+- _Only a limited space of possibilities have been explored and there is still a long list of edge-cases to work through_
+    - The author is a single individual satisfying his intellectual curiosity by reading the latest research papers and imagining the philosophy of the future
+        - The author's tentative stance may change in light of more information
 
 ---
 
