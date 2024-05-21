@@ -21,7 +21,6 @@ _Rough sketches of our possible AI futures_
 Questions to be considered:
 
 1. How likely are we to encounter Independent AGIs (I-AGI) in the next few decades?
-    - Can we able to prevent I-AGIs from being created?
 2. Is Friendly I-AGIs possible?
 3. How can we assess if I-AGIs are Friendly?
 4. Would it be advantageous to cooperate with Friendly I-AGIs?
@@ -29,9 +28,21 @@ Questions to be considered:
 5. How might Friendly I-AGIs influence our social, economic and individual values?
 
 Main Concepts:
-- Interesting World Hypothesis
+- [Interesting World Hypothesis](https://github.com/danieltjw/aifutures#Interesting-World-Hypothesis)
 - Fear of scarcity
 - Possibility space
+- [Levels of AI influence](https://github.com/danieltjw/aifutures#Levels-of-AI-influence)
+- [Definitions](https://github.com/danieltjw/aifutures#Definitions) 
+
+---
+
+## Introduction
+
+The increase in capabilities of AI systems in the past few years has led to both excitement and fears. Models that can generate convincing text, visual and audio are new possible on consumer grade machines, showcasing the surprizing effectiveness of our current learning algorithms. It seems the estimate by optimistic experts of a 50% chance of AGI before 2030 is now quite plausive depending on your definition of AGI. This was also predicted by the father of computer science and artificial intelligence Alan Turing.
+
+The author likewise agrees that as there are no strong evidence that the human brain is special beyond the physical realm, it is highly plausible that human-like AGI may arrive in the next few decades. Current generative models may be an important part of future AGI, but seems to lack the vital element of independent curiosity which the author considers a requirement for Independent AGI.
+
+This essay focuses more on the positive perspective of how Friendly AGIs have a shared interest with humans, in contrast with the more prevalent dread some may, rightfully, feel with impending AI systems. The author makes a distinction between (1) AI systems (including non-independent AGI), and (2) Independent AGIs, suggesting that both of these should be approached in very different ways. Lastly, the author makes predictions on how the level of AI influence we choose to have can effect our social, economic and individual values.
 
 ---
 
