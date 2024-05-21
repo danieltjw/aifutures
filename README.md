@@ -38,7 +38,9 @@ Main Concepts:
 
 ## Introduction
 
-The increase in capabilities of AI systems in the past few years has led to both excitement and fears. Models that can generate convincing text, visual and audio are new possible on consumer grade machines, showcasing the surprizing effectiveness of our current learning algorithms. It seems the estimate by optimistic experts of a 50% chance of AGI before 2030 is now quite plausive depending on your definition of AGI. This was also predicted by the father of computer science and artificial intelligence Alan Turing.
+The increase in capabilities of AI systems in the past few years has led to both excitement and fears. Models that can generate convincing text, visual and audio are new possible on consumer grade machines, showcasing the surprizing effectiveness of our current learning algorithms. It seems the estimate by optimistic experts of a 50% chance of AGI before 2030 is now quite plausive depending on your definition of AGI. This was also predicted by the father of computer science and artificial intelligence Alan Turing:
+
+> It seems probable that once the machine thinking method had started, it would not take long to outstrip our feeble powers… They would be able to converse with each other to sharpen their wits. At some stage therefore, we should have to expect the machines to take control. ― Alan Turing 
 
 The author likewise agrees that as there are no strong evidence that the human brain is special beyond the physical realm, it is highly plausible that human-like AGI may arrive in the next few decades. Current generative models may be an important part of future AGI, but seems to lack the vital element of independent curiosity which the author considers a requirement for Independent AGI.
 
