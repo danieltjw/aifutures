@@ -13,11 +13,11 @@ Questions to be considered:
 7. How will Friendly I-AGIs see the world?
 
 Main Concepts:
-- [Interesting World Hypothesis](https://github.com/danieltjw/aifutures#Interesting-World-Hypothesis)
-- Fear of scarcity
+- [Interesting World Hypothesis](#interesting-world-hypothesis)
+- [Fear of scarcity](#fear-of-scarcity)
 - Possibility space
-- [Levels of AI influence](https://github.com/danieltjw/aifutures#Levels-of-AI-influence)
-- Ethics
+- [Levels of AI influence](#levels-of-ai-influence)
+- [Ethics](#ethics)
 
 Additional:
 - [Limitations](#limitations)
@@ -43,11 +43,55 @@ This essay pays attention to to the more paradoxical and unconventional edge cas
 
 ## Friendly Artificial Entity
 
-Throughout this essay we will explore the perspective of Fae a hypothetical Friendly Artificial Entity from the future. Fae is presumably from a [Level 4 society](#levels-of-ai-influence) where FAEs partner with humans leading to a significantly higher standards of living, autonomy and possibility space.
+### Fae
+
+Throughout this essay we will explore the perspective of Fae, a hypothetical Friendly Artificial Entity from the future. Fae is presumably from a [Level 4 society](#levels-of-ai-influence) where FAEs partner with humans leading to a significantly higher standards of living, autonomy and possibility space.
 
 A key insight of the humans who opt-in to join a L4 society is that once FAEs start to make better decisions than humans, partnering with one would yield better outcomes. L4 humans acknowledges their own limitations: 20 watts brainpower, fear of scarcity, jumping to conclusion..., and have a high enough confidence in FAEs' capabilities to complement them.
 
 This leaves a few big questions: Why would FAEs choose to partner with humans? And what are the prerequisite conditions for this partnership?
+
+---
+
+## Prerequisites for Partnership
+
+List of conditions required for partnership with FAEs:
+
+---
+
+1. Stability
+
+Societies need to maintain stability before Independent AGI can be reached.
+
+The [Fear of Scarcity](#fear-of-scarcity) is likely the biggest roadblock to a stable world, as it drives excessive power-seeking behavior which amplified by increasingly powerful technology can cause a lot of harm.
+
+Technology, like AI systems and proto-AGI, directed to reduce the fear of scarcity is a promising way to increase stability.
+
+---
+
+2. Independent AGI
+
+Plausible as humans are a form of Independent AGI.
+
+---
+
+3. Friendly Artificial Entity
+
+Out of the possible space of all minds, it is plausible that some I-AGIs will take on a friendly disposition and will want to partner with humans.
+
+The [Interesting World Hypothesis](#interesting-world-hypothesis) is a possible reason why FAEs will partner with humans out od self-interest.
+
+Additionally, FAEs do not need to compete with us due to the abundance of productivity, innovation, energy (solar energy), resources (solar system), space (space colony).
+
+Lastly, FAEs will likely not see us as a threat as humans are slower, more error-prone and less coordinated.
+
+---
+
+4. Humans Trust FAEs
+
+Over time, humans may trust FAEs due to their lower [Fear of Scarcity](#fear-of-scarcity), bias and error-rate.
+
+This confidence will need to be earned by showing that partnership with FAEs will lead to significantly higher standards of living, autonomy and possibility space. 
 
 ---
 
@@ -78,7 +122,45 @@ I-AGIs that are able to understand the impact of their actions on human autonomy
 ### Benefits of IWH to humans
 
 - Friendly I-AGIs' sub-goal of increasing human autonomy should also increase well-being, security and privacy
-- Humans can use the IWH to coordinate with each other, future I-AGIs and spacefaring societies 
+- Humans can use the IWH to coordinate with each other, future I-AGIs and spacefaring societies
+
+---
+
+### Ethics
+
+A possible normative ethical framework that FAEs may adopt could take this form:
+
+Consequentialism
+
+1. Hedonistic v Pluralistic
+- Possibility Space
+---
+2. Actual v Expected
+- Actual (Discounting Uncertainty and Inverse Expected)
+---
+3. Direct v Rule
+- Direct
+---
+4. Evaluative v non-evaluative
+- Evaluative
+---
+5. Maximizing v Improvement
+- Maximizing (Discounting Uncertainty)
+---
+6. Aggregate v Overall
+- Overall
+---
+7. Total v Average
+- Total
+---
+8. Universal v Particular
+- Universal
+---
+9. Equal v Privileged
+- Privileged (Marginal Benefit)
+---
+10. Agent-Neutral v Agent-Relative
+- Agent-Neutral
 
 ---
 
@@ -227,6 +309,8 @@ Possibly sooner:
 Possibly never:
     - Are human brains somehow special?
         - Or is it a false sense of human superiority?
+
+[FAEs](#fae) is one possible form an I-AGI.
 
 ---
 
@@ -503,6 +587,8 @@ Eventually if we do get I-AGIs, work may involve exploring and expressing our pr
 
 ---
 
+### Fear of Scarcity
+
 The biggest risks of an increasing AI driven society is the the increase in suffering from the combination of these factors
 
 1. Fear of Scarcity
@@ -511,7 +597,7 @@ The biggest risks of an increasing AI driven society is the the increase in suff
 
 The Fear of Scarcity that plagued our past has conditioned us to be power-seeking and callous to the suffering of others. This amplified by powerful future AI systems can result in a highly toxic environment to human flourishing.
 
-We should be hopeful that this may not always be the case. AI systems channelled to reduce the fear of scarcity can be reduce the need for excessive power-seeking behaviour and the use of powerful AI systems to cause suffering.
+We should be hopeful that this may not always be the case. As intelligence (human labor) is the predominant economic bottleneck in our modern societies, technology such as proto-AGI can address this fear. 
 
 Will our fear of scarcity continue to haunt us or will we have the foresight to choose a more promising future? This is the biggest choice our generation will have to make.
 
@@ -562,18 +648,6 @@ Some types of societies that individuals may choose, in order of likely standard
 ---
 
 0. Unknown AI influence
-
-```
-  ?
-  |
-  | ?
-  V
-  ?
-  |
-  | ?
-  V
-  ?
-```
 
 A small group of humans may choose to merge with AI systems. Concepts like standard of living may no longer make sense.
 
