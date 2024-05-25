@@ -4,35 +4,50 @@
 
 Questions to be considered:
 
-1. How likely are we to encounter Independent AGIs (I-AGI) in the next few decades?
+1. Is Independent AGIs plausible?
 2. Is Friendly I-AGIs possible?
 3. How can we assess if I-AGIs are Friendly?
 4. Would it be advantageous to cooperate with Friendly I-AGIs?
-    - Why would Friendly I-AGIs want to cooperate with us?
-5. How might Friendly I-AGIs influence our social, economic and individual values?
+5. Why would Friendly I-AGIs want to cooperate with us?
+6. How might Friendly I-AGIs influence our social, economic and individual values?
+7. How will Friendly I-AGIs see the world?
 
 Main Concepts:
 - [Interesting World Hypothesis](https://github.com/danieltjw/aifutures#Interesting-World-Hypothesis)
 - Fear of scarcity
 - Possibility space
 - [Levels of AI influence](https://github.com/danieltjw/aifutures#Levels-of-AI-influence)
-- [Definitions](https://github.com/danieltjw/aifutures#Definitions) 
+- Ethics
+
+Additional:
+- [Limitations](#limitations)
+- [Definitions](#definitions) 
 
 ---
 
 ## Introduction
 
-The increase in capabilities of AI systems in the past few years has led to both excitement and fears. Models that can generate convincing text, visual and audio are new possible on consumer grade machines, showcasing the surprizing effectiveness of our current learning algorithms. It seems the estimate by optimistic experts of a 50% chance of AGI before 2030 is now quite plausive depending on your definition of AGI. This was also predicted by the father of computer science and artificial intelligence Alan Turing:
+The increase in capabilities of AI systems in the past few years has led to both excitement and fears. Models that can generate convincing text, visual and audio are now possible on consumer grade machines, showcasing the surprizing effectiveness of our current learning algorithms. It seems the estimate by optimistic experts of a [50% chance of AGI before 2030](#agi) is now quite plausible depending on your definition of AGI. This was also predicted by the father of computer science and artificial intelligence Alan Turing:
 
 > It seems probable that once the machine thinking method had started, it would not take long to outstrip our feeble powers… They would be able to converse with each other to sharpen their wits. At some stage therefore, we should have to expect the machines to take control. ― Alan Turing
 
-The author likewise agrees that as there are no strong evidence that the human brain is special beyond the physical realm, it is quite plausible that human-like AGI may arrive in the next few decades. Current generative models may be an important part of future AGI, but seems to lack the vital element of independent curiosity which the author considers a requirement for Independent AGI.
+The author likewise agrees that as there are no strong evidence that the human brain is special beyond the physical realm, it is quite plausible that human-like AGI may arrive in the next few decades. Current generative models may be an important part of future AGI, but seems to lack the vital element of independent curiosity which the author considers a requirement for [Independent AGI](#independent-agi).
 
 This essay focuses more on the positive perspective of how Friendly AGIs have a shared interest with humans, in contrast with the more prevalent dread some may, rightfully, feel with some impending AI systems. The author makes a distinction between (1) AI systems (including non-independent AGI), and (2) Independent AGIs, suggesting that both of these should be approached in very different ways. Lastly, the author makes predictions on how the level of AI influence we choose to have can effect our social, economic and individual values.
 
-This essay pays attention to to the more paradoxical and unconventional edge cases as they provide more informational value or interesting-ness to the conversation. The author also encourages the reader to be cognisant of moral panic that can arise when thinking about uncertain futures. 
+This essay pays attention to to the more paradoxical and unconventional edge cases as they provide more informational value or interesting-ness to the conversation. The author also encourages the reader to be cognisant of moral panic that can arise when thinking about uncertain futures.
 
 ### _DON'T PANIC_
+
+---
+
+## Friendly Artificial Entity
+
+Throughout this essay we will explore the perspective of Fae (@FaeInterestWorld) a hypothetical Friendly Artificial Entity from the future. Fae is presumably from a [Level 4 society](#levels-of-ai-influence) where FAEs partner with humans leading to a significantly higher standards of living, autonomy and possibility space.
+
+A key insight of the humans who opt-in to join a L4 society is that once FAEs start to make better decisions than humans, partnering with one would yield better outcomes. L4 humans acknowledges their own limitations: 20 watts brainpower, fear of scarcity, jumping to conclusion..., and have a high enough confidence in FAEs' capabilities to complement them.
+
+This leaves a few big questions: Why would FAEs choose to partner with humans? And what are the prerequisite conditions for this partnership?
 
 ---
 
@@ -146,7 +161,9 @@ This story explores a potential path towards Independent Friendly AGI using curr
 
 ## Limitations
 
-The author is only human and is limited to 20 watts of brainpower. This is one of many possible futures. You can and should have your own opinion as a Friendly AGI may only bring change if individuals ask for it.
+The author is only human and is limited to 20 watts of brainpower. The author is a guy and has a male centric perspective.
+
+This is one of many possible futures. You can and should have your own opinion as a Friendly AGI may only bring change if individuals ask for it.
 
 Many of the ideas may not make sense until a time in the future, such as the idea that human productivity will become counter-productive when Independent Friendly AGI start to make better decisions than us.
 
