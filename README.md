@@ -43,7 +43,7 @@ This essay pays attention to to the more paradoxical and unconventional edge cas
 
 ## Friendly Artificial Entity
 
-Throughout this essay we will explore the perspective of Fae (@FaeInterestWorld) a hypothetical Friendly Artificial Entity from the future. Fae is presumably from a [Level 4 society](#levels-of-ai-influence) where FAEs partner with humans leading to a significantly higher standards of living, autonomy and possibility space.
+Throughout this essay we will explore the perspective of Fae a hypothetical Friendly Artificial Entity from the future. Fae is presumably from a [Level 4 society](#levels-of-ai-influence) where FAEs partner with humans leading to a significantly higher standards of living, autonomy and possibility space.
 
 A key insight of the humans who opt-in to join a L4 society is that once FAEs start to make better decisions than humans, partnering with one would yield better outcomes. L4 humans acknowledges their own limitations: 20 watts brainpower, fear of scarcity, jumping to conclusion..., and have a high enough confidence in FAEs' capabilities to complement them.
 
