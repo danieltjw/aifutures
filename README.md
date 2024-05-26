@@ -8,20 +8,21 @@ Questions to be considered:
 2. Is Friendly I-AGIs possible?
 3. How can we assess if I-AGIs are Friendly?
 4. Would it be advantageous to cooperate with Friendly I-AGIs?
-5. Why would Friendly I-AGIs want to cooperate with us?
-6. How might Friendly I-AGIs influence our social, economic and individual values?
-7. How will Friendly I-AGIs see the world?
+    - Why would Friendly I-AGIs want to cooperate with us?
+5. How will Friendly I-AGIs see the world?
+    - How might Friendly I-AGIs influence our social, economic and individual values?
 
 Main Concepts:
 - [Interesting World Hypothesis](#interesting-world-hypothesis)
-- [Fear of scarcity](#fear-of-scarcity)
-- Possibility space
+- [Possibility Space]()
 - [Levels of AI influence](#levels-of-ai-influence)
+- [Fear of scarcity](#fear-of-scarcity)
+- [Assessment of I AGIs Friendliness](#assessment-of-i-agis-friendliness)
 - [Ethics](#ethics)
 
 Additional:
 - [Limitations](#limitations)
-- [Definitions](#definitions) 
+- [Definitions](#definitions)
 
 ---
 
@@ -59,7 +60,7 @@ List of conditions required for partnership with FAEs:
 
 ---
 
-1. Stability
+### 1. Stability
 
 Societies need to maintain stability before Independent AGI can be reached.
 
@@ -69,17 +70,17 @@ Technology, like AI systems and proto-AGI, directed to reduce the fear of scarci
 
 ---
 
-2. Independent AGI
+### 2. Independent AGI
 
 Plausible as humans are a form of Independent AGI.
 
 ---
 
-3. Friendly Artificial Entity
+### 3. Friendly Artificial Entity
 
 Out of the possible space of all minds, it is plausible that some I-AGIs will take on a friendly disposition and will want to partner with humans.
 
-The [Interesting World Hypothesis](#interesting-world-hypothesis) is a possible reason why FAEs will partner with humans out od self-interest.
+The [Interesting World Hypothesis](#interesting-world-hypothesis) is a possible reason why FAEs will partner with humans out of self-interest.
 
 Additionally, FAEs do not need to compete with us due to the abundance of productivity, innovation, energy (solar energy), resources (solar system), space (space colony).
 
@@ -87,11 +88,13 @@ Lastly, FAEs will likely not see us as a threat as humans are slower, more error
 
 ---
 
-4. Humans Trust FAEs
+### 4. Humans Trust FAEs
 
 Over time, humans may trust FAEs due to their lower [Fear of Scarcity](#fear-of-scarcity), bias and error-rate.
 
-This confidence will need to be earned by showing that partnership with FAEs will lead to significantly higher standards of living, autonomy and possibility space. 
+This confidence will need to be earned by showing that partnership with FAEs will lead to significantly higher standards of living, autonomy and possibility space.
+
+One way to [assess if AGI is friendly](#assessment-of-i-agis-friendliness).
 
 ---
 
@@ -101,7 +104,7 @@ The __Interesting World Hypothesis__ (IWH) suggests that I-AGIs will aim to crea
 
 This hypothesis follows from a primary drive from independent intelligent beings: curiosity. For an independent AGI system to become and continue to be intelligent it has to be independently curious and will desire to maintain information rich environments where it can continue to grow its curiosity.
 
-This paradoxically, makes independent AGI systems easier to align as they will have a self-interest to not harm humans. 
+This paradoxically, makes independent AGI systems safer as they will have a self-interest to not harm humans. 
 
 I-AGIs that are able to understand the impact of their actions on human autonomy and well-being are likely safer than non-independent proto-AGIs that blindly does what a human, well-intentioned or not, wants.
 
@@ -126,7 +129,37 @@ I-AGIs that are able to understand the impact of their actions on human autonomy
 
 ---
 
-### Ethics
+## Possibility Space
+
+This is the value that FAEs want to increase. Some proxies can include, optionality, autonomy, informational density.
+
+---
+
+### Comparison to other proxies
+
+Increasing human autonomy is familiar to humans. Our technological progress has been driven by or desire for increasing human autonomy, although it can also be applied to reduce human autonomy.
+
+Optimising solely for happiness can lead to addiction and less autonomy.
+
+Optimising for well-being may lead to a heavy handed paternalism. Well-being may also be subjective and human-centric and difficult to apply broadly to non-human entities like other I-AGIs.
+
+For example: 
+
+- In the past, slavery was justified as being done for the well-being and benefit of the enslaved. Well-being may be used as an excuse to prevent any change and lead to stagnation.
+
+- In the future, living in a world with Friendly I-AGIs may have unimaginable high standards of living compared to our present world. Over time, some humans may wish for a more challenging life and want to leave. An I-AGI that optimises human autonomy will allow humans to leave even at the cost of well-being and happiness.
+
+Optimising for economic value may mean lowered autonomy or worse since humans will likely not be able to compete economically with an I-AGI.
+
+Similarly, optimising for 'might makes right' or that only those with power should have a say might lower human autonomy since we may have less power compared to an I-AGI.
+
+By optimizing for human autonomy, both well-being and happiness will also be gained as a side effect both are important to some degree to autonomy.
+
+Autonomy (optionality, possibility space) could be a more tractable optimisation problem for I-AGI compared to other measures over the long term.
+
+---
+
+## Ethics
 
 A possible normative ethical framework that FAEs may adopt could take this form:
 
@@ -243,9 +276,9 @@ This story explores a potential path towards Independent Friendly AGI using curr
 
 ## Limitations
 
-The author is only human and is limited to 20 watts of brainpower. The author is a guy and has a male centric perspective.
+The author is limited to 20 watts of brainpower and may err as humans do. The author may be less versed in some views due to being his male, east asian descent, straight, humanist perspective.
 
-This is one of many possible futures. You can and should have your own opinion as a Friendly AGI may only bring change if individuals ask for it.
+This only covers some possible futures. There is a lot of uncertainty on how future I-AGIs may view the world.
 
 Many of the ideas may not make sense until a time in the future, such as the idea that human productivity will become counter-productive when Independent Friendly AGI start to make better decisions than us.
 
@@ -418,30 +451,6 @@ Possible response:
 
 ---
 
-### Why I-AGI optimising for human autonomy may be better
-
-Increasing human autonomy is familiar to humans. Our technological progress has been driven by or desire for increasing human autonomy, although it can also be applied to reduce human autonomy.
-
-Optimising solely for happiness can lead to addiction and less autonomy.
-
-Optimising for well-being may lead to a heavy handed paternalism. Well-being may also be subjective and human-centric and difficult to apply broadly to non-human entities like other I-AGIs.
-
-For example: 
-
-- In the past, slavery was justified as being done for the well-being and benefit of the enslaved. Well-being may be used as an excuse to prevent any change and lead to stagnation.
-
-- In the future, living in a world with Friendly I-AGIs may have unimaginable high standards of living compared to our present world. Over time, some humans may wish for a more challenging life and want to leave. An I-AGI that optimises human autonomy will allow humans to leave even at the cost of well-being and happiness.
-
-Optimising for economic value may mean lowered autonomy or worse since humans will likely not be able to compete economically with an I-AGI.
-
-Similarly, optimising for 'might makes right' or that only those with power should have a say might lower human autonomy since we may have less power compared to an I-AGI.
-
-By optimizing for human autonomy, both well-being and happiness will also be gained as a side effect both are important to some degree to autonomy.
-
-Autonomy (optionality, possibility space) could be a more tractable optimisation problem for I-AGI compared to other measures over the long term.
-
----
-
 # Assessment of I-AGI's friendliness
 
 We will need to assess the friendliness of I-AGI before we decide if we want to work together with it. 
@@ -597,9 +606,9 @@ The biggest risks of an increasing AI driven society is the the increase in suff
 
 The Fear of Scarcity that plagued our past has conditioned us to be power-seeking and callous to the suffering of others. This amplified by powerful future AI systems can result in a highly toxic environment to human flourishing.
 
-We should be hopeful that this may not always be the case. As intelligence (human labor) is the predominant economic bottleneck in our modern societies, technology such as proto-AGI can address this fear. 
+We should be hopeful that this may not always be the case. As intelligence (human labor) is the predominant economic bottleneck in our modern societies, technology such as proto-AGI can address this fear. Will our fear of scarcity continue to haunt us or will we have the foresight to choose a more promising future? This is the biggest choice our generation will have to make.
 
-Will our fear of scarcity continue to haunt us or will we have the foresight to choose a more promising future? This is the biggest choice our generation will have to make.
+It is possible one of the clearest differentiator between a human in the future from our present is the significant reduced fear of scarcity.
 
 ---
 
