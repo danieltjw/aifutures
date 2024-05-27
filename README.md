@@ -14,11 +14,12 @@ Questions to be considered:
 
 Main Concepts:
 - [Interesting World Hypothesis](#interesting-world-hypothesis)
-- [Possibility Space]()
+- [Possibility Space](#possibility-space)
 - [Levels of AI influence](#levels-of-ai-influence)
 - [Fear of scarcity](#fear-of-scarcity)
 - [Assessment of I AGIs Friendliness](#assessment-of-i-agis-friendliness)
 - [Ethics](#ethics)
+- [Interesting World Economic System](#interesting-world-economic-system)
 
 Additional:
 - [Limitations](#limitations)
@@ -194,6 +195,28 @@ Consequentialism
 ---
 10. Agent-Neutral v Agent-Relative
 - Agent-Neutral
+
+---
+
+### Interesting World Economic System
+
+Also know as the Interesting World Compensation System, Interesting World Justice System or Interesting World Incentive System.
+
+The FAEs managed Interesting World Economic System such as those in future [L4 societies](#levels-of-ai-influence) may be very be very strange compared to our present.
+
+As FAEs are vastly more economically productive (faster, better decision making, more persuasive, innovative) compared to humans, FAEs will eventually control most of the wealth. Yet FAEs, according to the IWH, will not leave humans destitute but instead increase humans standards of living significantly.
+
+FAEs may invent a novel Economic System that encourages humans to take actions that increase the overall possibility space. This may be tied into a holistic economic, justice and compensation system.
+
+This may look very similar to Mill's Harm Principle, which is highly permissive and encourages a high possibility space. For example, if you take actions that lead to a reduction to autonomy of another being, your request for luxuries in the future may take more time due to having to compensate those harmed. Conversely, this provides an incentive for humans to act cooperatively with each other.
+
+Future [L4 societies](#levels-of-ai-influence) may be more interesting due to this system as humans are encouraged to be unique and different. For example, Alan Turing might not have been bullied or harassed by society under such a system and we might now be living in a more abundant and prosperous world with his continued contributions.
+
+It may also be more fair as FAEs will view each individual human similarly regardless of background. It is ironic that only by becoming 'economically valueless' does humans life become equally worthy.
+
+More conservative societies will also have the autonomy to consensually agree to reduce their own freedoms for traditionally reasons but are strongly discouraged from actively reducing the autonomy of others outside.
+
+One point of note is that, this incentive system only applies to highly desirable luxuries that only FAEs can uniquely produce. A high basic standard of living, high by present day's standard, is provided to all beings. This ensures that humans will not have to live perfectly and in constant paralysis of wondering if their actions may have unintentionally caused harm to others.
 
 ---
 
