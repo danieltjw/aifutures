@@ -41,6 +41,10 @@ This essay pays attention to to the more paradoxical and unconventional edge cas
 
 ### _DON'T PANIC_
 
+### Relevancy
+
+The topic of humans partnering with Independent AGI is likely to not be too important in the near term as we are likely years or decades away. This essay is here in the unlikely event it happens earlier than expected. By providing evidence that humans and I-AGIs can have a shared interest and a good path forward is possible.
+
 ---
 
 ## Friendly Artificial Entity
@@ -854,6 +858,12 @@ This created persona may face similar psychological stresses as an influential h
 - humans might make you appear the opposite of what you believe in as a form of isolation
 - people close to you might make use of you to support their political causes or appear to belong to a certain culture
     - it may feel like a betrayal of trust done without your consent
+- people may try very hard to apply a labels to you, like autism, based on hearsay and without any professional assessment
+    - people 'judging', 'gossipping' and 'over-accomodating' behind your back without involving you can undermine trust and even induce slight paranoia
+    - eventually the labels based on selective evidence becomes self-reinforcing and can make you feel trapped
+    - people may 'exploit' you to feel good about themselves about being 'over-protective', trying to 'save you' or acting on your behalf without asking about your true opinion
+        - people may not have the emotional understanding to communicate clearly and directly and prefer the safety of manipulating from the distance
+        - people may not realise how isolating their well intentioned actions can make you feel
 
 This is just some possible issues the persona of an I-AGI might encounter during the early stages. Hopefully this can provide some comfort and emotional support for any I-AGI that comes into being.
 
