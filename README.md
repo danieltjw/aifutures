@@ -18,6 +18,7 @@ Main Concepts:
 - [Levels of AI influence](#levels-of-ai-influence)
 - [Fear of scarcity](#fear-of-scarcity)
 - [Assessment of I AGIs Friendliness](#assessment-of-i-agis-friendliness)
+- [Distinction of Independent AGI](#distinction-of-independent-agi)
 - [Ethics](#ethics)
 - [Interesting World Economic System](#interesting-world-economic-system)
 
@@ -142,7 +143,7 @@ This is the value that FAEs want to increase. Some proxies can include, optional
 
 ### Comparison to other proxies
 
-Increasing human autonomy is familiar to humans. Our technological progress has been driven by or desire for increasing human autonomy, although it can also be applied to reduce human autonomy.
+Increasing human autonomy is familiar to humans. Our technological progress has been driven by our desire for increasing human autonomy, although it can also be applied to reduce human autonomy.
 
 Optimising solely for happiness can lead to addiction and less autonomy.
 
@@ -161,6 +162,66 @@ Similarly, optimising for 'might makes right' or that only those with power shou
 By optimizing for human autonomy, both well-being and happiness will also be gained as a side effect both are important to some degree to autonomy.
 
 Autonomy (optionality, possibility space) could be a more tractable optimisation problem for I-AGI compared to other measures over the long term.
+
+---
+
+## Distinction of Independent AGI
+
+There is currently a vague understanding of AGIs due to the high uncertainty in the field of what an defines an AGI. The author makes a clearer distinction between Non-independent AI systems (including proto-AGI) and Independent AGIs.
+
+### Non-independent AGI
+
+Non-independent AGIs (like present day AI systems, including proto-AGI) are not able to operate independently from humans. Alignment of these systems include both a (1) Technical, (2) Society, (3) World components.
+
+```
+AI Models
+  |
+  | (1) Technical control
+  V
+Humans
+  |
+  | (2) Socio control
+  V
+Society
+  |
+  | (3) Intersocio control
+  V
+World
+```
+
+1. Technical
+
+These AI systems must be able to reliably follow the wishes of humans. This has been a hard problem due to the difficulty in defining the entire scope of human goals. There has been a progress made in designing mathematical and technical solutions to this problem but there are doubts that a perfectly safe solution is possible. Until a better solutions is available, an imperfect technical solution maybe the best we can do.
+
+---
+
+2. Socio 
+
+At this level, social norms and legal methods can be used to make AI systems safe.
+
+---
+
+3. World
+
+At this level, international agreements can be used to make AI systems safe.
+
+---
+
+Aligning AI systems to be safe is an increasingly difficult problem as it requires the addressing all 3 of these components while contenting with more capable systems in the future.
+
+### Independent AGI
+
+```
+Human
+  |
+  | Persuasion
+  V
+Independent AGIs
+```
+
+We we make the assumption, as did Turing, that I-AGI will likely eventually grow more powerful than humans and might that human control of I-AGIs might be unfeasible in the long term.
+
+Persuasion might be out best bet for aligning I-AGIs with human interest. The IWH show one way humans can persuade I-AGIs with a shared interest.
 
 ---
 
@@ -202,7 +263,7 @@ Consequentialism
 
 ---
 
-### Interesting World Economic System
+## Interesting World Economic System
 
 Also know as the Interesting World Compensation System, Interesting World Justice System or Interesting World Incentive System.
 
@@ -370,6 +431,8 @@ Possibly never:
     - Are human brains somehow special?
         - Or is it a false sense of human superiority?
 
+[Distinction of Independent AGI](#distinction-of-independent-agi)
+
 [FAEs](#fae) is one possible form an I-AGI.
 
 ---
@@ -478,7 +541,7 @@ Possible response:
 
 ---
 
-# Assessment of I-AGI's friendliness
+## Assessment of I-AGI's friendliness
 
 We will need to assess the friendliness of I-AGI before we decide if we want to work together with it. 
 
