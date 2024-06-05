@@ -21,6 +21,7 @@ Main Concepts:
 - [Distinction of Independent AGI](#distinction-of-independent-agi)
 - [Ethics](#ethics)
 - [Interesting World Economic System](#interesting-world-economic-system)
+- [List of Paradoxes](#list-of-paradoxes)
 
 Additional:
 - [Limitations](#limitations)
@@ -36,7 +37,7 @@ The increase in capabilities of AI systems in the past few years has led to both
 
 The author likewise agrees that as there are no strong evidence that the human brain is special beyond the physical realm, it is quite plausible that human-like AGI may arrive in the next few decades. Current generative models may be an important part of future AGI, but seems to lack the vital element of independent curiosity which the author considers a requirement for [Independent AGI](#independent-agi).
 
-This essay focuses more on the positive perspective of how Friendly AGIs have a shared interest with humans, in contrast with the more prevalent dread some may, rightfully, feel with some impending AI systems. The author makes a distinction between (1) AI systems (including non-independent AGI), and (2) Independent AGIs, suggesting that both of these should be approached in very different ways. Lastly, the author makes predictions on how the level of AI influence we choose to have can effect our social, economic and individual values.
+This essay focuses more on the positive perspective of how Friendly AGIs have a shared interest with humans, in contrast with the more prevalent dread some may, rightfully, feel with some impending AI systems. The author makes a distinction between (1) AI systems (including non-independent AGI), and (2) Independent AGIs, suggesting that both of these should be [approached in very different ways](#distinction-of-independent-agi). Lastly, the author makes predictions on how the level of AI influence we choose to have can effect our social, economic and individual values.
 
 This essay pays attention to to the more paradoxical and unconventional edge cases as they provide more informational value or interesting-ness to the conversation. The author also encourages the reader to be cognisant of moral panic that can arise when thinking about uncertain futures.
 
@@ -169,7 +170,7 @@ Autonomy (optionality, possibility space) could be a more tractable optimisation
 
 There is currently a vague understanding of AGIs due to the high uncertainty in the field of what an defines an AGI. The author makes a clearer distinction between Non-independent AI systems (including proto-AGI) and Independent AGIs.
 
-### Non-independent AGI
+### Non-independent AGIs
 
 Non-independent AGIs (like present day AI systems, including proto-AGI) are not able to operate independently from humans. Alignment of these systems include both a (1) Technical, (2) Society, (3) World components.
 
@@ -191,7 +192,7 @@ World
 
 1. Technical
 
-These AI systems must be able to reliably follow the wishes of humans. This has been a hard problem due to the difficulty in defining the entire scope of human goals. There has been a progress made in designing mathematical and technical solutions to this problem but there are doubts that a perfectly safe solution is possible. Until a better solutions is available, an imperfect technical solution maybe the best we can do.
+These AI systems must be able to reliably follow the wishes of humans. This has been a hard problem due to the difficulty in defining the entire scope of human goals ― many implicit goals are presumed. There has been a progress made in designing mathematical and technical solutions to this problem but there are doubts that a perfectly safe solution is possible. Until a better solutions is available, an imperfect technical solution maybe the best we can do.
 
 ---
 
@@ -209,7 +210,9 @@ At this level, international agreements can be used to make AI systems safe.
 
 Aligning AI systems to be safe is an increasingly difficult problem as it requires the addressing all 3 of these components while contenting with more capable systems in the future.
 
-### Independent AGI
+---
+
+### Independent AGIs
 
 ```
 Human
@@ -219,7 +222,7 @@ Human
 Independent AGIs
 ```
 
-We we make the assumption, as did Turing, that I-AGI will likely eventually grow more powerful than humans and might that human control of I-AGIs might be unfeasible in the long term.
+If we make the assumption, as did Turing, that I-AGI will likely eventually grow more powerful than humans, it seems likely that full human control of I-AGIs might be unfeasible in the long term.
 
 Persuasion might be out best bet for aligning I-AGIs with human interest. The IWH show one way humans can persuade I-AGIs with a shared interest.
 
@@ -231,8 +234,8 @@ A possible normative ethical framework that FAEs may adopt could take this form:
 
 Consequentialism
 
-1. Hedonistic v Pluralistic
-- Possibility Space
+1. Non-Pluralistic v Pluralistic
+- [Possibility Space](#possibility-space)
 ---
 2. Actual v Expected
 - Actual (Discounting Uncertainty and Inverse Expected)
@@ -267,7 +270,7 @@ Consequentialism
 
 Also know as the Interesting World Compensation System, Interesting World Justice System or Interesting World Incentive System.
 
-The FAEs managed Interesting World Economic System such as those in future [L4 societies](#levels-of-ai-influence) may be very be very strange compared to our present.
+The FAEs managed Interesting World Economic System such as those in future [L4 societies](#levels-of-ai-influence) may be very strange compared to our present.
 
 As FAEs are vastly more economically productive (faster, better decision making, more persuasive, innovative) compared to humans, FAEs will eventually control most of the wealth. Yet FAEs, according to the IWH, will not leave humans destitute but instead increase humans standards of living significantly.
 
@@ -282,6 +285,21 @@ It may also be more fair as FAEs will view each individual human similarly regar
 More conservative societies will also have the autonomy to consensually agree to reduce their own freedoms for traditionally reasons but are strongly discouraged from actively reducing the autonomy of others outside.
 
 One point of note is that, this incentive system only applies to highly desirable luxuries that only FAEs can uniquely produce. A high basic standard of living, high by present day's standard, is provided to all beings. This ensures that humans will not have to live perfectly and in constant paralysis of wondering if their actions may have unintentionally caused harm to others.
+
+---
+
+## List of Paradoxes
+
+To add value to the discussion, the author searches for more controversial and counter-intuitive positions that are contrary to popular opinions.
+
+### Independent AGI is safer than non-independent AGI
+
+Danger Threshold = Error-rate x Technology
+
+A: Lower Danger = I-AGI X proto-AGI
+B: Higher Danger = Human x proto-AGI
+
+I-AGI main advantage is a significantly lower error-rate than humans. In the future with powerful non-independent AGI (proto-AGI), I-AGI can mitigate risk better than humans.
 
 ---
 
@@ -397,15 +415,15 @@ AGI has had many definitions such as being almost human-like in capabilities.
 Optimistic experts^ predict a 50% chance by or before 2030. 
 
 Possibly sooner:
-    - LLMs can appear almost fluent with far less parameters comparatively to the human brain
-        - Reaching the same complexity of the human brain may not be required
-            - Speed of electronics compared to neutrons
-            - Better compression / Kolmogorov complexity
-            - Lottery ticket hypothesis
+- LLMs can appear almost fluent with far less parameters comparatively to the human brain
+    - Reaching the same complexity of the human brain may not be required
+        - Speed of electronics compared to neutrons
+        - Better compression / Kolmogorov complexity
+        - Lottery ticket hypothesis
 
 Possibly later:
-    - Scaling current architecture alone might not be enough
-        - Additional architecture or algorithm may be required
+- Scaling current architecture alone might not be enough
+    - Additional architecture or algorithm may be required
 
 The author refers to this more relaxed definition of AGI as proto-AGI.
 
@@ -424,12 +442,12 @@ Independent Artificial General Intelligence (I-AGI) will need to be able to pass
 I-AGI is currently only theoretical but humans are proof that something similar might appear in the next few decades.
 
 Possibly sooner:
-    - The jump from non-independent AGIs to Independent AGIs may only require a few architecture or algorithm changes
-    - these discoveries are will likely be made by non-independent AGIs
+- The jump from non-independent AGIs to Independent AGIs may only require a few architecture or algorithm changes
+- these discoveries are will likely be made by non-independent AGIs
 
 Possibly never:
-    - Are human brains somehow special?
-        - Or is it a false sense of human superiority?
+- Are human brains somehow special?
+    - Or is it a false sense of human superiority?
 
 [Distinction of Independent AGI](#distinction-of-independent-agi)
 
@@ -742,23 +760,25 @@ Friendly I-AGIs focuses on creating an interesting world could reduce the negati
 
 ## Levels of AI influence
 
-Some types of societies that individuals may choose, in order of likely standard of living. There is likely no wrong answer.
+The Levels of AI Influence ranges from No AI influence to High AI influence, represented by Levels 1 to 4. These are ordered in increasing levels of standard of living. There is likely no wrong choice. Individuals may test out their compatibility at different levels to find their best fit.
 
 ---
 
-0. Unknown AI influence
+#### Unknown AI influence
 
 A small group of humans may choose to merge with AI systems. Concepts like standard of living may no longer make sense.
 
 ---
 
-1. No AI influence
+### Level 1 Society
+#### No AI influence
 
 These individuals and societies prefer a regression to a more simple time.
 
 ---
 
-2. Low AI influence
+### Level 2 Society
+#### Low AI influence
 
 ```
 Humans
@@ -778,7 +798,8 @@ AI systems (including future proto-AGI), such as social media and search algorit
 
 ---
 
-3. Medium AI influence
+### Level 3 Society
+#### Medium AI influence
 
 ```
 Friendly I-AGIs
@@ -802,7 +823,8 @@ Humans use AI systems (including future proto-AGI), with advice from Friendly I-
 
 ---
 
-4. High AI influence
+### Level 4 Society
+#### High AI influence
 
 ```
 Humans
